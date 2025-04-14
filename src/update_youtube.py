@@ -27,7 +27,7 @@ readme_file = os.path.join(base_dir, 'README.md')
 csv_file = os.path.join(base_dir, 'src/video_list.csv')
 
 # === 設定頻道網址 ===
-channel_url = 'https://www.youtube.com/@Drberg/videos'
+channel_url = 'https://www.youtube.com/@bestpartners/videos'
 
 # === 載入環境變數 ===
 load_result = load_dotenv()
@@ -37,7 +37,7 @@ sender_email = os.getenv('SENDER_EMAIL')
 sender_password= os.getenv('SENDER_PASSWORD')
 # logger.info(f"email={sender_email}, password={sender_password}")
 
-receiver_emails = ["jack.wu0205@gmail.com", "mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
+receiver_emails = ["mingshing.su@gmail.com", "sibuzu.ai@gmail.com"]
 # receiver_emails = ["sibuzu.ai@gmail.com"]
 
 def update_list():
@@ -290,7 +290,7 @@ def make_doc(filename: str, video_list: list):
         logger.error(f"製作文件失敗 {filename}: {str(e)}")
 
 def create_readme_doc(max_idx, latest_date):
-    content = f"""# Dr. Eric Berg DC ({latest_date})
+    content = f"""# 最佳拍档 ({latest_date})
 
 ---
 
@@ -406,8 +406,8 @@ def email_notify(new_df):
                 for receiver in receiver_emails:
                     # 為每個收件者建立新的郵件物件
                     msg = MIMEMultipart('alternative')
-                    msg['Subject'] = f"Dr. Eric Berg: {video['title']}"
-                    msg['From'] = f"Dr. Eric Berg <{sender_email}>"
+                    msg['Subject'] = f"最佳拍档: {video['title']}"
+                    msg['From'] = f"最佳拍档 <{sender_email}>"
                     msg['To'] = receiver
                     msg.attach(MIMEText(html_template, 'html'))
                     
