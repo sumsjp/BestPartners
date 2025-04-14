@@ -1,0 +1,335 @@
+大家好，这里是最佳拍档，我是大飞
+这两天大家有眼福了
+顶尖AI产品的对决将集中上演
+今天早上凌晨1点
+OpenAI抢在谷歌的年度开发者大会Google I/O之前
+举办了春季线上直播
+宣布将推出桌面版ChatGPT
+并且发布了全新的旗舰AI模型GPT-4o
+简直就是对着Google怼脸开大
+值得一提的是
+这次春季发布的主讲人不是Sam Altman
+而是OpenAI的CTO Mira Murati
+会上发布的GPT-4o不仅向所有人免费开放
+还可以实时跨文本、音频、视觉（图像与视频）进行推理
+API定价只有GPT-4 Turbo的一半
+速度却达到GPT-4 Turbo的2倍
+付费的ChatGPT Plus用户将获得5倍调用额度
+并且能最早体验到全新的macOS桌面App
+以及下一代的语音及视频功能
+升级后的ChatGPT不仅反应快、回答准
+它还能按要求改变说话语气
+从冰冷机械到幽默娇羞都信手拈来
+而且能随时高歌一曲
+听起来与真人无异
+实时语音的翻译能力也非常自然流畅
+感觉可以直接取代同声传译了
+除了语音聊天以外
+GPT-4o还可以进行实时的视频交互
+比如通过视频影像理解线性方程
+还学会了“看脸色行事”，
+能通过人的表情和语调理解并判断出人的情绪
+更有甚者
+它能够直接根据你电脑屏幕上的内容
+来回答你的提问
+比如当你展示一段代码
+它会进行理解并告诉你代码有什么问题
+或者解读数据图表有什么信息
+整个发布会节奏极快
+只有大约半个小时
+期间还展示了很多苹果设备
+看来OpenAI与苹果的密切合作
+已经几乎是板上钉钉了
+新的功能对于免费和付费用户都将开放
+目前的测试阶段仅限于ChatGPT Plus用户
+未来几周内向更广泛的用户开放
+其文本和图像输入今日推出
+语音和视频功能将在未来几周推出
+接下来
+我们来介绍一下GPT-4o的详细能力
+GPT-4o的o，代表着omni
+也就是全能的意思
+Murati称
+GPT-4o为每个用户都提供了GPT-4级别的智能
+同时还改进了GPT-4在文本、视觉以及音频方面的能力
+之前我们都已经知道
+GPT-4经过图像、文本数据的训练
+可以分析图像和文本
+从中提取文本或者描述画面内容等等
+在这个的基础上
+GPT-4o又增加了语音功能
+使得用户与ChatGPT的交互更加接近于人与人的交互体验
+虽然GPT-4o在英语文本和代码上的性能
+与GPT-4 Turbo的性能相当
+但是在非英语文本上的性能有显著得提高
+Murati说，GPT-4o的发布
+意味着OpenAI在大模型的易用性方面迈出了一大步
+正在改变人机交互的协作模式
+在人们的互动中
+比如轻松打断对方、对话中包含多个声音的背景噪音、理解语调等等需求
+对模型而言都是非常复杂的
+以前
+用户使用语音功能与ChatGPT对话的时候
+GPT-3.5的平均延迟为2.8秒
+GPT-4为5.4秒
+这是因为语音功能是由三个独立模型组成的Pipeline
+一个简单模型将音频转录为文本
+然后GPT-3.5或者GPT-4接收文本并输出文本
+第三个简单模型将文本再转换回音频
+在这个过程中
+GPT-4会丢失大量的信息
+比如无法直接观察音调、多个说话者或者背景噪音
+也无法输出笑声、歌唱或表达情感等
+而借助GPT-4o
+OpenAI这次通过跨文本、视觉和音频
+端到端的训练了新模型
+使得所有输入和输出都由同一神经网络处理
+进一步降低了延迟
+在现场
+OpenAI前沿研究主管Mark Chen和后期训练团队负责人巴雷特·佐夫Barret Zoph
+演示了实时语音对话的功能
+通过点击ChatGPT右下角的小图标
+用户可以进入到语音交互模式
+基于GPT-4o的语音交互
+与之前的语音模式相比
+有几个关键区别
+首先，用户可以打断模型
+不必等到它结束才开始说话；
+其次，模型具有实时响应的能力
+在用户等待模型给出响应之前
+不会有尴尬的时延；
+最后，模型具有情绪感知能力
+还能够生成各种不同情绪风格的语音
+比方说，首先
+Chen让ChatGPT讲了一个关于机器人和爱情的睡前故事
+来帮助他的朋友缓解失眠
+ChatGPT被要求在讲故事时更有感情
+并且多一些戏剧性
+于是，GPT-4o开始声情并茂地讲故事
+过程中GPT-4o又被多次打断
+要求调整情绪，最后
+GPT-4o在要求下以歌声结束了这个故事
+hey chat GPT how are you doing
+I'm doing fantastic thanks for asking
+how about you
+pretty good what's up
+so my friend
+Barrett here he's been having trouble sleeping lately
+and I want you to tell him a bedtime story about
+robots and love
+oh a bedtime story about robots and love
+I got you covered
+gather round Barrett
+once upon a time in a world not too different from ours
+there was a robot named Byte
+Byte was a curious robot
+always explored
+I started this story
+but I want a little bit more emotion in your voice
+a little bit more drama
+got it let's add some drama
+once upon a time
+in a world not too different from ours
+there was a robot named
+no txpt I really want maximal emotion
+like maximal expressiveness
+much more than you were doing before
+understood let's amplify the drama
+once upon a time
+in a world not too different from ours
+there was a robot named Byte
+Byte we do this in a robotic voice now
+initiating dramatic robotic voice
+once upon a time in a world not too different from ours
+there was a robot named Byte
+Byte was a curious robot always exploring new circuits
+yeah Barrett here come down a little bit
+can you end the story
+but do it in a singing voice
+and so bite found another robot friend
+and they lived circuitly ever after
+thank you so much
+I definitely feel a lot more relaxed
+紧接着
+佐夫展示了视觉加语音的交互功能
+当Zoph在视频镜头下
+写下了一个方程式并问ChatGPT他写下了什么
+ChatGPT回答
+我看到了，你写了3x+1=4
+随后
+佐夫询问ChatGPT帮助解出这道题
+但是不要直接给出答案
+ChatGPT首先提示他先处理“+1”这一项
+随着Zoph写出过程并提出新的求助
+ChatGPT进一步建议他两边除以三
+从而帮Zoph得出了x=1的正确结果
+在解题过程中
+ChatGPT会通过提问对Zoph进行循循善诱
+比如它会这样引导
+现在你在一边引入了x
+看起来像是3x等于3
+你认为之后我们应该做些什么？
+佐夫称自己不确定
+ChatGPT才进一步提示
+你已经有了3x，而你想要找到x的值
+想一下什么操作会消掉乘法
+于是在引导和鼓励下
+佐夫最终把方程两边除以3完成解题
+解完题后
+ChatGPT和佐夫一起总结了如何在现实世界中使用线性方程
+最后
+佐夫写下了一句表白的话给ChatGPT
+ChatGPT看到后竟然像小女孩一般
+语气娇羞地尖叫起来
+不得不说，情绪价值拉满
+one last thing I love if you could take a look at
+of course I'd love to see what you wrote
+show it to me whenever you're ready
+okay so this is what I wrote down
+what do you see
+ah I see I love chatGPT that's so sweet of you
+yeah well I really appreciate all the help
+接下来
+佐夫又演示了ChatGPT分析代码的能力
+他首先将一段Python代码输入ChatGPT
+并让ChatGPT用一句话总结这段代码在做什么
+ChatGPT迅速回答出
+这段代码是用来获取日常天气数据的
+随后又详细说明了它对天气数据进行了哪些后续处理
+佐夫追问道，代码中有一个函数foo
+你能描述一下如果没有这个函数
+代码画出的图像会是什么样吗？
+ChatGPT分析道
+这个函数中有一个rolling
+mean计算
+用来给数据去噪或者减少波动
+将呈现出一个更平滑的数据图
+随后，佐夫运行了这段代码
+展示了ChatGPT分析图表的能力
+然后佐夫再次要求ChatGPT描述图像中的内容
+ChatGPT也很快给出了回答
+Chen又追问哪些月份温度最高
+ChatGPT不仅准确给出了7、8月的时间区间
+还描述了这段时间的最高温度达到了多少
+在网友的提议下
+Murati和Chen还一起演示了ChatGPT实时翻译的能力
+Chen首先向ChatGPT说明了
+接下来需要它把英语和意大利语进行互相翻译
+ChatGPT听完后
+仿佛炫技一般地用意大利语回答
+接着
+他们通过意大利语和英语进行对话
+ChatGPT几乎没有延迟地翻译成了对应的语言
+还模仿了说话者的语气
+甚至给Murati的回答配了个笑声
+hey ChatGPT how are you
+I'm doing fantastic thanks for asking
+how about you
+how's your day going I'm doing great
+so I would like you to function as a translator
+I have a friend here who only speaks Italian
+and I only speak English
+and every time you hear English
+I want you to translate it to Italian
+and if you hear Italian
+I want you to translate it back to English is that good
+Mike Yumiquierdo
+celibalene protessero padlare kozachi de rebeto
+Mike she wonders if whales could talk
+what would they tell us
+they might ask how do we solve the new equations
+quatre brocchia derci
+kome risso biamole equatzioni limiari
+certainly yes great
+looks like it works
+最后
+佐夫演示了ChatGPT识别人物情绪的能力
+他首先通过语音告诉ChatGPT
+自己将展示一张自拍
+希望可以根据照片判断出他的情绪
+ChatGPT欣然接受了这个“有趣的挑战”。
+这里还出现了一个小乌龙
+佐夫一开始打开的是后置摄像头
+虽然他迅速转换成了前置摄像头开始自拍
+但是ChatGPT的反应似乎有几秒钟的延迟
+说这看起来像是一个木板的表面
+在佐夫解释说刚才拍错了画面后
+ChatGPT重新开始分析画面
+并说，你看起来非常的开心
+可能还有一点激动
+看样子你应该心情很不错
+ChatGPT又问佐夫这么开心的原因
+佐夫半开玩笑地说
+自己正在进行一场Presentation
+展示你有多不可思议
+ChatGPT仿佛有自己的情绪一般
+语气夸张地说道
+快别说了，你让我感到害羞
+oh stop it you're making me bluff
+在所有演示结束后，Murati还透露
+OpenAI不久后将发布“下一件大事”。
+根据OpenAI研究人员威廉·费杜斯William Fedus透露
+GPT-4o实际上就是前段时间在大模型竞技场“大杀四方”的GPT-2模型的另一版本
+并且附上模型的竞技评分对比图
+相比GPT-4 Turbo提升了超过100个单位
+在推理能力方面
+GPT-4o在MMLU、GPQA、MATH、HumanEval等测试基准上
+均超越GPT-4 Turbo、Claude 3 Opus、Gemini Pro 1.5等前沿模型
+取得了最高分
+在智能语音识别性能方面
+GPT-4o相比Whisper-v3
+在所有语言的语音识别性能上均大幅提高
+尤其是资源较少的语言
+在音频翻译方面
+GPT-4o也树立了新的标杆
+在MLS基准测试中优于Whisper-v3以及Meta、谷歌的语音模型
+此外，GPT-4o还开放了API
+开发人员可以基于此进行AI应用开发及部署
+与GPT-4-Turbo相比
+GPT-4o的速度快2倍
+价格便宜50%，速率限制高达5倍
+此外，从OpenAI发布的技术文档来看
+这次GPT-4o在图文能力上也提升了很多
+比如你可以让它帮忙把OpenAI的logo印到杯垫上
+或者生成3D旋转的文字
+还可以把一首诗排版为手写样式
+或者是更复杂的排版样式
+甚至只需要输入几段文字
+就能得到一组连续的漫画分镜
+以及通过两张生活照来生成风格化的海报
+等等
+除了GPT-4o以外
+Murati在发布会上还宣布
+OpenAI将推出桌面版的ChatGPT
+同时更新了用户界面
+让用户与ChatGPT交互更加容易、自然
+而且从今天起
+用户还能够免费使用GPTs和GPT Store
+可以使用视觉能力
+能够上传屏幕截图、照片、包含文本和图像的文章等
+同时还可以基于其记忆能力
+让对话更有连续性
+OpenAI还改进了50种不同语言的质量和速度
+与免费用户相比
+付费用户将获得5倍调用额度
+看完整个发布会
+大飞我觉得有几点感觉吧
+一个是这次GPT-4o
+应该是又要干死一大波创业公司了
+另一个是虽然演示的产品功能很惊艳
+但是并没有看到突破性的技术进展
+可能要等Murati说的next big thing了
+无论如何
+现在压力已经给到了Google这边了
+今年2月份
+谷歌刚推出实现百万token长度的Gemini 1.5系列大模型
+OpenAI就剑走偏锋
+推出了AI视频生成模型Sora
+抢尽了Google的风头
+如今OpenAI再度宣战
+赶在谷歌I/O大会前夕宣告GPT-4o
+不知道Google在这一天时间里又该如何应对呢？
+答案或许将在明天凌晨揭晓
+让我们拭目以待
+感谢大家观看本期视频
+我们下期再见
