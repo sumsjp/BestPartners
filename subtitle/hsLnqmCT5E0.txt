@@ -1,0 +1,153 @@
+Hello everyone, this is the best partner. I am Xiao Guo. I
+believe everyone knows that Microsoft’s Copilot
+may have been used by some friends , but
+I guess there are also friends like me who have not caught up with the car
+. Now I want to use it but find that it has been charged.
+Now a new user You can only try it for free for one month
+, but recently discovered a new product from Amazon
+called Code Whisperer
+, which is similar to Copilot and is an AI programming assistant
+. It is a general
+machine learning-based code generator that can also
+provide code suggestions in real time when you write
+Code Whisperer will automatically
+generate targeted suggestions based on existing code and comments. This suggestion
+can
+be a single-line code block function
+or even a comment
+. It can also scan your code for security issues.
+The most important thing is that individuals can use Code
+for free Whisperer supports 15 programming languages
+, including commonly used Python, Java and Javascript
+. It can be integrated into your commonly used IDE in the form of plug-ins
+, including JetBrains Family Bucket and VSCode. It also supports
+Jupiter Lab and Amazon's Sage maker Studio.
+Next, let's take a look at how Using VS Code is basically similar to
+other IDEs. You can try it yourself
+. First, open the plug-in management interface and search for aws.
+Select the plug-in named AWS ToolKit and
+install it. After installation, it will appear in the toolbar on the left
+. Click the AWS icon to open it.
+Find Code Whisperer in the Developer Tools below
+and click Start. It will pop up the login method
+. Select the first one to register with your personal email address and log in with the builder ID.
+Then it will pop up a prompt
+asking you to copy a verification code and then open the webpage to continue processing
+. Let’s click this Copy Code and Proceed
+At this time, VS Code will confirm to you whether you want to open the external link.
+Here , choose Open
+and do not choose Copy below
+unless you have pasted the verification code you just copied to other places
+or you have a cutting tool
+, otherwise you have previously The copied verification code will be overwritten. After opening
+the web page
+, paste the copied verification code and click Next.
+It will be a bit slow here. Please wait patiently.
+Next, if you already have a Builder ID
+, you can click the white button below to proceed. Login
+Otherwise , you need to be a new registered user
+. Enter your email address here, click Next, enter your
+user name according to the prompts,
+click Next, and
+he will send a verification code to
+your email. Go to the email to find the verification code
+. Come back and continue to verify
+. Verification
+passed After entering the password according to
+the prompt, you can create an AWS Builder ID.
+Then he will ask you whether to allow the plug-in in VS Code to access your data
+. After confirming, you can see the prompt that the operation is successful.
+Then go back to VS Code and
+you can see the Code Whisperer is already working
+. Click this Pause Auto-Suggestions to make him pause the work
+. After clicking, it will change to Resume Auto-Suggestions.
+Click it again to resume working. In the status bar
+below ,
+the status of Code Whisperer will be added to the left. If
+the previous The icon is in the loading state
+, which means he is thinking
+. If it is a tick, it means he has finished thinking.
+When you use Code Whisperer
+, by default, he will share the code snippets when you use the suggestions,
+and use these data to improve his service quality
+. Of course this is It’s not mandatory.
+If you don’t want to share your code with AWS
+, you can disable it in the settings
+. After disabling, it will not affect Code Whisperer’s service for you
+. Click this gear to open Code Whisperer’s settings.
+Remove the previous selected state
+. Except for the code snippet just mentioned
+Code Whisperer also collects your behavioral data by default.
+For example, you accept a suggestion or reject a suggestion, etc.
+These are also collected to provide better services.
+If you don’t want to share, you can
+also search for aws:telemetry in the settings.
+Just remove the previous selected state
+. Let’s take a look at how to use
+Code Whisperer. It’s very simple to use.
+It ’s already embedded in the IDE
+. You can use it according to the usage habits of the IDE.
+You only need to write code normally
+and it will be timely. I will provide you with suggestions.
+If it is not triggered automatically, you
+can also use Option + c to trigger it manually.
+If you do not accept his suggestion
+, you can press ESC or continue to enter your own code.
+First, let’s create a TypeScript file
+and write some Notes such as generating UUID,
+you can see that the icon in front of Code Whisperer below has become a waiting state, and he will give suggestions
+after a while .
+When you point the mouse to the suggestion, a tool bar
+will be displayed
+through which you can switch between different suggestions
+and accept them. Suggest or accept word by word. When
+accepting the suggestion, he will fill in all the suggestions
+. Word by word (accept) means you click.
+He accepts a word or symbol and can be interrupted at any time
+. It can also be controlled by shortcut keys.
+Use the left and right arrows to switch the suggestion
+to accept the suggestion It is the Tab
+key to accept word by word is Command + Left Arrow
+. You can modify it according to your personal preferences in the shortcut key.
+In addition to giving suggestions based on comments
+, Code Whisperer can also generate function definitions based on function names
+. For example, calculateDaysBetweenTwoDates
+can be seen in its suggestions. The type of the parameter is included
+, but the return value is not set by ourselves
+. Let's add it to
+Code Whisperer. The code generated by the AI
+​​​​algorithm does not guarantee 100% accuracy
+, but we can try our best to get better results.
+Here are some points about how to get
+Suggestions for more
+accurate codes First , provide Code Whisperer with more
+codes. The more codes, the more accurate the contextual information he gets, and
+the more accurate the suggestions he gives
+. Second, provide accurate comments
+. For example, "upload files to S3"
+is better than "upload The result of "file" is better.
+Third, import the library you want to use in advance
+. This can prevent Code Whisperer from using other library files
+or the library file you want to use is not your default option
+. Fourth, use more accurate function naming
+, such as the example
+uploadFileToS3 just now It is better than uploadFile.
+Fifth , split complex tasks into multiple simple tasks
+. Code Whisperer can help us complete those tedious code generation
+and those functions that need to be checked online every time we use it
+. Before asking chatGPT, we had to do it ourselves. Paste it back
+Now it’s ready and I’ll generate it for you directly into the code
+. Recently, some people have been saying that Copilot is too good,
+ChatGPT is too good, and programmers are going to be laid off
+, but anyone who has really used it knows that
+it is far from being able to replace a programmer’s
+job . There is a long, long distance.
+As for the recent large-scale layoffs
+, I feel that it is more affected by the economic situation , so
+there is no need for you to worry too much about
+Copata, ChatGPT, including the Code Whisperer mentioned today.
+They are all
+tools for our use. It's like
+a robot that slices noodles in a noodle shop. Do you think he can cook instead of the chef?
+Well , that's all the content I want to share today
+. See you in the next issue
