@@ -1,0 +1,197 @@
+Hello everyone,
+this is the best partner
+. I'm Da Fei.
+Recently
+, at a virtual meeting of the American Association for Computing Machinery, or ACM, Matt Welsh,
+a former Harvard computer professor and
+director of engineering at Google , said that
+ChatGPT and Github Copilot
+herald the end of programming.
+He asserted that generative AI will end programming within 3 years
+. Wales believes that
+due to the emergence of technologies such as ChatGPT and Copilot
+, programming is at this turning point from working for humans to working for
+robots . In his view,
+programmers
+need to evolve into AI programs. Teacher, this
+teacher can be a product manager or a code reviewer,
+that is, a white-box static tester
+. He believes that these two human roles are
+relatively less affected by robots
+. Wales said at the meeting that you should not
+count on your career as a programmer.
+And it's going to go on and on
+because machines are taking over that role
+. Let's start off with a little background on this Welsh
+guy who
+worked as a senior engineer at Google and Apple.
+He
+also wrote about this in the January 2023 issue of the ACM Newsletter.
+An article on this topic is called
+"The End of Programming and the End of Classical Computer Science is Coming."
+In addition,
+this Welsh has also established a startup company
+to demonstrate his theory. For the full video link of
+Welsh ,
+you can refer to the card link on the upper right
+, probably .
+It took more than an hour to make a summary of his speech
+. His first point is that writing code is dirty work
+, so
+let AI do it. First of all, with
+the continued popularity of AI products such as
+this Github Copilot
+ChatGPT
+In fact, AI has demonstrated a very strong ability in programming. In
+a research report of University College London and University of Mainz, Germany, ChatGPT
+was once asked to find bugs in the sample code
+and try to give repair suggestions.
+Its performance was amazing and it was successfully repaired . 31 out of 40 bugs
+, so from Wales' point of view,
+writing code is a dirty job
+, so you let the robots do it, right?
+Let your time do something else.
+For everyone
+, he thinks
+Writing programs is
+not necessarily the best way to use time
+. Wales said that
+Copilot is an incredible product
+. When he is programming
+, this Copilot can often
+help him complete his ideas
+very well, and even read his ideas.
+There are many more than he imagined , so
+he thinks that
+Copilot has greatly improved work efficiency
+because he has avoided a lot of context switching
+, but he thinks
+that Copilot is just the beginning, and Copilot will be able to
+do so in the next one to two years or three years. Do it
+so that you only need to
+enter a few lines of code at the beginning of the source file of the program
+, and then
+it will
+generate all the rest. He
+thinks that there are only two things
+that will prevent Copilot from getting better and better
+. One is the lack of Less and more data,
+one is the lack of more calculations
+, but we all know that
+these two things are actually not lacking,
+so
+there is no reason why Copilot cannot achieve this goal,
+that is, he believes that this goal will definitely be achieved.
+Wales also believes that
+computer science It is doomed to fail. He
+believes that this field
+will undergo some fundamental changes
+.
+What is the significance of computer science as a discipline? What
+he has been solving
+is how to turn ideas into programs. He believes that in Over the past 60 years,
+computer programming has been continuously developed
+, trying to make it easier for people to understand the code,
+but he compared the Fortran language in 1957 with the Basic language in 1964
+and the Rust language in 2010. He said that the ease of use As far as
+these three programming languages ​​are concerned,
+there is actually not much difference between the programming languages
+, and he feels that the
+programs that people develop now are as complex
+, as difficult to maintain
+, as difficult to understand
+, and as full of bugs
+as they were before
+. But Github Copilot allows Wales
+to fundamentally re-
+Let’s think about the significance of
+computer science
+. He believes that Copilot has fundamentally
+changed
+the way we write code
+. At least from his personal experience,
+it is a significant and profound
+way to speed up development.
+The second
+point of view
+is that he talked about Let’s talk about what he
+thinks the future software development team
+will look like
+, and Wales also
+made some interesting predictions about the future software development team.
+Basically, he believes that
+when programmers start to be eliminated
+, only two roles can be retained.
+One is a product manager
+and the other is a code reviewer
+. From Welsh's point of view, the role of
+the product manager will not change much
+, because human product managers can
+still write the textual description
+that tells the software what to do
+,
+that is, the product. The requirements document
+we refer to as PRD for short, and
+this thing is
+actually
+the product
+manager is already doing it now
+,
+right ? The requirements are realized, Wales
+said that you only need to throw the PRD to the AI
+, and the AI ​​can generate all the codes in a few seconds.
+Of course , this kind of generative AI
+will have a disadvantage in the early stage,
+that is, its output is
+not It must be correct,
+so
+Wells thinks that human code reviewers
+, so-called static testers
+, can play a very important role in this regard
+, that is, how do we know whether the code is valid,
+how do we know whether the code is good code,
+right
+or How do we know it's right
+so we need to test thoroughly
+so testing is very, very important and this
+is something that's not going away
+and all the CI/CD stuff
+and
+everything that software engineering has built up over the last few decades stuff is still valid
+in testing this , he thinks Why, this person with programming
+ability is what we usually call a programmer now.
+In the future,
+he will be
+mainly responsible for reviewing and reading
+the code generated by AI , and
+ensuring that they can run normally and do the right thing.
+He is mainly responsible for doing such things.
+Things , so
+for programmers
+, in the future, programmers should become AI teachers
+instead of being a programmer
+and typing codes there every day,
+so you should teach AI how to write codes
+instead of writing them yourself. The
+above
+is this Wales
+Some general points of view , let me say a little more about my thoughts.
+As an old programmer who has been in software development
+and technical management for more than ten years,
+I actually realized this industry very early.
+It’s an industry that kills itself. Although
+I don’t agree
+that programmers may be replaced within 3 years as Wales said,
+but this is a matter of time
+. At least most of the jobs can be replaced by AI
+. So
+now I am I also switched to Youtube to make this kind of content
+, but now this AIGC is developing too fast. I don’t know if
+content production will
+be replaced by this AIGC in the future.
+We can only wait and see
+. Well,
+today ’s sharing is here
+. Interested Friends
+welcome to follow our channel
+and see you next time

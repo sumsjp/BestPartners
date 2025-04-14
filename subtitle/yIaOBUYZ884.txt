@@ -1,0 +1,223 @@
+Hello everyone,
+this is the best partner
+. I am Dafei. On
+November 30, 2022,
+OpenAI released ChatGPT
+, a natural language processing
+tool driven by a large language model. Dialogue
+, you can even write emails
+, video scripts, codes
+, papers, novels, etc.
+Due to its excellent performance among peers,
+ChatGPT has been launched for just over 2 months, and
+it has detonated the world
+. In addition to paying attention to the performance of ChatGPT itself,
+in fact, people in the industry
+pay more attention to this . The members of the AI ​​​​dream team
+, what abilities do they have
+that allows them to
+be
+so unique in the field of large-scale language model innovation technology in the world
+? According to the official website of Open AI
+, there are a total of 87 people who have contributed to the ChatGPT project.
+Recently ,
+Zhipu Research and AMiner
+jointly released a report
+, the "ChatGPT Team Background Research Report"
+, which conducts statistical analysis on various aspects of the team members.
+Our content today is mainly derived from this report
+. From the position division of the ChatGPT team
+, there are a total of
+77 R&D personnel. 88%
+of them include a co-founder of the company
+, namely Wojciech Zaremba. He was also selected as
+the most influential scholar in the AI ​​2000 robotics field in 2023.
+A total of 4 product personnel accounted for 5%
+and 6 other positions Information cannot be obtained. Judging
+from the composition of members’ positions
+, the team is not equipped with functional personnel other than
+technology
+and products
+, such as public relations
+and marketing personnel
+, but is highly focused on technology research and development
+. It can be seen that
+in the era of digital communication,
+an artificial intelligence product only needs to perform well
+enough .
+There are 28 members aged
+20-29 in
+the ChatGPT team, accounting for 34% of all members
+, and
+a total of 50 people aged 30-39. People accounted for 61%,
+only 3 people were 40-49 years old,
+no members were 50-59 years old, and 1 person was over 60 years old.
+After
+calculation
+, the average age of the team is 32 years old.
+It can be seen that
+the post-90s generation is the main force of this team. Army
+They have led this wave of big language
+and large model technology innovation, which
+shows that
+young people who are often considered to be inexperienced in R&D are entirely possible
+to make major breakthroughs in cutting-edge technology fields.
+In the ChatGPT team
+, 27 people have a bachelor's degree
+and 25 people are masters.
+28 people with postgraduate degrees
+have doctoral degrees,
+accounting for 33%
+, 30% and 37% respectively
+. As the world's top artificial intelligence R&D team
+,
+the academic qualifications of its members are not all postgraduate degrees
+, but the number of graduates from ChatGPT team members is relatively balanced.
+In terms of distribution,
+Stanford University has the most alumni
+with a total of 14 people.
+The fourth is the University of California, Berkeley
+with a total of 10 people
+. The third is the Massachusetts Institute of Technology
+with a total of 7 people.
+China’s Tsinghua University and Carnegie Mellon University
+are tied for seventh place
+with 3 people each
+. Others There is no lack of graduate schools from top universities in the world
+, such as Oxford University
+, University of Tokyo,
+Cornell University
+, University of California, Santa Barbara, etc. Generally speaking,
+most of ChatGPT’s team members have
+degrees from top or well-known universities in the world
+, and their graduate schools are relatively scattered
+The top three colleges and universities only account for 37% of the total number of people.
+In the ChatGBT team ,
+6 people have graduated from Chinese universities
+, 3 of whom graduated from Tsinghua University,
+and 1 of them graduated from Huazhong University of Science and Technology,
+Peking University
+, and 1 of Hong Kong University. Graduated from Taiwan Chiao Tung University
+ChatGPT team members
+mainly come from external companies
+, fresh graduates from colleges and universities,
+scientific research institutions and university faculty members
+. Among them, the external company with the largest number of sources is
+Google . A total of 10 people jumped to join
+, and the source of external companies with more than 2 people
+also There are well-known technology companies
+such as
+Facebook, Stripe
+, Uber , Quora, Nvidia
+, Microsoft, Dropbox,
+and DeepMind. As fresh graduates
+, a total of 11 people joined the ChatGPT team directly,
+of which 5 are from the University of California, Berkeley
+, and 3 are from Stanford University, Massachusetts Institute
+of Technology
+, Carnegie Mellon University and 1 person from Harvard University.
+It can be seen that in the ChatGPT team
+, whether they come from other companies
+or join as fresh graduates
+, their backgrounds are quite luxurious.
+Another ChatGPT researcher was a researcher
+at Baidu American Research Institute from 2015 to 2019. In
+2019 After resigning from Baidu,
+he joined Openai as a researcher.
+So far,
+the ChatGPT team has left 4 employees, with a
+turnover rate of 4.6%
+. Even after resigning from the ChatGPT team , they did not go
+to the big factory imagined by the outside world. The ChatGPT team of
+the company or
+institution
+has a total of
+9 Chinese, 5 of whom are undergraduates studying in inland Chinese universities
+, 3 of them have completed their university education experience in American universities, and
+1 has incomplete information.
+For the Chinese members who graduated from Chinese inland universities
+, they are all undergraduates.
+Studied in a top inland university in China
+, then went to the United States to obtain a master's or doctoral degree, and then joined
+an innovative company such as
+Dropbox OpenAI in the United States.
+ChatGPT is the result of OpenAI
+'s years of technology accumulation in the field of large-scale language models.
+There are cutting-edge key technology areas related to ChatGPT.
+RLHF, that is, Human Feedback Reinforcement Learning
+GPT1, GPT2, GPT3, codex,
+InstructGPT
+webGPT and other 7 items
+Statistics found that in
+the ChatGPT team, a total of 2 people participated in
+the research and development of 4 key technology projects.
+They are senior researcher Ouyang Long
+and R&D engineer Christopher Hei They are
+all experts in the field of machine learning
+. Chinese Ouyang Long is the first author of the Instruct GPT paper
+and the second author of the RLHF paper.
+It can be seen
+that he is the core personnel of these two key technology projects
+, and another 9 people participated in
+the project development of 3 of them.
+Therefore, the above 11 members are relatively important contributors
+to the ChatGPT project. Among the above seven major technology projects,
+the ChatGPT team Members
+The Codex project with the largest number of participants
+has a total of 22 participants, accounting for 25% of
+the total
+team members
+, followed by WebGPT and InstructGPT
+with a total of 9 participants. The
+third is GPT3
+with a total of 6 participants.
+The fourth is RLHF
+with a total of 3 participants
+. By This can be seen
+ChatGPT team members
+have deep technical accumulation
+in the field of generative pre-
+trained speech models, especially 1/4 of the team members have participated in
+the codeX project also based on GPT3,
+which
+laid a solid
+foundation
+for the successful development of ChatGPT in the future. Looking at
+the ChatGPT team from gender distribution
+There are 9 female members,
+accounting for only
+10% of the total
+, a total of 78 male members, accounting for 90%
+. It can be seen that males are the dominant
+members of the team, and the proportion of female members is relatively low. Among the
+9 female members, two are Chinese and have studied at Peking University.
+Analysis by Weng Lilian
+and Steph Lin found that
+the 9 female members
+all have educational experience in world-renowned schools
+. Besides
+Weng Lilian and Katarina Slama , the others are all born in the 90s. Prestigious
+schools
+and youth are obvious labels on them
+. In the ChatGPT team with less than 100 members
+There are 5 people
+who belong to the top scholars in various fields of artificial intelligence in the world
+, of which 2 are the co-founders of OpenAI and
+2 are rated as the most influential scholars in the field of robotics and
+machine
+learning
+. It can be seen that the leading role of technical top scholars
+in innovative teams Important. The report also
+puts forward the following suggestions for the development of domestic artificial intelligence and cutting-edge technologies.
+The first
+point is
+to pay attention to the cultivation of scientific and technological interests and beliefs, and to
+encourage
+outstanding young people
+to devote themselves
+to the wave of cutting-edge technological innovation.
+The third point is that overseas Chinese scholars
+are an important force in global technological innovation.
+Encourage the strengthening of foreign academic exchanges
+. Well, today’s sharing is here. Interested partners are welcome to subscribe to our channel
+. See you next time

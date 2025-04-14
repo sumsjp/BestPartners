@@ -1,0 +1,254 @@
+Hello everyone,
+this is the best partner
+. I’m Dafei. Two days
+ago , Microsoft and Google released
+the AI ​​versions of their office series products
+. They are office 365 Copilot
+and Google’s workspace AI.
+I believe everyone has seen the relevant
+video trailer yesterday .
+Well, Microsoft released some more detailed video content
+to demonstrate
+how office 365 Copilot is integrated into the applications that
+users use every day
+to help them maintain the smoothness of their work
+, freeing them from some complicated tasks
+and focusing on the task at hand.
+So let’s make a summary first.
+Copilot In Word
+can be used to write, edit,
+summarize and create documents
+, while Copilot In Powerpoint
+can convert users’ ideas into
+designed presentations
+through natural language commands, that is, PPT
+Copilot In Excel
+can help users operate and analyze Excel
+or
+create professional data visualization in a short period of time.
+Copilot In Outlook
+can help users integrate and manage emails in their
+inboxes
+, saving more time
+for actual communication
+. Copilot In Teams
+, it can directly
+extract real-time summaries and to-do items from the context of the conversation,
+improving the efficiency of the entire meeting. The
+new Business Chat
+brings
+together
+data from documents, tables, PPTs, emails, calendar notes, and even contacts.
+Help users summarize chat content,
+write emails , find some key dates
+, and even make plans based on other project files
+. Okay , let’s introduce each product in detail
+. The first is Copilot In Word
+, which can write with users,
+edit summary and Create a document It only
+needs you to give him a short prompt
+, for example,
+based on an existing document or spreadsheet
+, it can create a preliminary
+document draft for you
+and automatically insert other content
+, such as other documents
+or forms Add image data to the existing document
+, and then it can summarize the document,
+rewrite part or even the entire document
+, and even automatically generate FAQ
+based on
+this document
+. In addition, Copilot can also help users change the tone of the text
+you use. For example,
+if you want this text to appear more professional
+, warm and casual
+, or a text expressing gratitude , he can do it all, and even
+give some suggestions
+for you to strengthen a certain point of view
+in this document or It is to delete the content of these
+inconsistent
+views in the document.
+I think this function
+should
+greatly improve
+the efficiency of a large number of document work
+, such as secretaries, product managers, etc. , but in the end,
+I have to
+look at its Chinese language. What is the effect of using it in
+the Chinese environment?
+The second one is Cop ilot In Excel
+can not only help you
+complete an Excel data report
+, but you can even analyze
+and explore the data in Excel with it. For example, you can let Copilot help you
+modify and edit the data in Excel
+through dialogue
+For example,
+merging table columns or calculation
+formulas are already the most basic
+and pediatric functions.
+You can also ask Copilot
+related questions related to the data in this table
+, such as asking it to directly
+analyze the data in this table. The result
+or trend change
+Copilot can even automatically discover the correlation between
+data , propose some hypothetical solutions , and then
+help users generate new data models and related visual charts.
+I feel that
+a large number of so-called data analysts in this company will be laid off.
+The third one is Copilot In Powerpoint
+. You only need to tell Copilot your ideas,
+and it can help you generate a beautiful PPT.
+This idea can come from existing spreadsheet documents
+or meeting minutes
+, or even just a sentence
+. Then Copilot
+can
+generate relevant PPT based on the content you provide. Not only is the format of the generated PPT beautiful
+, but
+even the speaker prompts are also generated for you
+. Then you can
+make some adjustments to this PPT through dialogue
+, including it. The style layout, the text content
+inside
+, and even add some animation effects
+, and then Copilot can also summarize and refine
+a very lengthy PPT
+, such as a dozen or dozens of pages of PPT
+, to form a new simplified version of the PPT
+. I think This product
+should be regarded as a big killer
+because many
+people in domestic enterprises either don’t know how to do PPT,
+or they just do PPT every day
+for reports, demonstrations, etc.
+So I think
+this function should be the most practical in China. The
+fourth is Copilot In Outlook
+, which can turn your emails
+into your personal assistant
+. For example, after you come back from a vacation,
+come back and let Copilot summarize
+which emails you have missed and whether
+there are some important items
+. Mark these things Come out and wait.
+This Copilot can not only
+summarize relevant important
+information
+from a large number of lengthy and intricate email
+Threads, but also automatically analyze the content of these emails
+to understand what different opinions
+everyone has in the back and forth emails,
+and even which The question has not been answered
+yet, and then it will automatically generate some email replies for you
+, and at the same time, you can quote the content or data
+in other emails.
+Then you can adjust the tone of the text
+used in this reply
+or the length of the content
+. If you want the content of the reply to be longer or shorter, you can
+even
+ask this Copilot to send a meeting invitation for you
+and book
+this meeting in the form of a conversation Time
+, or even
+writing meeting content , I think, in fact,
+for domestic companies and individuals, is the frequency of
+using emails too
+high? There are too many spam emails , but
+for this foreign company
+or some foreign trade companies,
+I think it is very suitable.
+The fifth
+is Copilot In Teams
+, which can help users conduct more effective meetings,
+speed up conversations, and
+sort out key discussion points
+Even summarize the key actions for the next step
+in the chat.
+Copilot can answer some specific questions for you
+or remind you of what you missed
+, and all of
+these will not interrupt the entire discussion process
+. With the help of this Copilot
+You can create a meeting based
+on the chat history
+, then choose the right person to follow up
+, arrange the next meeting, etc.
+Specifically, for example,
+you can let Copilot help you summarize
+the opinions and differences in the meeting
+, and then based on this The content discussed in the meeting is
+to create a table for decision-making
+, and then after the meeting,
+summarize the decisions of these meetings
+and what are the suggested next actions.
+However , considering that
+the management method of many domestic companies
+is still very extensive,
+basically everyone likes it. Verbal way
+, so I think the effect of this function
+may be discounted in China. Besides,
+there are few domestic users using Teams
+, but I think products like WeChat
+and Dingding Feishu
+can learn from this function.
+The last one is Business Chat
+, which is built in Teams product
+feels like a hodgepodge
+. It is said that it can span all the data and applications of the user
+, allowing the user to do unprecedented things
+. For example, he can transfer all the data in your documents, forms, PPT,
+emails, calendars,
+notes , and even contacts
+. Collect
+all
+the information and data of all people in the team
+to improve
+the synchronization and understanding of the overall information within the team
+. For example
+, you can let it summarize the chats, emails or files related to product upgrades last night
+, or you I want to know what the next milestone of
+a certain
+project is
+and whether there are any risks.
+Then you ask this copilot to give some
+suggestions to solve these risks
+, or
+you can
+ask Copilot to write your own department’s OKR based on the OKRs of other departments
+Wait a minute,
+I think this function may
+be more dependent on the company’s corporate culture.
+If your company’s corporate culture
+is a relatively open culture
+, the effect may be good
+. But if your company’s interior
+itself is full of information barriers
+It’s huge, right ? Then
+I think the effect of this function
+may be discounted.
+Another question
+is that
+there may be an information storm. Is your company big
+? The amount of information and data in a day will be very large
+, so whether it is for computing resources I think both consumption
+and the effect of this product will have a certain impact
+, so
+we will first introduce the relevant functions of office 365 Copilot here
+, and then we
+will continue to share with you the detailed progress.
+Finally
+, I want to use this Microsoft global vice President Jared Spataro
+,
+head of the Microsoft 365 Global Business Unit, said at the opening of the press conference two days ago,
+as
+the end
+, we will look back at this moment 100 years later
+, that
+is the real digital age
+Well, that’s the
+end of today’s sharing . Interested friends,
+welcome to subscribe to my channel and see you next time

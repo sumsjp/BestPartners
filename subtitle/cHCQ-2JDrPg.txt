@@ -1,0 +1,262 @@
+Hello everyone,
+this is the best partner
+. I am Dafei. Recently
+, this large AI model has been pushed to the
+forefront because of GPT4.0 ChatGPT
+Wenxin Yiyan and
+other things.
+We have also made many programs
+to introduce related progress.
+Domestic There are also some big guys who have started to end
+, including Wang Huiwen, Zhang Chaoyang and Li Yanhong
+. They all started to say that they want to make AI large models
+. Just yesterday
+, Kai-fu Lee, the chairman and CEO of Innovation Factory
+, also announced in the circle of friends
+that he would personally form a Project AI 2.0 company
+to enter The original text of Lee
+Kai-fu in the field of large models is roughly as follows
+. First of all, he intends to organize the Project AI 2.0 company himself. It
+is dedicated to building a new platform for AI 2.0
+and a global company for AI first productivity applications. It is
+not only based
+in China, but also convened globally. Talents
+As for what is AI 2.0, we will introduce
+the company Project AI
+2.0 later
+. It is not only the Chinese version of ChatGPT
+, but also the AIGC of graphic and text creation
+. Even products like Microsoft 365
+Copilot are still just AI. The beginning of 2.0 capabilities.
+Regarding the future of AI 2.0
+, Kai-fu Lee and Innovation Factory
+may have bigger ideas
+. The funding and computing power of Project AI 2.0 will be in place one after another. The options for
+the new company are absolutely dominated by the new team
+. At the stage when the company was just established, Kai-fu
+Lee will meet Come and
+lead the team in person. After finding a suitable CEO
+, the company will be handed over to the CEO.
+It is said that there are already many talents from major global manufacturers
+who have confirmed their intention to join this new company
+. In addition, Kai-fu Lee also threw out
+his submission in 1983. The application letter
+to Dr. CMU, the paper has turned yellow
+. The letter stated that
+AI is the interpretation of human learning process, the quantification
+of human thinking process
+, the clarification of human behavior
+, and the understanding of human intelligence
+. AI is the last way for human beings to know
+and understand themselves.
+Lilu , I hope to join this new blooming
+and promising future field of science.
+40 years have passed. Teacher
+Li Kaifu is ready to roll up his sleeves and work harder
+. At an offline media conference on March 14,
+Li Kaifu also shared his views on AI2.
+0’s views Kai-fu
+Lee believes that
+AI has now reached the era of 2.0
+, which is the most important era of AI so far . The
+content of ChatGPT AIGC we have seen so far is just the beginning of AI2.0 capabilities
+. So what is AI1.0
+? What about AI2.0 again?
+He gave an example of electricity and the grid
+. He thinks that AI1.0 is electricity and
+AI2.0 is the grid.
+Electricity is a great invention
+, but without a grid, nothing can be connected
+. Electricity is a technology
+, and the grid It is a platform. He
+believes that AI 1.0 is based on the computer
+vision technology with the CNN convolutional neural network model as the core in 2015.
+The machine began to surpass humans in the fields of computer vision
+and natural language understanding technology
+, so it began to have The bottleneck of AI1.0
+in the emergence of unmanned robots
+lies in the huge cost
+of collecting and labeling
+data in the application , and these data sets and various models
+form various isolated islands,
+which cannot be used across fields
+. Originally, many bosses Hearing that AI is good,
+I decided to do
+it. After doing it for a year, there was no result, and I will not do it in
+the future .
+Many AI companies said that they helped empower A
+, helped empower B,
+and created value for various commercial companies
+, but in the end it was difficult to make money.
+Because of
+the high cost of money, this is why most AI1.0 companies have invested
+a large amount of research and development funds
+, but still lose money all year round
+. Another problem is that AI1.0 is said to be amazing
+, but it feels like it
+is not so intelligent.
+Simple replacement of artificial, no
+cross-domain cognitive AI 1.0 also lacks the ability to scale like Windows and Android
+in the Internet era,
+there is no way to establish a complete ecological chain
+Now the era of AI2.0 has arrived
+, it is no longer based on basic data To
+train the model
+, let AI collect data from all over the world
+and then teach it yourself
+. After teaching for a period of time, a model is formed
+, which is the basic large model, which is
+the basic model of
+the foundation model
+. It is AI2 trained on data from all over the world.
+The basic model of .0 has
+several particularly important features
+. First, it does not require manual annotation, and
+can read a large amount of text
+. Second, the scale is very large and the cost is very high.
+To make this model
+, thousands of GPUs are needed for training
+. Third , it is Through fine-tuning and other methods,
+it can adapt and perform a variety of tasks
+. Various industries can evolve
+different applications on this model,
+thus overcoming
+the limitation of AI 1.0 single domain and multiple models.
+The first phenomenon-level application in the AI ​​2.0 era
+is generative AI
+is the popular AIGC
+generative AI in China.
+It realizes self-supervised learning without labeling
+, and upgrades AI from assisting manual
+to gradually replacing manual
+. For example, suppose
+we let AI read the first 9 chapters of a book
+and then let AI read Write Chapter 10
+and
+compare the content written by AI with the content of real books
+. After reading tens of millions of books , the model will
+become more and more accurate through continuous optimization and iteration,
+and finally form a model that can
+be applied to different fields.
+The basic large-scale model
+AI 2.0 model can
+not only learn text and image data , but also learn from voice and video, sensor data of
+automation hardware , and even multi-modal data
+such as DNA or protein information,
+so as to gradually have higher levels of recognition such as prediction
+and decision-making
+exploration.
+Intellectual ability
+So
+AI 2.0 is not just a chat tool for Internet celebrities
+, nor is it just the production of AIGC content
+. These are just the beginning of AI 2.0 capabilities. People
+should not be limited by the space of imagination
+. Li Kaifu also believes that
+all applications will be AI 2.0 rewritten , but
+this process is iterative
+, roughly divided into three stages.
+The first stage is human-machine collaboration
+, that is, productivity tools will First of all, the upgrade is achieved. The
+document tool is no longer a word-for-word input
+, but the user tells the AI ​​what kind of article he wants. The
+drawing software no longer requires the user to draw by hand
+and can be realized through the description of the text.
+At this stage
+, humans and AI still maintain a collaborative relationship. Relationship
+Screen and correct the content created by AI
+to avoid fallacies and disasters.
+The second stage is partial automation
+. Some applications and industries with high fault tolerance
+will take the lead in realizing AI automation
+, such as advertising,
+e-commerce search engine game production, etc.
+The third stage is Fully automated
+AI will become fully automated
+and can be used anywhere. At
+the same time, there will be breakthroughs in the field where mistakes are not allowed. Applications
+such as AI doctors and AI teachers will become possible. We can feel
+the creation process in
+the era of AI2.0. Users Experience,
+product business models are different
+The users are different.
+In the past , whoever did the repetitive work the best
+could win and get
+the highest recognized salary and social status
+. Now who can understand the brand needs and user
+needs most deeply
+and describe them in very precise language
+Want something and let AI generate it
+. The upgrade of this productivity tool
+is a huge opportunity to shorten
+the creation time from 1 hour to a few seconds
+, and reduce the cost of 150 dollars to 8 cents
+. And these examples
+are already real. Kai-fu Lee
+also listed 6 fields
+that will soon be subverted by AI 2.0. They are e-commerce/advertising
+, film and television/entertainment,
+search engine
+, metaverse/games
+, and
+finance and medical care
+. We won’t talk about the specifics.
+Finally,
+let’s talk about
+AI2. Challenges and problems that will be encountered in the .0 era
+First of all
+, a big challenge behind AI 2.0 is computing power.
+This year
+, companies that make AI platforms or basic models
+need to spend hundreds of millions or even billions of dollars to buy machines
+, and they can’t even
+buy them.
+Under such a background, technology giants with strong
+financial
+strength will have a monopoly advantage
+, making it difficult for start-up companies and academia
+to make competitive models.
+Secondly , at this stage , AI 2.0 cannot be completely correct
+and AI cannot preserve the whole world. The world’s data
+can only be compressed to form abstract concepts
+, so serious
+nonsense will appear.
+More importantly,
+AI is still unable to distinguish between true and false and distinguish right from wrong
+. For example,
+some ethical and false content.
+If these technologies are maliciously Using
+it will bring immeasurable negative consequences
+. The speed and intensity of rumors will be greatly
+increased. It can easily
+kill a person or even a group of people socially
+. The CEO of OpenAI once said that
+although ChatGPT is cool
+, it is a terrible tool. Products Judging
+from the current development form
+, AI 2.0 will inevitably increase the risk of unemployment.
+Some top talents will use AI 2.0
+to improve productivity and efficiency in an all-round
+way . Then,
+repetitive tasks will be replaced by AI 2.0. As for the people on the job,
+they have to
+seek career changes and skill upgrades
+, including a high proportion of white-collar jobs , but
+AI2.0 does not mean the arrival of general artificial intelligence, that is, AGI.
+Humans still have many inherent talents.
+Key abilities such as creativity,
+strategic thinking,
+cross-domain
+common sense, self-awareness
+, empathy and love, etc.
+These deep-seated abilities that have not been understood
+yet cannot be completely replicated by AI2.0
+. The next stage is how to make AI not make mistakes
+and make AI more efficient. A better understanding of human culture
+and a better integration into human society
+. This era is called AI3.0. It may
+be a longer-term future
+. Well, today’s sharing is here.
+Interested friends
+, please subscribe to our channel
+. Our next issue goodbye

@@ -1,0 +1,233 @@
+Hello everyone
+, this is the best partner
+. I am Dafei. In the
+early hours of this morning
+, the much-anticipated large-scale multi-modal model
+GPT-4 was officially released.
+Let us first summarize the key points of the conference
+. First,
+this model can accept images and text input
+and output text content . Although
+In many real-world scenarios, its
+ability is not as good as that of humans
+, but in various professional
+and academic benchmark tests,
+it can already achieve human performance. To what extent
+can it be powerful? For example, if you input a hand-drawn sketch
+GPT-4 The final designed web page code can be generated
+, and it has passed various standardized exams with high scores
+, such as SAT 700 points
+, GRE is almost full score, in terms of
+logical ability
+, it completely beats GPT-3.5, and GPT-4 completely
+surpasses ChatGPT in terms of advanced reasoning ability.
+In the mock exam for lawyers,
+behind ChatGPT,
+everyone knows that
+it is based on GPT-3.5, which ranks in the bottom 10% and
+GPT-4 in the top 10% , which is equivalent to being a low-achieving student
+in a class. Jumping
+to the top student in the class
+, this is an absolute leap.
+This time,
+GPT-4
+raised the length limit to 32K tokens . What does it mean
+? It is
+able to process texts of more than 25,000 words
+, and can also use long-form content.
+OpenAI is also considerate released a
+GPT-4 developer video
+, teaching you how to generate code , check error messages
+, and tax returns, etc.
+In this video,
+Greg Brockman
+, co-founder and president of OpenAI,
+said a word.
+He is not perfect, but You are the same, does
+this sound a bit worrying
+? Right now,
+the image input function of GPT-4
+is not yet open to
+ChatGPT plus subscribers, who
+can directly obtain
+the right to use GPT-4 with a usage limit within
+four hours,
+at most only 100 pieces of information can be published.
+Developers can also apply for the GPT-4 API
+to enter the waiting list
+and wait for
+the approval to use
+GPT-4. The pricing of GPT-4
+is $0.03 per 1K prompt tokens and
+$0.06 per 1K completion tokens.
+Default The rate limit
+is 40K tokens per minute
+and 200 requests per minute.
+The context length of GPT-4 is 8,192 tokens,
+which is 8K tokens,
+but OpenAI also provides a 32K version,
+which can handle 32,768 contexts
+, about 50 pages of text For limited access, the price of
+this version
+is $0.06 per 1,000 prompt tokens and $0.12
+per 1,000 completion tokens
+In addition, OpenAI has also open-
+sourced
+OpenAI Evals,
+a framework for automatically evaluating the performance of AI models
+, so that developers can Better
+to
+evaluate the strengths and weaknesses of the model So as to guide the team to further improve
+the model. Well, the above are some key points of this GPT-4 conference. Next
+, let’s explain some characteristics of GPT-4 in detail.
+The first
+point is that the benchmark performance of GPT-4 is
+far better than the current one.
+Some large models
+If you just chat casually, you may not be able to feel
+the difference between GPT-3.5 and GPT-4
+, but when the complexity of the task
+reaches a certain threshold,
+GPT-4 will be significantly better than GPT-3.5
+It is more reliable, more creative
+, and able to handle more subtle instructions
+. Therefore, OpenAI deliberately compared the two models
+in various benchmark tests
+, including some mock exams originally designed for humans.
+It can be seen that GPT-4 is obvious
+in many tests. Higher than GPT-3.5
+In traditional benchmarks
+designed for machine learning models,
+GPT-4 is also much better than existing large language models
+and most of the most advanced SOTA models
+. Due to many existing machine models,
+this machine learning The benchmark tests
+are all
+written in English , so this time OpenAI deliberately
+translated the MMLU benchmark test into various languages
+. In 24 of the 26 languages ​​tested
+, GPT-4 outperformed GPT-3.5
+and other large language models
+, including
+Very small
+languages ​​like Latvian,
+Welsh,
+Swahili, etc. The second point
+is that GPT-4 can accept text and image prompts
+. Although
+the input of images has not been made public yet
+, OpenAI shows
+the correlation of 7 visual inputs
+on the official website.
+Example
+The first example
+is to input a picture made up of 3 pictures. What is strange about
+the user
+inputting this picture? Please describe
+GPT- 4 one by one
+, and then the content in each picture will be analyzed separately.
+Describing
+and pointing out that this image
+of a large, outdated VGA port plugged into a small but modern smartphone charging
+port is ridiculous
+. This is actually a meme from the internet
+, but GPT-4 It can also describe it very well. The second example is that the user asks
+Georgia and West Asia what is
+the average daily meat consumption . Let GPT-4
+provide a step-by-step reasoning process before giving the answer.
+GPT-4 can also do as required
+The third example
+is that the user directly gave a photo of a test question
+, and the test question is in French
+, let GPT-4 think and answer step by step , and
+GPT-4 also answered correctly
+. The fourth example is that the user asked this question What's unusual
+about the picture? GPT-4 directly answered that this
+is a man ironing clothes on an ironing board
+on the roof of a moving taxi. The fifth
+example is to give a few photos of papers,
+let GPT-4 make some corresponding summaries
+, and GPT-4 can also explain the contents of
+the pictures specified by the user.
+The sixth example
+is to give GPT-4 a picture memes on the web
+The funny picture
+GPT-4 replied that this is actually a joke
+, combining
+two completely unrelated things, the picture of the earth in space and chicken nuggets
+. The last example
+is to ask GPT-4 to explain this cartoon
+GPT-4 thinks it Ironically
+,
+the difference between statistical learning and neural networks in improving model performance
+is also
+more accurate in identifying the content on this image
+. The third point is that in terms of operability
+, OpenAI this time provides a function called
+system messages. Allowing
+API users to define the style and tasks of the AI.
+It also shows three examples.
+The first
+example is to make this GPT-4
+a teacher who always responds
+to students' questions in a Socratic style
+, not directly to the students.
+The answer to a system of linear equations
+is
+to
+guide
+students to think independently by splitting that problem into simpler parts.
+The second example
+is to make GPT-4 into Shakespeare's pirate
+, which is to be completely loyal to their own personality.
+You can
+see
+It can always maintain its own personality during multiple rounds of dialogue.
+The third example
+is
+to make GPT-4 an AI assistant
+, but always
+write
+the response output in the form of JSON . Then GPT- The style of the answer to 4 becomes
+as follows . The content of the answer is in the format style of JSON.
+The fourth point is in other aspects
+such as authenticity, stability and reliability.
+6 months of adversarial testing and adjustments
+are said to have achieved the best results ever
+. Although GPT-4 still has certain limitations
+, including factual hallucinations and reasoning errors
+, compared to previous models,
+it has been greatly reduced
+. Inside OpenAI In this evaluation of
+adversarial resistance and authenticity , the score of GPT-4 is 40% higher than that of GPT-3.5.
+In terms of model risk,
+OpenAI hired more than 50 experts from
+AI alignment risk,
+network security,
+biological risk,
+trust and safety
+, and international Experts in security and other fields
+come to test the model against
+GPT-4. During RLHF training ,
+an additional security reward signal is added, which is to reduce harmful
+output by training the model and rejecting
+requests for such content. In this way, the model
+The possibility of
+responding
+to requests for prohibited content
+has decreased by
+82% , and the frequency of GPT-4 responding to
+sensitive requests according to OpenAI's policy has increased by 29% . In general,
+although
+there are still many shortcomings
+and a lot of work to be done
+, GPT -4
+should be regarded as a milestone release.
+We also expect
+GPT-4 to become a valuable tool
+to
+improve people's
+lives by powering many applications. Well, today's sharing is here
+. Interested partners
+are welcome to pay attention
+Our channel See you next time

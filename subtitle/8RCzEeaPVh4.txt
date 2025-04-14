@@ -1,0 +1,280 @@
+Hello everyone
+, this is the best partner
+. I am Dafei
+ChatGPT. This is the rhythm of
+all competitors
+. Yesterday,
+OpenAI released another news that shocked the world.
+ChatGPT can integrate third-party plug-ins.
+This time the seal that cannot be connected to the Internet has been lifted
+. Prepare
+Before
+the start of the era of AI in the entire universe,
+everyone recognized that ChatGPT is almost
+omnipotent
+. The
+only disadvantage is that it cannot be connected to the Internet
+because its training data
+is only as of September 21
+, so its understanding of the future world
+is still very limited . It’s all blank , but
+the only seal has now
+been removed by OpenAI. Now ChatGPT can be connected to the Internet through plug-ins
+, and after adding plug-ins
+, ChatGPT will not only view web pages by itself
+, but also interact with web pages. In
+OpenAI’s words, now other services
+They have become the eyes and ears of ChatGPT.
+It is conceivable
+that the follow-up ChatGPT
+will become an all-encompassing ecosystem.
+Although many applications are still in the early stages
+and need to be explored, the fields that ChatGPT can expand
+can be said to be unlimited
+. Not much to say
+, let’s take a look at
+how amazing ChatGPT’s plug-in capabilities are.
+From the video, we can see
+that after installing a wave of plug-ins, we
+can ask ChatGPT questions. For example, I am in San Francisco and I want to eat vegetarian
+food this weekend.
+I can’t suggest (what restaurant to go to on Saturday)
+and what recipe to cook on Sunday.
+Please use WolframAlpha
+to calculate the calories of the recipe.
+Finally , order ingredients on Instacart
+. All the information you need
+will be perfectly presented in front of your eyes immediately
+. List the recipes After that,
+it will immediately and thoughtfully
+help you place an order on the shopping website Instacart.
+As for the ingredients you need,
+ChatGPT has already selected them for you. All
+you need to do is to pay the bill
+. This execution ability and understanding ability
+are too exaggerated at present
+. There
+are three official plug-ins provided by ChatGPT.
+The first
+is the Web browser plug-in
+, which is an experimental model to know when and how to browse the Internet
+. The second is the code interpreter plug-in,
+which is executed in a sandbox and firewall environment.
+Real-time Python interpreter The third
+knowledge base search plug -in It can carry out
+semantic search on personal and organizational files.
+Let’s talk about the web browser first.
+As the first plug-in of ChatGPT
+, it can be said to be full of sincerity.
+This plug-in will use
+The new Bing API
+searches the Internet for information about a question
+and then gives a specific answer
+. For example, you can ask ChatGPT
+the box office of this year's Oscar-winning movie
+, compared with the most recently released movies,
+and it
+will immediately search the Internet
+and then Give the answer.
+Obviously
+, this is something that ChatGPT could not do before.
+In addition
+, ChatGPT can also judge
+whether it is necessary to provide a Bing interface based on the content of the query
+, and then we You can use the index in the answer
+to jump to a specific webpage link
+. Although
+this function can also be done by Bing, the ChatGPT plug-in
+can not only retrieve real-time information
+, but also
+bind the API
+to perform operations directly
+. For example, Bing can Tell you flight and hotel information
+, but ChatGPT can also help you
+book flights and hotels directly. The function of
+this browser
+uses Bing’s search API.
+Microsoft has made great efforts in two aspects.
+The first is to ensure the reliability and reliability of information sources.
+Authenticity Second, turn on the security mode
+to prevent inappropriate content from being retrieved.
+This plug-in
+is running in an independent service,
+so the browsing behavior of ChatGPT
+is separated from its other functions.
+I guess after this plug-in,
+Bing The usage will decrease
+, but it can also be seen here that
+Microsoft has begun
+to deeply bind with OpenAI ChatGPT, and the traffic on
+both sides
+diverts each other.
+Get requests do not
+support post requests
+, that is to say, it can only obtain data
+but not send data
+. In addition, OpenAI has also imposed some restrictions on crawlers.
+You can configure the robots.txt file
+to prohibit the content crawled by crawlers.
+If it occurs during use
+Clicking failure is a very normal phenomenon
+. The second plug-in code interpreter. We did a program
+yesterday
+to introduce the new GPT-4-based programming tool Copilot X
+released by Github.
+In just one day, it has
+already exceeded 7,000 plays, which is enough .
+It can be seen that
+many coders have already felt the blow of dimensionality reduction
+and began to tremble.
+This time,
+the code interpreter programming plug-in launched by OpenAI
+has once again
+strengthened the
+ability of programming. The uploaded video file will be processed
+. After a while
+, it can be downloaded directly.
+I will ask you whether to burst or not
+. Currently, the ChatGPT model used by this plugin
+is isolated in a sandbox protected by a firewall
+, and a small amount of temporary
+disk will be allocated to it.
+Space When the user communicates
+, the code will be saved in the session
+and can be called at any time
+. This interpreter has several special features
+: 1. It can solve quantitative and qualitative mathematical problems;
+2. Perform data analysis and visualization
+; 3. It is fast Converting file formats
+With
+the increasing use of this plug-in , OpenAI
+encourages users to make various attempts
+to fully explore more functions
+of the
+code interpreter The code allows
+users to host their own data
+and access it inside ChatGPT. This
+plugin can ask questions
+to get the most relevant file snippets from the data
+, such as file notes, emails
+, or public documents
+such as
+videos. Ask questions to retrieve
+the content of the United Nations report from 2018 to 2022
+, and output it as a table
+. Developers can deploy their own plug-in version
+and register in ChatGPT
+. Then,
+developers can choose a vector database
+, such as Milvus Pinecone Redis, etc.
+to document
+Indexing and searching
+In addition,
+these information sources can also
+be synchronized with the database through webhook In addition to
+its own plug-ins, OpenAI also released 11 third-party plug-ins this time ,
+the first batch of plug-ins is from Expedia FiscalNote Instacart KAYAK Klarna
+Milo OpenTable Shopify Slack
+Speak Wolfram and Zapier create
+These plug-ins cover functions such as real-time information
+retrieval , air ticket booking, online ordering, traffic navigation
+, enterprise office process optimization, etc. Yes
+, the standard family bucket is here.
+In addition,
+OpenAI also encourages developers to develop plug-ins together
+, but you first need to join the Waitlist application
+. When applying It’s best to fill in your personal Github address , which is also
+one of the criteria used by OpenAI to judge the developer’s ability.
+It should
+be said
+that ChatGPT’s plug-in not only greatly improves
+ChatGPT’s own ability,
+but also brings a lot of ecology to Microsoft.
+Allies at
+this point may be another major blow to Google.
+The creation process of the ChatGPT plug-in is also very simple. It is divided
+into three steps
+. They are to build the API
+, use OpenAI's YAML or JSON format
+to write the API document
+, and then create a JSON manifest file.
+Define the relevant metadata of the plug-in.
+Before
+developing the plug-in, you may wish to take a look at
+the OpenAI open source Retrieval project mentioned earlier.
+Through this demo
+, we can first get a general understanding of
+the file structure of the ChatGPT plug-in,
+the calling method of the API
+, and the interaction process with ChatGPT.
+In the past, ChatGPT
+was always called a math chicken, and problems like
+chickens and rabbits in the same cage were always wrong , which attracted
+the attention of Stephen Wolfram, the father of the Wolfram language.
+This time , with the help of WolframAlpha's plug-in
+ChatGPT suddenly turned into a WolframAlpha, an artifact of science students,
+is a well-known
+online automatic question answering system
+. It not only has powerful structured computing capabilities
+, but also can understand natural language
+. After two and a half months of integration,
+ChatGPT has now obtained
+Wolfram’s computing superpowers.
+In January, Wolfram once I used ChatGPT
+to demonstrate a simple example of how far it is
+from Chicago to Tokyo
+, but the generated result was wrong.
+Now that the Wolfram plug-in is added
+, the ability of ChatGPT is immediately enhanced.
+Not only the correct result is generated
+, but also the visual picture is given.
+You even You can click "Click to use Wolfram"
+to view the process before and after this answer.
+Similarly , Wolfram has noticed
+that when ChatGPT answers, it
+often fabricates some
+seemingly reasonable but wrong data. But
+after integrating Wolfram's plug-in,
+ChatGPT It can output a correct
+and authoritative answer
+, and even use ChatGPT to make graphs.
+Wolfram also gave a panorama,
+listing
+what you can do with ChatGPT plus WolframAlpha.
+Just ask if you are awesome.
+ChatGPT April 2022
+The father, Sam Altman, once said that we
+need to name this new computer interface (interface)
+, tell the computer what you want in natural language , and then
+directly let them do it. Operation, do
+you have any ideas?
+Perhaps at that time,
+ChatGPT’s plug-in system
+was brewing in his mind
+. The chief scientist of OpenAI also said that
+the GPT model is a new type of computer architecture that runs on
+text . It can not only talk to us humans
+It is also
+possible to communicate with existing software infrastructure.
+API is the first step , and plug-ins
+are the second step. Jim Fan, an AI scientist
+at Nvidia
+, said excitedly
+. If the birth of ChatGPT
+can be regarded as the iPhone moment in the AI ​​world
+The integration of third-party plug-ins today
+is the event of iOS releasing the AppStore level
+. Some netizens said that
+this is the beginning of the ChatGPT universe
+. Weibo big V "Mu Yao" exclaimed that
+using natural language to generate plug-ins
+is the craziest system I have ever seen in my life
+. Finally Well, he made a prediction that Python is dead.
+Even
+Joseph Mehdi, the vice president of Microsoft, expressed such emotion. None of
+us thought that this March would
+be so crazy. Well, today’s sharing is here
+. Interested friends welcome
+to subscribe to us
+'s channel See
+you next time

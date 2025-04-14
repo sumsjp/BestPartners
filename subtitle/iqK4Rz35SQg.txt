@@ -1,0 +1,135 @@
+Hello everyone,
+this is the best partner
+. I am Da Fei
+.
+I believe I don’t need to say more about the recent popularity of ChatGPT.
+Everyone also wants to know some
+stories behind ChatGPT. So
+a few days ago
+, I made a
+program about the team behind ChatGPT.
+Today we
+Let’s talk about the person who really
+created ChatGPT.
+The previous media attention
+may
+have focused on ChatGPT’s CEO
+Sam Altman , but let’s not forget that Altman only joined OpenAI in 2019
+and ChatGPT
+is A purely technical product
+, like this product
+, most of the technical research and implementation directions
+are
+decided by the company's chief technology officer, that is, the CTO
+, so today we will take a look at
+the real creator behind ChatGPT
+OpenAI’s CTO Mira Murati
+Mira Murati
+was born in San Francisco, USA in 1988.
+Her parents should be Albanian
+, but there are also some people on the Internet who say they are of Indian origin
+. We will not go into it
+. What is certain is that
+this Murati is in
+Dart Dartmouth College has obtained a bachelor's degree in
+mechanical engineering
+. I believe
+many people should have heard of this Dartmouth College.
+It is the world's top university with the longest history in the United States,
+and it is also
+one of the most low-key among the eight major leagues of the Ivy League. If there
+is a chance
+, we can Do a program to introduce
+Murati as a summer analyst at Goldman Sachs
+, and then
+as a senior concept engineer at the French aerospace company Zodiac Aerospace
+, but the two jobs were not long
+. Her life turning point should have been in 2013
+. He joined Tesla in 2010 to
+lead the development of the Model X
+, around which time
+she first became interested in artificial intelligence
+. Tesla was working on an early
+version of Autopilot, an AI-powered driver assistance software
+, and was
+developing
+AI for factories .
+This led Murati
+to think about
+other ways AI can be applied in the real world.
+In 2016, she joined Leap Motion
+as vice president of product and engineering.
+This company
+is committed to developing a VR system that combines hardware and software
+, mainly using gestures to replace keyboards and mice
+. Murati She wanted to make the experience of interacting with a computer
+as intuitive as playing a ball
+, but she quickly realized
+that the technology, which relied on VR headsets, was too early
+because even a small error
+would make users feel sick
+, so Murati After carefully thinking about
+what to do next ,
+she came to the conclusion that the huge advances in
+technology
+must be used to solve the biggest challenges in her career
+. So
+in 2018, Murati joined OpenAI
+as the vice president of applied artificial intelligence
+and partnerships . In 2019
+After OpenAI transformed from a non-profit organization to a for-profit organization,
+Murati rose to the top of OpenAI's
+products and partnerships. Senior Vice President,
+don’t underestimate these two positions.
+In fact, this is exactly what laid the foundation for the success of OpenAI
+, because the earliest models
+are all laboratory models. What is
+most lacking is not data or computing power ,
+but human feedback. Make the model
+better match human intentions
+, so OpenAI
+has invested a lot of energy in this area
+, including cooperation with various data labeling companies, etc.
+Of course, this has also led to being complained about as a sweatshop.
+In May 2022, she was appointed As
+OpenAI's chief technology officer
+, after she took office
+, OpenAI released a series of
+the most popular star-level AI products
+such as Dall-E2 and ChatGPT.
+I think this is inseparable from her influence
+, because she made it clear that she
+hoped that the public would come. Participate in the testing of AI products
+instead of just learning in the laboratory. Only
+through the adjustment mechanism of reinforcement learning and human feedback
+can the large language model go on the
+right path. Compared with CEO Altman
+, Murati is in the direction of AIGC The thinking
+should be said to be more rational and practical
+. She will emphasize that the application of artificial intelligence
+technology
+should be a tool that can serve human beings
+, not a tool that replaces human beings
+. She not only supports the regulation of AI,
+but also does not want ChatGPT to be overly hyped.
+It should be said that
+Murati not only
+found many like-minded friends in OpenAI
+, but also opened a new chapter in his life and career.
+Recently
+, Murati not only appeared on the news program "The Daily Show",
+but also was interviewed by Li Feifei, who has
+a long- standing reputation in the AI ​​industry
+. Attention is also increasing. I
+also hope that under her leadership
+, this GPT-4 and subsequent versions
+can once again make our eyes shine
+, push AIGC's capabilities to a new level, and
+truly
+change our lives through AI. It's even better.
+Finally ,
+I asked ChatGPT about Murati's evaluation . Well
+, it seems that AI can also shoot rainbow farts
+. Well, today's sharing is here.
+Interested friends are welcome to subscribe to our channel
+. See you next time

@@ -1,0 +1,93 @@
+Hello everyone,
+this is the best partner
+. I’m Dafei.
+Since Microsoft recently
+became popular with OpenAI and ChatGPT,
+the old rival Google always wants to win the round
+. It released the tough ChatGPT Bard before
+, but I didn’t expect it to overturn. It’s
+self-defeating
+. So Google made another big move this week and
+released the largest visual language model in history, PaLM-E
+. How exaggerated is this model? The number of
+parameters is as high as 562 billion
+, which is three times that of ChatGTP-3.
+This model combines the PaML model with 540 billion parameters
+and The ViT model with 22 billion parameters can
+not only understand images
+, but also understand and generate language,
+execute various complex robot instructions, and the point is that
+PaLM-E can directly analyze the data
+from the robot camera
+without retraining, without
+preprocessing the scene
+, and the experimental results prove that
+The positive transfer capability of the model is also quite powerful.
+Next, let’s watch a few demo videos of PaLM-E
+. I believe you will have
+the feeling that general AI is coming soon.
+The first demo is
+based on the visual feedback of the robot’s camera.
+Bring me the potato chips . Note that adversarial interference is added to this process
+. Even if the experimenter moves the potato chips many times,
+the robot can still grab it again
+and finally close the drawer and
+give the potato chips to the experimenter
+. Watch this video It is played at 4x speed
+, so the actual speed should not be fast
+. The second demo
+is to let the robot take the green star.
+The green star
+is an object that the robot has not directly touched before.
+The third demo
+is to let the robot change the
+The building blocks are placed in different
+corners . It can be seen
+that the robot can plan and
+execute long-term tasks very well
+, and it explains in detail how each step of
+the robot is planned . This demo is to let the robot move
+the remaining building blocks to the existing building blocks. PaLM-E
+in the group
+will decompose it into multiple low-level strategies
+, such as moving the yellow hexagon next to the green heart
+and moving the blue triangle into the building block group. The next demo
+is to let the robot
+move
+the ocean-colored building blocks Putting it together, you
+can
+see that the robot can also accurately identify the
+blue blocks
+. Finally,
+the experimenters also demonstrated two examples of generalization
+, one is pushing a red block into a coffee cup.
+This data set
+contains only 3 examples with Demo data for coffee mugs
+and none of them contain red blocks
+. Another example
+is to have a robot push a green block to a turtle
+even though the robot has never seen a turtle before.
+It is able to perform the task
+successfully.
+PaLM-E Can
+tell a joke given an image
+and demonstrate capabilities including perception, vision-
+based dialogue and planning
+PaLM-E is also very
+clear about the relationship between multiple pictures
+For example, which item in Figure 1 is in Figure 2 In the absence of
+PaLM-E, it is also
+possible
+to perform mathematical operations given an image with handwritten digits
+. For example , for this The restaurant’s handwritten menu
+PaLM-E can directly calculate how much
+two pizzas cost
+. Google researchers plan to explore
+more applications of PaLM-E in the real world in the future
+, such as home automation or industrial robots
+. They also hope that PaLM-E
+can inspire more About the application of multi-modal AI,
+well , today’s sharing is here
+. Interested friends
+, welcome to subscribe to our channel
+and see you next time
