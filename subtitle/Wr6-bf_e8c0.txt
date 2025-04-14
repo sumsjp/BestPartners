@@ -1,0 +1,136 @@
+大家好，这里是最佳拍档，我是大飞
+不得不说，自从这波大模型出现之后
+现在这些大公司的创新能力确实令人出乎意料
+今天，Meta的开源Llama模型家族
+又迎来了一位新成员
+专攻代码生成的基础模型Code Llama
+作为Llama 2的代码专用版本
+Code Llama是在特定的代码数据集上
+进一步微调训练而成
+Meta表示
+Code Llama的开源协议与Llama 2一样
+可以免费用于研究以及商用目的
+Meta这次同时还公开了相关论文《Code Llama:
+Open Foundation Models for Code》，
+足足有47页，25位作者
+这次公布的Code Llama系列模型有三个版本
+参数量分别为7B、13B和34B
+并且支持多种编程语言
+包括Python、C++、Java、PHP、Typescript (Javascript)、C#和Bash
+按照Meta的说法
+Code Llama能够稳定支持最高10万token的上下文生成
+而且Code Llama的不同版本
+在HumanEval和MBPP数据集上的一次生成通过率
+也就是pass@1，都可以超越GPT-3.5
+另外
+Code Llama的「Unnatural」34B版本
+在HumanEval数据集上的pass@1
+达到了62.2%，
+已经接近于GPT-4 67%的水平
+不过Meta这次没有发布这个版本
+据说是通过一小部分高质量编码数据的训练
+实现了明显的效果改进
+这个特殊版本引起了很多人的注意
+包括OpenAI的Andrej Karpathy
+那么Code Llama究竟是如何工作的呢？
+按照Meta的说法
+Code Llama的编码能力非常强
+它可以根据代码和自然语言提示生成代码
+比方说用户可以输入一个提示
+帮我写一个输出斐波那契序列的函数
+它还可帮助用户进行代码补全和代码调试
+这三个参数版本的Code Llama模型
+都使用了500B的代码tokens和代码相关数据进行了训练
+7B和13B的基础模型和指令模型
+也经过了fill-in-the-middle训练
+从而允许将代码插入到现有的代码中
+这意味着它们可以支持开箱即用的代码补全等任务
+有了这三种模型
+就能够满足不同的服务和延迟要求
+比如，7B模型可以在单个GPU上运行；
+34B模型能够返回最佳结果
+并提供更好的编码辅助
+但是就速度而言
+较小的7B和13B模型速度更快
+更适合低延迟任务
+比如实时的代码补全
+Code Llama不仅提供了多达100000个上下文token的稳定生成
+所有模型的训练token序列也高达16000
+更长的输入序列
+不仅能够让Code Llmama生成更长的程序
+也带来了一些新的功能
+例如，用户可以根据自己的代码库
+为模型提供更多的上下文
+从而让生成的代码更符合期望
+值得一提的是
+Meta还进一步微调了Code Llama的两个附加变体
+Code Llama-Python和Code Llama-Instruct
+Code Llama-Python是Code Llama的一种变体
+是在Python代码的100B token做的进一步微调
+Code Llama-Instruct是Code Llama的指令微调和对齐变体
+能够更好地理解输入提示
+Meta建议在生成代码的时候
+尽量使用Code Llama-Instruct变体
+因为这个版本已经经过了微调
+可以用自然语言生成有用而且安全的答案
+但是对于一般的自然语言任务来说
+比如类似于ChatGPT的问答型任务
+不建议使用Code Llama或Code Llama-Python模型
+因为这两个模型都不是为遵循自然语言指令而设计的
+Code Llama专门用于与代码有关的任务
+不适合作为其他任务的基础模型
+那么Code Llama的性能怎么样呢？
+Meta在HumanEval和MBPP
+Mostly Basic Python Programming
+这两个编码基准上
+对模型进行了测试
+其中
+HumanEval测试模型基于文档字符串来完成代码的能力
+而MBPP测试模型基于自然语言描述来编写代码的能力
+结果表明
+Code Llama的性能优于开源、特定于代码任务的大语言模型
+并且优于自家的Llama 2
+例如
+Code Llama 34B在HumanEval上得分为53.7%，
+在MBPP上的得分为56.2%，
+与其他最先进的开源解决方案相比
+效果是最好的，与ChatGPT相当
+不过
+使用Code Llama也存在着一定的风险
+Meta在发布Code Llama之前采取了许多安全措施
+包括对生成恶意代码的风险进行了定量评估
+他们自己先创建了一些提示
+试图让模型生成恶意的代码
+并将Code Llama对这些提示的响应
+与基于GPT3.5 Turbo的ChatGPT进行比较
+结果发现，Code Llama的回答更安全
+由此看来
+对于编码能力不是特别强的Llama 2
+这个坑已经被Code Llama给填上了
+Meta甚至还为Code Llama制定了一个雄心勃勃的发展路线图
+具体包括，1
+高级语言支持
+Meta希望扩展Code Llama的语言支持能力
+让开发者能够轻松使用自己熟悉的编程语言进行编码
+2
+增强上下文理解
+Code Llama的后续迭代
+将侧重于深入理解开发者的意图
+并且提供更多契合上下文的相关建议
+3
+与开发平台相集成
+目前首要的任务是让Code Llama与更广泛的编码平台相兼容
+后续会无缝对接各类流行的IDE和文本编辑器
+4
+持续在AI研究方面投入
+不断提高Code Llama的性能与准确性
+Code Llama现在已经开源
+而且在Perplexity的聊天工具中
+已经可以用上Code Llama了
+我会把链接地址放在评论区
+大家有兴趣可以去尝试一下
+我简单让它写了个斐波那契数列
+还是OK的，主要是响应速度非常快
+超出我的想象
+好了，以上就是本期视频的内容
+感谢大家的观看，我们下期再见
