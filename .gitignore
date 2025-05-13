@@ -1,9 +1,6 @@
-Scripts/
-Lib/
-Include/
-log/
-share/
 
 __pycache__
 .env
 .vscode/
+.venv/
+log/
