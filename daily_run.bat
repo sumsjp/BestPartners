@@ -13,6 +13,3 @@ git pull
 git add .
 git commit -am .
 git push
-
-REM 停用虛擬環境（可選）
-call .venv\Scripts\deactivate.bat
