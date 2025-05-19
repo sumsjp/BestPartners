@@ -1,4 +1,20 @@
 <details>
+<summary>651. 【科学】古代炼金术“点铅成金”竟然成真 | CERN大型强子对撞机LHC最新成果 | 铅离子对撞 | ALICE实验室 | 第三代升级 | 探测器 | 数据过滤</summary><br>
+
+<a href="https://www.youtube.com/watch?v=8z5PpwDsimw" target="_blank">
+    <img src="https://img.youtube.com/vi/8z5PpwDsimw/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【科学】古代炼金术“点铅成金”竟然成真 | CERN大型强子对撞机LHC最新成果 | 铅离子对撞 | ALICE实验室 | 第三代升级 | 探测器 | 数据过滤
+
+
+
+---
+
+</details>
+
+<details>
 <summary>650. [2025-05-18] 【人工智能】科学界AlphaGo时刻，DeepMind发布AlphaEvolve | 优化56年矩阵乘法 | 改进300年几何难题 | 提高Gemini训练效率 | 进化算法 | LLM | 人类反馈</summary><br>
 
 <a href="https://www.youtube.com/watch?v=z73RhwtHEGc" target="_blank">
