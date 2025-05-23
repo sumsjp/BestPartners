@@ -1,4 +1,132 @@
 <details>
+<summary>656. [2025-05-23] 【人工智能】Open Agentic Web | 微软Build2025大会 | 50+更新 | 纳德拉 | VSCode Copilot开源 | Coding Agent | WSL | NLWeb</summary><br>
+
+<a href="https://www.youtube.com/watch?v=RVbTtvWq9z8" target="_blank">
+    <img src="https://img.youtube.com/vi/RVbTtvWq9z8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】Open Agentic Web | 微软Build2025大会 | 50+更新 | 纳德拉 | VSCode Copilot开源 | Coding Agent | WSL | NLWeb
+
+好的，以下是我整理後的文稿。我主要針對以下幾個方面進行了整理：
+
+*   **結構化：** 將文稿分成幾個主要部分，方便閱讀和理解。
+*   **精簡：** 刪除冗餘的口語化表達，保留核心信息。
+*   **重點突出：** 使用標題和粗體字強調重要信息。
+*   **邏輯：** 梳理信息的邏輯關係，使其更易於理解。
+
+**文稿整理如下：**
+
+**微软 Build 2025 大会总结**
+
+**引言**
+
+*   最佳拍档大飞介绍微软 Build 2025 大会，并预告后续其他科技大会的报道。
+*   本次大会的重点是 AI 和开源，包含众多技术创新。
+
+**一、大会亮点**
+
+*   **重要人物：** 微软 CEO 纳德拉、CTO Kevin Scott 亲自上阵。Sam Altman、马斯克、黄仁勋线上参与，与纳德拉进行对话，涉及合作、大模型和芯片等。
+*   **抗议事件：** 一名微软硬件工程师因微软与以色列政府的云服务和AI合同，对加沙人民造成伤害而抗议。
+
+**二、纳德拉开场：技术浪潮与开发者工具**
+
+*   **技术浪潮：** 纳德拉认为当前技术浪潮类似 1990 年代初的 Web 技术和 2000 年代的云计算和移动互联网，关键词是 "open agentic web"。
+*   **开发者工具：**
+    *   Visual Studio 用户超过 1500 万。
+    *   GitHub 拥有超过 1.5 亿开发者。
+    *   GitHub Copilot 用户突破 1500 万。
+*   **Visual Studio 更新：** 支持 .NET 10、引入实时预览、强化 Git 工具链，更新节奏改为每月发布稳定版。
+*   **VS Code 更新：** 发布第 100 个开源版本，新增多窗口支持。
+
+**三、GitHub Copilot 与 AI 深度结合**
+
+*   **Copilot 开源：** 在 VS Code 中开源 Copilot 扩展，集成到核心代码库中。
+*   **Copilot 功能：** 帮助开发者完成 Java 8 升级到 Java 21，或 .NET Framework 升级到 .NET 9 等版本的迁移工作，自动处理依赖项更新，给出修复方案建议。
+*   **Azure SRE Agent：** 专门为站点可靠性工程 SRE 打造的自主Agent，在发生线上故障时自动启动，排查、定位故障原因并尝试缓解问题，记录事件报告为 GitHub Issue 并附带修复建议。
+
+**四、Coding Agent：协作式开发伙伴**
+
+*   **功能：** 将 GitHub Issue 分配给 Copilot，自动启动虚拟机、克隆代码库、配置环境，通过基于 GitHub Code Search 的 RAG 技术分析代码，以 Git 提交的形式推送到 Pull Request 中。
+*   **MCP 协议：** 开发者可将外部数据和能力接入 Agent。
+*   **视觉模型：** Agent 能够看懂 GitHub Issue 中的图片。
+*   **适用对象：** Copilot Enterprise 和 Copilot Pro Plus 用户。
+
+**五、Microsoft 365 平台全面升级**
+
+*   **优化：** 聊天、搜索、笔记本、创作工具和 Agent 界面。
+*   **Microsoft 365 Copilot Tuning：** 支持企业根据自身数据、流程和语言风格对 Agent 进行定制。
+*   **目标：** 让每家企业都能拥有“自己的 Copilot”，学习公司惯用的表达方式、沟通语气，掌握行业特有的专业知识。
+*   **数据安全：** 模型和 Agent 运行在 Microsoft 365 服务边界内，不使用客户的数据来训练基础模型。
+*   **Copilot Studio：** 未来每一个业务应用都可能会被多 Agent 工作流重新定义。
+
+**六、Azure AI Foundry：设计、定制和管理 AI 应用和 Agent 的统一平台**
+
+*   **模型库扩充：** 包括 xAI 的 Grok 3，Flux Pro 1.1，以及 OpenAI 的预览版 Sora。
+*   **Model Router：** 根据任务自动选择最合适的 OpenAI 模型。
+*   **Foundry Agent Service：** 允许开发者用极少量的代码来构建可以协同工作的多个 AI Agent。
+*   **多 Agent 编排：** 支持 Azure、AWS、Google Cloud 以及本地部署，引入状态管理、错误处理和长流程支持。
+*   **可观察性：** 提供从开发到生产的全链路可观测性，实时监控延迟、吞吐量、使用情况与输出质量，查看每个 Agent 的推理过程和工具调用的详细日志。
+
+**七、Windows AI Foundry：打造最适合构建 AI 应用的平台**
+
+*   **目标：** 把 Windows 打造成最适合构建 AI 应用的平台。
+*   **Foundry Local：** 内置优化好的模型库，开发者可以直接在本地运行开源模型。
+*   **Phi-Silica：** 微软自己的小语言模型，未来将直接内嵌在 Windows 操作系统中，只需加入 LoRA 就能快速完成“微调”。
+*   **API：** 提供新的 API，让开发者可以将用户的本地数据转化成向量，嵌入到模型中。
+*   **MCP 协议：** Windows 将原生支持 MCP 协议，内置多个 MCP 服务，开发者可以构建兼容 MCP 的应用，通过官方注册表连接这些服务。
+
+**八、WSL 完全开源**
+
+*   **背景：** WSL 全称是 Windows 子系统，最早于 2016 年亮相，2019 年推出 WSL 2，2021 年作为独立包发布到 Microsoft Store 上。
+*   **开源原因：** 随着架构演进，微软实现了代码的“松耦合”，WSL 已经具备了独立运作的能力。
+
+**九、NLWeb：让网站更容易接入 AI 聊天机器人 (Kevin Scott 推出)**
+
+*   **功能：** 几行代码就能在网站上添加对话框和发送按钮，接入 AI 模型并结合数据，实现 AI 聊天能力。
+*   **目标：** 使 NLWeb 成为 Agentic Web 里的 HTML，成为 AI 模型理解和使用网页内容的基础。
+
+**十、数据产品更新**
+
+*   **SQL Server 2025：** 提供内置的可扩展 AI 功能，与 Microsoft Azure 和 Microsoft Fabric 无缝集成。
+*   **Azure Cosmos DB 和 Azure Databricks：** 直接集成进了 Foundry 平台，让 Agent 更自然地“记住”对话历史，数据更高效地服务于 AI Agent。
+*   **Fabric 平台：** Cosmos DB 被纳入 Fabric 体系，统一管理结构化和非结构化数据。
+*   **数字孪生构建器：** 接入 Fabric，用户可以通过可视化界面快速构建数字孪生系统。
+*   **OneLake 快捷转换功能：** 智能的 ETL 工具，借助预先构建好的 AI 模块完成复杂的数据预处理操作。
+*   **Copilot in Power BI：** 用户可以通过对话的形式与 Power BI 的报告进行交互。
+
+**十一、基础设施：性能、能效和成本的平衡**
+
+*   **目标：** 在性能、能效和成本之间找到最佳平衡点，从芯片、系统软件到应用服务器全链路地进行协同优化。
+*   **Azure：** 将成为首个大规模上线 NVIDIA GB200 Grace Blackwell 芯片的云平台。
+*   **Cobalt 处理器：** 基于 Arm 架构的处理器，广泛应用于 Microsoft Teams 和 Defender 安全系统。
+*   **Foundry Local：** 让用户在本地也能运行和云上相同的 AI 能力，构建可以离线运行的跨平台 AI 应用。
+
+**十二、科学研究：Microsoft Discovery 平台**
+
+*   **目标：** 利用 Agentic AI 来改变科学发现流程。
+*   **Graph RAG 知识引擎：** 不仅能够查找信息，还能理解科学领域中那些复杂、细致的知识结构。
+*   **成果：** 帮助研究者们在约 200 小时内发现了一种用于数据中心浸入式冷却的新型冷却剂。
+
+**十三、结尾**
+
+*   大飞询问大家最感兴趣的技术点，感谢大家的观看。
+
+**请注意：**
+
+*   我盡可能地保留了原文的核心信息，並進行了精簡和結構化。
+*   如果對某些細節感興趣，建議查閱官方資料或相關報導。
+
+希望這個整理後的文稿對您有幫助！
+
+[model=gemini-2.0-flash,0]
+
+
+---
+
+</details>
+
+<details>
 <summary>655. [2025-05-22] 【人工智能】中东AI要崛起了么？| 两份千亿大单将如何重塑全球AI格局 | 阿联酋 | 沙特阿拉伯 | 美国AI芯片管制法案 | 遏制中国 | 能源补充 | 资本换技术 | 能否实行存疑</summary><br>
 
 <a href="https://www.youtube.com/watch?v=I4Ip-F1Ct9s" target="_blank">
