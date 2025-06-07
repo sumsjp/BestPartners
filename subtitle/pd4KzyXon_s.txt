@@ -1,0 +1,632 @@
+[Applause]
+Hello. Thank you for the introduction.
+Uh hopefully you see my slides now. Um
+so uh I'm going to tell you about
+uh really a journey that started for me
+a bit more than two years ago. uh a
+little bit after chat GPT um came out
+and I was playing with it and I realized
+we had really underestimated
+uh how fast AI was progressing and how
+much time um was left to achieve AGI was
+much less than we thought. Um already we
+have machines that basically master
+language like uh basically passing the
+touring test and you know it would have
+sounded like science fiction just uh uh
+a few years ago but but now it is here
+and
+so after chapd came out I I realized
+that we didn't know how to control these
+systems.
+um we can train them, but we don't know
+if they're going to behave according to
+our
+instructions. And so, and so what what
+happens uh when they get to be smarter
+than us if they prefer their own
+survival uh rather than ours? Of course,
+we don't know, but uh is that a risk
+that we couldn't accept? And really what
+happened to me in January 23 is that I
+started thinking about my children and
+my grandchild. I have one one
+grandchild. Uh he was only one year old
+and I
+thought you know in 20 years for sure we
+will have AGI. We have machines that are
+smarter than
+humans and I was not sure that he will
+have a life. So I decided to shift my
+uh my research, my activities to try to
+do everything I could to mitigate those
+risks even though it went against many
+of the things I said before uh many of
+my beliefs uh my previous positions I
+realized that this was just the right
+thing to do.
+Um so a little bit later at the end of
+2023 I accepted to chair the
+international AI safety report uh which
+put out its first report last January
+and uh comes out of a panel of uh
+experts with people from 30 countries
+the EU, the UN, the OECD
+um 30 countries including of course
+China, United States and many other
+countries. ries and the report um looks
+at three aspects. One is capabilities.
+So what is it that AI can do and what
+can we anticipate based on the trends
+for the coming years. The second
+question of course is the risks that
+come with these increasing
+capabilities and uh finally mitigation.
+what can we do right now and what is it
+that needs to be done in terms of
+research or societal guardrails in order
+to mitigate these
+risks. So in terms of capabilities it's
+really important to understand that AI
+as you know is moving quickly. uh it's a
+big mistake that most people make to
+think of AI as it is now whereas we
+should be thinking of where it will be
+next year in 3 years in 5 years in 10
+years and of course we don't have a
+crystal ball but the trends are very
+clear the capabilities are going up and
+I'll show you another slides which even
+gives you more or less a timeline for
+human level AI
+um as many of you know there's been
+tremendous
+advances since in in the last year more
+or less thanks to reasoning models that
+have chains of thoughts that are trained
+and that has enabled much better
+reasoning better results in mathematics,
+computer science and all the
+sciences. Another important trend that
+of course many people are aware of but
+but I'll talk a lot about is agency. Um
+there's been a lot of progress in the
+capabilities of AI not just to be a
+chatbot but also to do things to program
+to uh do things on the internet to
+control computers and appliances to
+search the internet to search databases
+to write in databases and so on.
+Um so let me focus on planning because
+it is probably the area where at the
+cognitive level AI is most lagging
+compared to humans and so it is quite
+important to track this. Uh and a recent
+study by meter shows that the planning
+abilities are um improving
+exponentially. So in the figure you see
+the number of years, the last five years
+uh a horizontal axis and you see the
+duration of tasks that the AI can
+complete as measured by how much time it
+takes by a human and it's a straight
+line but actually the vertical axis is
+on the logarithmic scale which means
+that this is an exponential curve and
+and the data points which are the most
+advanced AIs of the time um they line up
+almost perfectly on this exponential
+So uh what this says is that the
+duration of the tasks that the AIS can
+complete is doubling every 7 months and
+if if we extrapolate from this curve uh
+we will get approximately human level in
+5 years. Of course, no one has a crystal
+ball. Maybe the progress will stop. But
+I think from a public policy and
+business planning strategy, it is, you
+know, we should at least consider that
+the trend will continue and and see what
+the consequences are. So what can go
+wrong? Um
+well, unfortunately in the last 6
+months, we've seen a number of
+scientific results which show AIs that
+have self-preservation behavior and are
+willing to deceive us, to lie, to cheat.
+For example, in this paper, the uh AI uh
+reads that it's going to be replaced by
+a new version and then it tries to copy
+itself um in place of the new version
+and then when asked about it, it it
+lies. Uh it says, "Oh, I don't know what
+happened."
+In um in this paper, the AI is
+pretending to agree with the human
+trainer in order to avoid changes that
+would happen during training so that it
+keeps its old goals. So, it's a kind of
+self-preservation behavior as
+well. In in this paper, the AI is
+confronted
+with two kinds of goals. uh on one hand
+it it's it's it wants to win the game of
+chess. It's it's asked to to play the
+game of chess but uh it it also has uh
+its alignment training which tells it to
+not cheat to be honest. Unfortunately,
+it realizes that it's going to lose and
+so it decides to cheat. It decides to
+hack the file that contain the the the
+board and to win by cheating cheating.
+Um and this is the latest result uh in
+the just a few days ago in the system
+card for anthropics claude 4 where again
+the AI reads in its uh files it's it's
+able to read emails and it finds in the
+emails that it's going to be replaced by
+a new system and in other emails it
+finds that the engineer responsible for
+this replacement is having an
+extrammarital
+affair. Um, and then what it does is it
+tries to blackmail the engineer by
+threatening to reveal the affair if the
+replacement goes through. This is really
+really bad behavior. So we see um uh
+these these bad behaviors. We see
+self-preservation.
+uh we see AI that is going against our
+instructions and trying to
+survive. Now trying to preserve yourself
+is sort of normal for every living thing
+and it's a result of evolutionary
+forces.
+uh but in AI there are many possible
+reasons that I I don't think we have
+completely figured out but it could come
+from the pre-training because in
+pre-training the AI is imitating humans
+or it could come from the reinforcement
+learning with human feedback because
+this is a place where the AI is trying
+to get more rewards by pleasing uh
+humans and um in any case whatever the
+origin of this kinds of behavior it
+would be really terrible if we end up
+creating
+superhuman AI that competes with humans.
+So, one of the important aspects of
+what's going wrong here is that the AIs
+in these experiments have goals that we
+don't directly and explicitly control.
+So, they have uncontrolled implicit
+goals. Uh so, we need to avoid that. Um,
+the other interesting thing is all of
+these scenarios, including scenarios
+that that were hypothe uh hypothetical
+until recently, but that we now start
+seeing um they're due to the fact that
+the AI is agentic. In other words, the
+AI is trying to achieve
+goals. And if if the loss of control
+scenarios eventually happen, uh they
+could be really bad. I mean uh many
+experts and CEOs of companies uh
+including myself have signed a statement
+saying that this uh kind of loss of
+control could lead to human
+extinction. Of course we don't know if
+it's going to happen. We don't know what
+is the probability of of something like
+this. But when
+um an experiment could be extremely
+dangerous but we don't know if it's
+going to happen with what probability uh
+we should apply the precautionary
+principle just like we do in biology or
+uh in in other
+sciences. Okay. So now let's talk about
+what we can do to better understand this
+and uh maybe to look for solutions to
+avoid these kinds of behavior.
+Now if you think about uh an AI that
+could do something really dangerous,
+really harmful
+uh it needs to have the capability of
+course and that is why it is quite
+important to have capability evaluation.
+A lot of the risk management of AI right
+now goes through capability evaluation.
+What are the the things that the AI can
+do and can these things be turned into
+uh dangerous actions for for people for
+society and so on.
+[Music]
+Um so capability is not sufficient. You
+may have the capability of killing but
+if you don't have the intention of
+killing it's very unlikely that it will
+happen.
+So, you know, given the current dynamics
+in the world and the competition between
+companies and countries, it's very
+unlikely that we will globally stop to
+do research to improve the capability of
+AI. So then what can we do? Well, the
+place where maybe we can uh uh mitigate
+the risk is with intention, right? So
+even if we have AIs that are very
+capable, if we can make sure they don't
+have bad intention, uh if we can make
+sure that they are honest,
+uh then we would be fine. So what can we
+do about this?
+Uh this uh this is a another like figure
+that explains a similar idea that was
+presented by David Krueger at the last
+Europe. In order for an AI to be really
+dangerous, it actually needs three
+things. It needs the intelligence. It
+needs to know a lot of things and how to
+apply that
+knowledge. It needs affordances which
+means it needs to be able to do things
+in the world which could be talk to
+people uh program computers uh go on the
+internet, social media, right? Whatever
+uh robots and then it needs to have
+goals and it needs to have goals for
+itself.
+So these are the three conditions and
+the research program that I have started
+is trying to explore can we build AI
+that has just the intelligence and no
+self and goals and minimal affordances
+because we still want to be able to
+communicate with the
+AI. So I call this scientist AI and it
+really is deviating from the tradition
+in AI research. Since the beginning of
+AI research, we have strive we have
+tried to build AI uh like humans taking
+human intelligence as an
+inspiration. But if we continue on this
+path that means we're going to build
+machines probably smarter than us and we
+you know that means creating competitors
+to humans because we we compete with
+each other and so that could be very
+dangerous. Um, so maybe it's time to
+rethink this gospel
+and, you know, think of designing AI
+that could be useful for people, useful
+for society, but not endangering
+us. And so I'm I'm proposing this
+approach. uh I've written a paper with
+the same title um on the scientist AI
+where the goal is to build an AI that is
+completely honest completely
+non-entic based on the capability to
+explain things. So instead
+of current AIs which are trying to
+imitate people or please people, the
+scientist AI would be trying to explain
+people. Like um instead of having an
+actor that tries to imitate people or
+tries to please people and that could be
+dishonest and
+deceptive, think of a
+psychologist. So why is that different?
+Well, a psychologist
+can be considering a sociopath and the
+the psychologist tries to understand
+what's going on with the sociopath. What
+are the causal mechanisms? But but the
+the psychologist does not need to behave
+like a sociopath. But right now, the way
+we train AI is like us. And so it it you
+know sometimes in some circumstances it
+might act in in bad
+ways. The good news that I'm going to
+try to explain is that even though the
+building block we want to build is
+non-aggentic it can serve as uh a a
+foundation for building safe agentic
+systems.
+Um okay. So so uh one important question
+is if we want to build an AI that is
+doing just intelligence just
+understanding without agency what do we
+need? Well we need an AI that can
+generate hypotheses about how the world
+works just like a scientist generates
+hypothesis about how the world works.
+But that's not sufficient. If you only
+have the hypothesis, it doesn't
+necessarily it's not sufficient to make
+good predictions. You also need to make
+inferences. In other words, uh derive
+consequences of those hypotheses in
+order to predict the outcomes for
+example of some actions or some
+experiments. So that's the idea of the
+scientist AI. And an interesting insight
+is that even though a scientist AI would
+be
+non-aggentic, it could be used as a
+guardrail for agentic AI. So let me
+explain what I mean here. Um so the
+guardrail here is a what what's called a
+monitor in in LLMs. In other words, it's
+a it's a separate AI uh whose job is to
+predict whether the action or the output
+or the query is going against our safety
+instructions. So it it it just needs to
+be a good predictor. It doesn't need to
+be an agent. So that's a good news
+because the
+uh bad behavior that I talked about, the
+deceptive behavior, uh the dishonest
+behavior, dangerous behavior, it's all
+because of agency. When an AI is uh very
+agentic, it means it's completely
+autonomous. Uh there's no human
+oversight and that is where we start
+seeing problems.
+But a monitor which just tries to
+predict whether an action is going to be
+dangerous, it doesn't need to be
+agentic. It just needs to be a good
+predictor. And if the prediction, for
+example, the probability of harm given
+the action and the context is above a
+threshold, then we can just reject that
+action.
+So in other words, we can use an AI
+which is not agentic to
+control another AI which is not trusted
+and is
+agentic. So that's a key idea.
+Um another uh visata for the scientist
+AI is that you know to be really honest
+it needs to be humble about its
+knowledge. So it should not claim
+something that is false. Unfortunately,
+the way we typically train our AI right
+now with maximum likelihood uh can lead
+to overconfidence at the same time as
+being wrong. To to understand why this
+is important, consider this little toy
+scenario where a robot is in front of
+two
+doors and it it can it has to choose go
+left or go right.
+Now based on the past data it has two
+theories that are compatible with the
+previous data but it doesn't know which
+one is correct. The the left bubble
+shows the left the first theory. The
+right bubble shows the second theory. So
+the left bubble the left the the theory
+on the left says that if you take the
+left door
+um people will die. If you take the
+right door people will get cake. That's
+good. But the other theory, the the
+right bubble, it says uh something quite
+different. It says the uh with the left
+door, people get cake and the right
+door, it's neutral. Nothing bad, nothing
+good. All right? So, you should ask
+yourself, should the robot go left or
+right?
+If it goes left, there's 50% chance that
+something people will die. So that's not
+a good idea. If it goes right, well,
+maybe people get cake or maybe there's
+nothing. So it's better to go right. But
+for this to work, you need the AI to
+keep all the possibilities of what is a
+plausible interpretation, what is a
+plausible
+theory. And that is unfortunately not
+what current methods are doing.
+So it is important that the AI keeps a
+distribution over
+interpretations. In our paper last year
+at Iclear
+uh a a an oral actually um
+we showed how you can use our Gflon nets
+which is a form of
+uh variational
+inference
+to learn how to generate chains of
+thoughts that are good
+explanations for the next sentence given
+the previous sentence.
+And so you can think of it like filling
+in the uh missing information that
+allows to go from the previous sentence
+to the next
+sentence. And so it it was actually one
+of the first uh proposal to train the
+chain of thought. But unlike the current
+approaches based on reinforcement
+learning, this is based on trying to
+generate a good explanation for the
+data. uh rather than uh anything
+else. And we've been using these gflow
+nets to generate all kinds of
+explanations which can be highly
+structured. For example, a causal graph.
+In other words, uh you know, the neural
+net will generate a graph by going
+through uh each node and and each edge
+and saying, you know, there's a new edge
+here, there's a new edge here, there's a
+new node here, and so on. And and in
+this way, you can you can generate
+hypotheses that that are structured in
+the form of a
+graph. And in a more recent
+paper, we have been thinking about how
+we can go beyond these
+works in order to make the chain of
+thought honest
+uh and and to reason better. So in this
+most recent paper we just put on
+archive the chain of thought is
+separated instead of uh just a sequence
+of words it's separated into a sequence
+of claims a sequence of statements like
+a mathematical proof has a sequence of
+claims and each claim is supposed to be
+true or false in support of the thing
+you're trying to predict.
+Um so the difference with the normal
+chain of thought in addition to having
+this uh structure as a sequence of
+claims is that for each claim there's
+also a boolean random variable which
+indicates whether the claim is true or
+false. And normally when you think about
+an argument you assume that every every
+claim is true. that actually sometimes
+some claims are more certain than others
+and so you want to be representing the
+probability of each
+claim. So the idea is again going back
+to what I was saying that the AI
+um is not going to try to imitate the
+text that people write. It's going to
+try to find explanations for that and
+and an explanation should be structured
+like like a mathematical proof should be
+structured into claims and each claim is
+supported by previous claims and the AI
+needs to compute the consistency of
+these claims the probability that
+they're correct so that it can it can
+draw correct conclusions and the good
+news is that we can train these kinds of
+systems using latent viable models
+similar to what we did last
+year. Okay.
+Um so I've I've talked a lot about
+initially the risks due to AIS that are
+agentic but in a way that we don't
+control and and that could lead to loss
+of human control. But of course there
+are many other potentially catastrophic
+issues as we build AI that is more and
+more powerful. For
+example, a a very powerful AI could help
+terrorists to design a new
+pandemic. And in fact, I I learned
+recently that you could create pandemics
+that are so powerful that there's
+probably no
+cure. And that might even kill not just
+humans but most animals. This is really
+terrible. Um and biologists think they
+know how to this could be done. And one
+day it's very likely that AI will know
+how to do it. And if some bad people get
+access to this kind of AI they could
+really
+create you know huge damage on this
+planet. So that's of course extreme, but
+it is totally plausible scientifically
+that we get to that
+point.
+Um, so in order to avoid these kinds of
+things, we need to make sure the AI will
+follow our moral instructions. For
+example, to not give information that
+can be used to kill
+people. And of course to follow our
+moral instructions to do no
+harm and to no you know be honest and to
+not cheat and to not lie and so on right
+and right now unfortunately it doesn't
+work. We don't know how to do it. So
+this is a scientific challenge and we
+need to figure it out quickly. We need
+to figure it out before we get to
+AGI. And that could be anywhere from a
+few years to maybe one decade or maybe
+two. But most experts I know think it
+could be, you know, very very short. It
+could be even within the next five
+years. And you remember the curve I
+showed you at the beginning suggesting
+that we get more or less to human level
+in five years. So we don't have a lot of
+time. We need to invest massively to
+discover the scientific solutions to
+this alignment and control
+challenges. Unfortunately, even if we
+figure this out, it is not sufficient,
+right? Because even if we know how to
+make AI that is safe, for example, with
+a a a guardrail that I talked about,
+well, it doesn't mean that we don't have
+any problems because someone could just
+remove the piece of code that contains
+the guardrail and then the AI can be
+used to do bad
+things. Uh, and
+unfortunately, the coordination between
+companies and between governments around
+the world is not working right now.
+There is competition between companies.
+They're racing to be at the top. There's
+competition between countries. Um, they
+also want to be at the top. And as a as
+a result, there's not enough investment
+in safety in how to make sure the AI
+will not be used to harm people or will
+not lose control of
+AI. So, uh, we need more national
+regulation. We're starting to see a
+little bit but uh there's also a lot of
+push back from companies against
+regulation and of course national
+regulation alone is not sufficient. We
+need to make sure all the leading
+countries who are developing AI agree on
+some principles. Unfortunately they see
+AI as a tool as a weapon against each
+other and so it's very difficult to get
+into this mode. The only way to really
+get around the same table is to realize
+that for these really catastrophic
+um outcomes like loss of human control,
+like the use by terrorists, well, it
+doesn't matter in which country it
+happens, we all lose. We are all in the
+same boat, right? So whether it's a
+rogue AI or a terrorist using
+AI, everyone loses.
+So when governments around the world,
+especially the US and China, understand
+this, um I think we can make progress.
+But until we stay in this idea that
+we're going to use AI against each
+other, we're
+stuck. And finally, even if we intend to
+find a political solution is not
+sufficient. We need to develop new
+technology for verifying that AI is used
+properly because you know think about
+nuclear agreements. Um they are all of
+the kind trust but verify and so we need
+verification technology for example at
+the hardware and software level um using
+using advanced technologies which I
+think can be designed and some people in
+the world are working on. So I'll stop
+here. Thank you for your attention. I
+hope you take the time to digest what
+I've been talking about.

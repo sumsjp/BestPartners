@@ -1,0 +1,378 @@
+Thank you and good morning everyone. Uh
+today I want to talk mainly about open
+source. So I won't talk a lot about the
+technology itself but more about why
+opensource is so important uh and why
+it's so important in artificial
+intelligence. Before I talk how many
+people here know the Linux Foundation,
+have heard of the Linux Foundation? How
+many people here use
+Linux? All right. I knew at a conference
+like this there's a lot of Linux users.
+The Linux Foundation is more than Linux.
+Today we are home to the most critical
+software technology in the world. uh
+whether it's technologies like OpenStack
+and Kubernetes that are used to run all
+the major public cloud service providers
+around the world whether here in China
+Alibaba cloud 10 cent Huawei bu in the
+United States Microsoft Google Amazon
+all of these service providers run on
+cloud technology that come comes from
+the Linux Foundation in artificial
+intelligence we're home to technologies
+ies like PyTorch and VLM as well as
+thousands of other technologies in a
+host of different in uh industries,
+automotive,
+telecommunications, film and more. At
+the Linux Foundation, what we do is
+bring together the world's industry to
+collaborate and make markets using
+open-source software. And we've done
+that over and over again. Linux today
+runs the vast majority of the world's
+computing systems. OpenStack and
+Kubernetes run the cloud. Risk 5 is an
+open-source semiconductor instruction
+set that is the fastest growing
+semiconductor technology in the world. I
+already talked about PyTorch. NodeJS is
+a ubiquitous web building block. All of
+these are homed at the Linux Foundation.
+But today I don't want to talk just
+about the Linux Foundation. I want to
+talk about why open-source is so
+important in the area of artificial
+intelligence. This year was a big big
+year for open-source
+AI. Deepse seek was the cause of that
+open-source moment. In January, a small
+company here in China released an
+open-source model that shocked the
+world. The day that DeepC came out,
+Nvidia stock dropped
+17%. It showed that there are really no
+competitive notes when it notes when it
+comes to building large language models.
+Now, don't worry too much about Nvidia.
+Just yesterday, they became the world's
+most valuable company again. So, they
+have in fact
+recovered. But what was important is
+that the world woke up to the fact that
+open-source is going to be critical for
+artificial intelligence. Sam Alman in
+February reflected that maybe open AI is
+on the wrong side of history when it
+comes to open source. He went further to
+promise that open AI will be delivering
+an open-source large language model in
+the near future.
+Mark Zuckerberg, the CEO of Meta, is
+dedicated to an open-source AI future.
+And Kyu Lee has stated that open-source
+is the clear winner in AI in
+2025. And of course, Deep Seek has
+proven here in China that there are no
+moes. And the innovation
+continues today. Open-source LLMs are
+almost on the same level as closed AI
+frontier models in
+eval organizations here in China,
+whether it's QN3 or
+Deepseek. So the question is, how did
+this happen? How did this small
+organization in China,
+Deepseek, come out of nowhere and
+release this incredibly performant model
+under open source?
+Well, for anybody who's been coming to
+China for a very long time, I first came
+here in the early 90s in
+1991, you would know that in China,
+opensource is not a new concept. In
+fact, in China, organizations and the
+government have been betting on open
+source for a long time. Whether in the
+early 90s where government and industry
+were looking for open-source
+alternatives to incumbent technologies
+like Microsoft
+Windows or the 2000s through
+2020 where open-source was invested in
+by industry here in China large
+hyperscalers companies like BU Alibaba
+Tencent and Huawei those companies beca
+employees engineers became
+leading contributors to global
+open-source
+initiatives. In 2020 till now, China has
+heavily invested in open-source, not
+just in contributions and new releases
+of open-source software, but in
+government policy that supports and
+encourages open-source sharing and
+investment by both industry and the
+government in open-source collaboration.
+Now, of course, China's not alone here.
+In the United States, the technology
+industry also bet on open-source a long,
+long time ago. In the9s, companies like
+IBM used open-source software to compete
+with incumbent uh competitors and to
+create higher level innovation. In the
+1990s through the 2010s, there was
+billions of dollars of investment in
+open-source companies.
+In the cloud booms of the 2010 to the
+2020s, almost every cloud service
+provider in the world built the vast
+majority of their cloud infrastructure
+together using open-source software. And
+of course, today we're seeing that same
+explosion in artificial intelligence in
+the US. Now, there's a cautionary tale
+here for organizations who think they
+can go it on their lo alone and oppose
+open-source and stay closed. In the
+United States, we see a laundry list of
+companies that fought against
+open-source technology, tried to hoard
+and control technology and ended up
+either being consumed by another company
+or going out of business.
+Even companies like Microsoft who early
+opposed open-source and Linux had to
+radically pivot to embrace open-source
+technology as part of their
+transformation. Microsoft today is the
+leading contributor to the vast majority
+of critical open-source software. That
+is a massive change from their
+opposition to open-source just in the
+early
+2000s. So the question I want to ask
+everyone here is why is it that open
+source is so powerful? Why is it that
+open source is leading to these
+incredible breakthroughs that you just
+saw from
+BAI? Well, I'll tell you why. Because
+open-source is incredibly valuable
+financially.
+Harvard Business School recently
+published a study measuring the economic
+value of open-source code. If the world
+had to go purchase the open-source
+software that industry uses to create
+all of its technology products and
+services, the demand side value, the
+ability to purchase it would be worth 9
+trillion
+US. A stunning figure. Think of it this
+way.
+Think of modern application development
+like a hamburger where a developer
+chooses an open- source framework. They
+use open-source libraries, open source
+components that are freely available for
+anyone to use in
+public and they write only themselves
+the custom code that they need for their
+customers.
+What that does is it saves
+70% of the development cost for any
+modern technology product or service
+today. This is the de facto way that
+software technology gets developed. We
+will not go backwards from this moment.
+In fact, open-source usage is
+accelerating.
+And remember this that open-source
+software itself just publishing code
+isn't good enough to really take
+advantage of that $9 trillion is in
+value. The world's most critical
+open-source projects is not just good
+software, good
+code. It needs good governance. You see,
+for fierce competitors like Google and
+Microsoft or Alibaba and Tencent to
+collaborate on the same software, they
+need a neutral owner of that software.
+They need a way to make decisions about
+that software together. they need to be
+able to promote that software so more
+developers come in and contribute and
+use that
+software. That kind of governance is
+very critical and something that I'm now
+starting to see emerge here in China.
+Not just good software, but good
+decisionmaking, good collective
+ownership of software. I see
+organizations all over the world coming
+together not just at the Linux
+Foundation but at other
+organizations making decisions neutrally
+and together that process is
+accelerating not
+decelerating. So let's talk about the
+economics of AI and and open source. So,
+open-source AI
+economics and why it is so important to
+continue to embrace open-source
+development in artificial
+intelligence. Opensource drives
+innovation faster.
+When Deepseek R1 was released, almost
+immediately hundreds of different
+versions of Deepseek were released on
+Hugging Face as well. All leveraging the
+breakthroughs that Deep Seek created,
+but then adding their own innovation on
+top of that and making everyone better.
+And this continues to accelerate as
+every new frontier model comes out or
+new forms of AI technologies adjacent to
+LLM technology.
+A recent study by McKenzie showed that
+in enterprise
+technologists,
+76% of organizations who are deploying
+AI expect to deploy AI, open-source AI
+in their enterprise in the next several
+years. This trend continues to go. But
+here's the part that I really want you
+all to pay attention to, which is why
+open source is so important.
+What people really want from artificial
+intelligence is something we talked
+about all morning. Drug discovery,
+autonomous
+vehicles, robots that can serve us a
+healthy hamburger or help automate a
+factory. You see, it's the
+applications that are created using AI
+where most of the value is created.
+all of the infrastructure that enable
+those amazing
+applications can be a shared
+asset and it when it's all shared it
+pushes the cost of building those AI
+applications down and lower and it
+accelerates the creation of new
+applications, new self-driving cars, new
+robotic systems, more medical
+breakthroughs. At the Linux Foundation,
+what we want to see is as much
+open-source infrastructure components as
+you can possibly have so that
+application developers and users of
+artificial intelligence can create
+amazing applications as quickly as
+possible. Those that fear the
+commoditization of lower levels of
+technology are generally the weakest in
+this ecosystem. But those that are
+fearless about open sourcing their
+technology tend to innovate at the
+highest
+level. So finally I want to conclude
+with what we're seeing in the United
+States in open-source around AI and that
+is of course the rise of agentic AI
+which we talked a little bit about this
+morning.
+Now you know how I just told you how at
+the infrastructure layer open source
+pushes cost down drives innovation up at
+to the application level but when we
+talk about agentic AI there's actually a
+level on top of that around the AI
+agents and here's what we're seeing
+emerge in the United States as the
+modern agentic AI stack what we see
+clearly is the emergence of protocols
+like
+MCP. We're seeing the emergence of new
+open registries that help people
+discover and validate and secure AI
+agents. We're seeing a whole new
+ecosystem of MCP servers and clients
+that people are collectively developing
+in order to create new agent
+experiences, new agent orchestrators.
+If you haven't started looking at the
+activity around MCP and that ecosystem,
+this is something definitely worth
+looking at right now because what AI
+agent technology does is it hooks the
+intelligence of a frontier model to
+something that's useful to an enterprise
+or a service. And it's that last mile
+that really matters in creating these
+rich applications and these useful AI
+agents. And what we will see is the same
+thing that we've seen in every use of
+open-source. Cost will go down,
+security, reliability will go up, and
+innovation will rise rapidly.
+We see all the major labs embracing
+technology like
+MCP. A host of new open-source
+initiatives. A2A from Google Agency from
+Cisco and a variety of others are
+emerging in the United States. All of
+these are worth
+watching. What I want to leave you with
+today is one thought.
+First,
+open-source accelerates
+innovation. Even though open-source is
+free and publicly available for everyone
+to use, it actually increases economic
+opportunity because it puts this
+technology in more people's hands.
+But the real secret to open source is
+the global collaboration that happens
+completely in the open for anyone to
+participate in and anyone to use.
+33 years ago, Lenus Torvald, who was
+living in Helsinki, Finland,
+open-sourced the Linux
+kernel and he became the most successful
+software developer in the world over 30
+years. Linux now still is maintained by
+Lenus Torvalds and it is the most widely
+used software on earth.
+But the interesting thing about Lenus
+Torvalds is all he needed to participate
+in open source was a computer and a
+connection to the internet. And what I
+see every day working at the Linux
+Foundation where millions of developers
+work together on those critical projects
+you saw is that none of us know in the
+world where the next leanest Torva is
+going to come from. The next leanest
+tovaults could be in this room
+today. And all that brilliant engineer
+needs to do is to access the incredible
+technology that is being released into
+open
+source, modify it, change it, become a
+leader, and we may see the next leanest
+Horbalds come from right in this room
+creating incredible technology that will
+be good to all of us. So let's make sure
+that we keep open source open that we
+keep open source a crossborder global
+collaboration that's free for anyone
+from anywhere to participate at any time
+because you never know where the next
+Linux or the next Lenus Tobalts will
+come from. Thank you very much.

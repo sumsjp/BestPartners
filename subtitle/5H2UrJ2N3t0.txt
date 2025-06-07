@@ -1,0 +1,759 @@
+[Applause]
+Hello. Thank you for having me and sorry
+that I can't be there in person. Um
+really appreciate the invitation and
+today I wanted to tell you a little bit
+about building physical intelligence.
+I'm a co-founder and CEO of physical
+intelligence. Um so unless you you've
+been living under a rock um over over
+the past few years, you probably noticed
+that something happened in robotics. So
+the robotics as we are used to looked
+more like this where we have robots that
+can do very repeatable tasks, go from A
+to B very well, very fast. But as soon
+as we introduce a little bit of lack of
+structure, they would very often result
+in something like this where the robot
+was not was not able to to deal with the
+the chaos of the world and the structure
+environment and it would basically
+catastrophically fail. But then it seems
+like something happened. And right now
+robotics looks very different. It looks
+more like
+this. You know, we see uh extremely
+smooth, impressive, dance moves from
+many different humanoid robots. And we
+see robots deal with unstructured
+environments like this one just
+fine. So the question I want to answer
+today is well, what happened? Right?
+There seems to be a very big difference
+between between the robotics of the past
+and robotics of
+today. So over the past year I've been
+building physical intelligence and I've
+been building it in two different
+ways. On one hand I started a company
+called physical intelligence. We started
+around a year ago with the idea that we
+want to build them all that can control
+any robot to do any task truly solve
+physical intelligence.
+On the other hand, I also had a daughter
+who is around a one-year-old today. So,
+I experience emergent physical
+intelligence almost every day these
+days. And if I were to draw a conclusion
+from these two things is that um if
+you're thinking of starting a company
+and having a baby at the same time,
+please talk to me. I do not recommend
+that. Don't do
+it. All right. So, back to the question,
+what happened? I think the very obvious
+answer is well AI
+happened and there's many different
+versions of this of this answer that
+that actually matter here but I think
+the one in particular that has been
+really really important that I want to
+focus on
+is vision language action models. So let
+me tell you a little bit more about them
+and why I'm very excited about them. So
+how do they work? They work fairly
+similar to vision language models that
+we know from products like CH GPT. So in
+a vision language model, the way it
+works is that it takes some data from
+the internet. For instance, an image
+that you can find on the internet, an
+image of a cat. Then you can ask it what
+is this? What do you see in the image?
+And then this model is trying to answer
+it in natural language as well. So it
+would answer with the word cat.
+Now it turns out that we can take that
+model, this vision language model and
+adjust it a little bit to be um
+practical for robots and actually really
+really powerful for them. So the way it
+works is the following. We'll take a
+vision language action model now and
+instead of having an image from the
+internet, we would have the camera feed
+from the robot. So what the robot
+currently sees and instead of asking it
+in a question that you can answer in
+natural language, we'll ask it to do
+something. will ask you to do a task
+like fold a
+shirt. Now given that that model has
+also seen robotics data and in
+particular data from many different
+robots doing many different tasks, it
+turns out that it can output an answer
+that tells you how to do the task. So it
+actually outputs motor commands for the
+robot to do the motion to accomplish
+that
+task. Now it's a very simple idea. It's
+basically a vision language model
+adjusted to to deal with robotic data.
+But it turns out it's really really
+powerful. So why is this why is this so
+powerful? Why is this a big deal? Well,
+traditionally that kind of um thinking
+where you can train a model fully end to
+end that can understand what the robot
+sees and output the correct actions has
+been really hard because these models
+require a lot of data.
+But with this idea, with the idea of
+vision language action model, it turns
+out that you can collect data from many
+other
+sources. So one, you can connect data
+from the web. In the past, we thought
+that to make a model like this work, you
+would need to have a robot experience
+the entire world firsthand. It would
+need to experience every single object,
+every single situation to learn about
+it.
+But then it turns out that you can take
+a pre-trained vision language model that
+was pre-trained on the web data and has
+some high level understanding of how the
+world works and transfer some of that
+meaning to robot
+motion. And one particular result that I
+was an author of that that showed that
+um that actually doesn't look that
+impressive but it was completely
+mind-blowing to us was from robotics
+transformer 2 showing the following.
+This is a robot being asked to move the
+coke canen to Taylor
+Swift. Now I'll show it to you again.
+Watch closely. The robot picks up a
+cokeen and moves it to the picture of
+Taylor Swift. Doesn't do a great job.
+The coke can falls. You can see that
+it's kind of pathetic. But to us
+watching this experiment live, that was
+a very, very big deal. And the reason is
+that the robot has never seen pictures
+of Taylor Swift. It's never seen any
+pictures of any of these celebrities or
+any other
+pictures. It had that that abstract
+concept of who Taylor Swift is and what
+the picture of Taylor Swift looks like
+straight from the internet. So, it was
+able to to get that knowledge from
+webcale pre-training and then translate
+that knowledge and connect it to robot
+motion to actually express that
+understanding through an embodied
+movement.
+So that for the first time showed us
+that it's actually possible to get all
+of that knowledge not firsthand. The
+robot doesn't have to experience the
+world, every single situation in it. It
+still needs to experience quite a bit of
+it, but can get a lot of that
+understanding from the internet
+instead. So that was one. The second one
+that made it really really impactful is
+the fact that not only we can connect it
+to the data from the web, but we can
+connect it from data from from other
+robots.
+So, it turns out that these models don't
+really care whether it's all the data
+comes from a single embodiment or many
+different embodiment or a robot that has
+one arm or two arms or it's a mobile
+robot or or a drone. It doesn't really
+matter at the end of the day. It's a
+pattern of numbers and pattern of of
+different data that um these neural
+networks can can can find and can
+understand well. So to do this we run an
+experiment called um RTX where we
+collaborated with many different
+research institutions around the world
+30 34 of them and asked them to send us
+the most recently collected data sets
+that they used to publish their
+research. Now if you've done academic
+research you know that the way it works
+is you collect the data set and then you
+try to get your method that you're about
+to publish really really work and and
+you're very heavily incentivized to to
+get it to work because that's what you
+want to publish.
+So we took all of those data sets that
+were published for different methods and
+we combined them into one big data set
+and trained one big generalist model on
+that. So that was trained on many
+different robots that look different
+that have different number of degrees of
+freedom. Sometimes it's two arms,
+sometimes it's one arm, it doesn't
+really
+matter. And then we send the checkpoint
+of that model of that generalist model
+to these individual labs and ask them to
+compare it to their state-of-the-art
+method that they just developed.
+Now, importantly, it's a different
+state-of-the-art method in every single
+lab because every single lab developed a
+specialist solution for the problem that
+they were trying to publish
+on. And then it turned out that as a
+result, our generalist model was able to
+beat that baseline, that
+state-of-the-art method every single
+time on average by more than 50%.
+And that points to the fact that these
+models are really data hungry and they
+can make sense out of data coming from
+many different embodiment and then can
+do it much better than we
+can. So with these two we decided that
+this is a technology that would allow us
+to build a model to control any robot to
+do any task and that's where we started
+physical intelligence.
+Now the way we want to do this is to
+build a generalist model that will be
+trained on many tasks and many robots
+with the idea that we'll be able to
+generalize beyond
+that. In particular, it will be a
+generalist vision language action model
+that will be trained on many tasks and
+many
+robots. Now, as we started that that
+journey, we thought that there there's
+going to be three big challenges that we
+really need to derisk and understand
+better. These are capability. Are these
+models capable of doing tasks that we've
+never seen robots do before that are
+very dextrous, long horizon and so on?
+Secondly, generalization. Can they
+generalize to an extent where you can
+put them in a completely new room in a
+completely new environment and they know
+how to do it? And then third,
+performance. Can they perform at a very
+high clip with very high success rate
+and be extremely
+robust? So we started with the first
+one,
+capability. Around five months into the
+company, we arrived at these results.
+This is a demo you might have seen
+showing one of our robots uh unloading a
+dryer, taking all of the laundry into
+into a basket, bringing it over to a to
+a folding table, and then folding it one
+by one. You can see that it's not
+perfect. It makes quite a lot of
+mistakes, but it can correct basically
+all of them. It's still fairly slow.
+doesn't work every single time. But this
+is a task that for a very long time has
+been considered a holy grail of
+robotics. This is something that we've
+been able to achieve five months into
+the company. And this is not a model
+that is specialized in this particular
+task. The exact same model could do
+laundry folding like the one you see.
+Could also work on static robots,
+whether it's single arm or two arm
+robots. It could also work on different
+mobile robots and do many many other
+different tasks.
+So I wanted to tell you a little bit
+about what we did to make it
+work. So we trained this generalist
+robot policy. We call it PI zero. This
+is our first model that we released in
+October last year that was pre-trained
+on many different robot form factors
+that you see here on the left and across
+many many different tasks.
+Now we also use a pre-trained vision
+language model to get that internet
+scale pre-training that I talked about
+earlier as well as the open data sets
+open source data that I talked about as
+well. And then from that we built a
+single architecture single vision
+language action model called pi zero
+that has an action expert that allows it
+to actually output
+actions. Now it can do multiple things.
+First, it can work zero shot where you
+can just prompt it and for tasks that
+it's seen before, it can perform them
+fairly well. But you can also fine-tune
+it and you can fine-tune it with what we
+call post training. That is much higher
+quality data, which allows you to do two
+things. One, it it allows you to kind of
+specialize this this model for some for
+tasks that are particularly difficult.
+So for something like laundry folding,
+it's not enough to just pre-train it.
+you kind of need to fine-tune it to tell
+it how exactly you want your your your
+clothes to be folded. But you can also
+use it to to um train new tasks very
+very
+quickly. So before I tell you a little
+bit more about the architecture, I
+wanted to kind of have you appreciate a
+little bit how hard of a task it is. It
+seems like folding laundry is, you know,
+not that difficult. We do it, you know,
+every other day or so. But it turns out
+that u it's actually quite tricky. So
+here are a few examples. the same model
+running on static robots. So you can see
+this is a this is a problem where you
+find a shirt that is in arbitrary
+configuration and you see how many
+different motions you need to do to grab
+the corners correctly. You can see that
+the robot eventually grasp the sleeve
+correctly. It it kind of flattens it out
+a little bit once it's done. Then it
+grasps the corner well. Then it folds it
+in half. Brings the shirt a little bit
+closer to itself. H folds it again. Then
+folds it in half. Then straightens it
+out. That also takes quite a bit of
+work. And then it does this beautiful
+dynamic motion, defolds it one more
+time, brings the pile over and puts the
+shirt on top of
+it. Here's another example with with a
+piece of clothing that the robot has
+never seen before. So you can see that
+that the shirt is in some weird
+configuration. The robot tries to
+flatten it out and it realizes that uh
+something is off. It tries it few few
+times and then eventually it figures out
+that it actually didn't grasp the right
+corner. So, it needs to put it down,
+grasp it again, grasp the corner
+correctly, then brings it over, folds it
+in half, folds the other half, and then
+eventually is able to straighten out the
+shirt to the to the final dynamic motion
+at the end and puts it on a on a pile of
+clothes. In fact, the system is robust
+enough so that you can interrupt it and
+um it can handle these interruptions
+quite well. So, here's a robot minding
+its own business, trying to fold the
+clothes. And then one of our
+researchers, Michael, is putting another
+shirt and trying to to mess with it. And
+you can see that the robot kind of
+realizes what's happening, puts the
+shirt back, and kind of, you know, tries
+to do try to do its job. This is not
+something that we train specifically
+for. It's just something that emerges
+from large scale training like that. You
+can also mess with between in other
+ways. Here's a robot trying to fold the
+shirt in half. And while it's kind of
+halfway through, Michael comes in, our
+main researcher, and unfolds it. So then
+the robot starts again and starts with
+the other half. And Michael comes in and
+undoes it again. Now, you can see that
+one of the corners is a little bit off.
+So the robot needs to figure that that
+one out. It finds the corner correctly
+and then eventually folds it and and
+keeps on
+going. So this is what these bones are
+capable of. But the most if I were to
+distill it into one insight that was
+really really important to get it to
+work is the insight of pre-training and
+post-training. And what do I mean by
+this is the following. So for PI zero we
+had pre-training data that consisted of
+10,000 hours. So many different um tasks
+across many different robots where in
+that phase we try to cram as much data
+into the model as possible. very similar
+to the pre-training stage for large
+language
+models. But then we would go to the next
+stage called post-training where we
+would collect orders of magnitude less
+data of high quality around 20 hours of
+data to kind of get this model to to
+behave exactly like we wanted. So kind
+of pick the mode of behavior that we
+actually meant. We can do this for
+laundry folding. We can do it for
+building boxes or for many many other
+tasks.
+And that turned out to be really really
+important to get it to
+work. So in particular to give you some
+quantitative
+evaluation, we can compare three
+different approaches. We can compare the
+approach I just described where we do
+pre-training and then post- trainining.
+We'll be comparing it to an approach
+where we have no robot pre-training. So
+we just train on this curated data set
+of really really good high quality
+data. And we'll compare it to an
+approach where there is no post-
+training. So we just train on all the
+data and that's it.
+Now here are the
+results. So if we do both pre-training
+and post- trainining, we see the the
+highest number. This is where we can get
+to really where we can get really far in
+this folding task because it turns out
+that you kind of need both to first
+understand the the motions of how to how
+to deal with all kinds of different
+situations which you get from
+pre-training and then you need
+post-training to really fine-tune those
+motions to get it to really the result
+you want.
+Now, if you just do if if you don't do
+any pre-training, if you just do curated
+data set, it turns out that the
+performance drops
+significantly. And the reason for that
+is that you know how to fold things
+perfectly. But the real world is not
+perfect. You're going to fail. You're
+going to make mistakes and you don't
+know how to deal with that diversity,
+how to how to correct those behaviors
+because you've never seen that
+situation. You've only seen perfect
+data.
+And then lastly, if you didn't apply any
+post training, that means you you know
+more or less how to fold close, but you
+don't really know what exactly we want.
+And that also drops in performance quite
+quite a
+bit. So now one question you might ask
+is, you know, this is a generalist
+model, right? It's not just a model used
+for laundry folding or building boxes or
+many of the other tasks I mentioned. It
+was also trained on many other robots.
+Um, so can can you use it? Can anyone
+use it? And the answer is yes. We open
+source that model. We open source it in
+a repository called open pi where we
+open source many different checkpoints
+of it. We also showed different run
+robot runtimes how you can integrate it
+into your framework. And we have many
+many people using it fine-tuning it on
+all kinds of different applications
+ranging from robotic surgery to
+autonomous driving to to many many other
+tasks. In addition to this, we also
+started a partnership program. Here's
+one uh partnership video with Astrobot
+humanoid robot showing a robot making
+coffee. And you can see it being a robot
+that is more complex. It has many more
+degrees of freedom. It's kind of harder
+to control because of that. But we can
+take a pre-trained PI zero model and
+fine-tune it to a new embodiment like
+this and do a task that is fairly
+dextrous. Um that that the robot can
+perform fairly well with with this
+generalist
+policy. All right. So, since I mentioned
+humanoids, um I wanted to spend a few
+more minutes on on humanoids, um you've
+probably seen that the world went crazy
+about humanoids. There's many different
+humanoids. Uh there isn't a day where
+you don't hear about a new humanoid
+being developed. Uh there's many
+different companies making those robots,
+amazing pieces of mechatronics, robots
+that will be capable of many, many
+things. And we've seen all kinds of
+different applications and demos of
+these robots, whether it's in the home
+or in some kind of structured home
+environment where they're collaborating
+and doing fairly dextrous
+tasks. Now, I believe that if we
+actually succeed, if we actually crack
+the problem of physical intelligence and
+build build these models that are
+extremely general, I don't think we're
+going to stop at humanoids. I think
+we're going to experience a Cambrian
+explosion of robots because let's be
+honest, if you wanted to do something
+like sort packages, you wouldn't be
+doing with a humanoid if you wanted to
+automate that. If you were to automate
+it, you would want to do it way better
+than humans. You would do it with a
+robot like
+this. And that turns out to be true for
+many different applications. You can do
+much much better than humans can because
+it's not our form factor that makes us
+special. It's our brain, our physical
+intelligence that makes us special. So
+we can see all kinds of different robots
+being applied to many different um
+domains and I believe all of them can be
+powered by a single generalist model
+like pi zero. So for instance, if you do
+want to do roofing, you will do a very
+you'll use a very different robot. If
+you want to do some kind of self
+assembly or space exploration, you'll do
+very diff you'll use very different
+robot. If you want to do firefighting,
+you'll use very different robot. If you
+wanted to do agriculture, you'll use a
+different robot. And if you wanted to do
+recycling, you will use a very different
+robot. And there's many, many more
+applications where there's way better
+form factors that are super human in
+some way, but they can be powered by the
+same general
+brain. All right. So, sorry about the
+small degression. I talked a little bit
+about
+capability. So, next in our journey, we
+tackled generalization.
+So, one caveat about all the demos
+you've seen um and you see day-to-day
+about robots is that they're always
+evaluated in the environment that
+they've been trained in. So, the demo
+that I showed you earlier in a home
+where the robot is folding laundry, if I
+were to bring it to your home, it
+probably wouldn't work. It hasn't seen
+that home. And this is one of the big
+big bottlenecks that prevents us from
+deploying these machines. So, as the
+next step, we wanted to tackle that
+problem and get the robots to generalize
+to a completely new environment they've
+never seen before. And it turns out that
+it's
+possible. So, this is a project we call
+Pi Zero. Did you clean the bedroom?
+Where we bring robots to completely new
+homes that they've never been to before.
+So, this is a new Airbnb that we rented
+in San Francisco. And here's our
+researcher, Laura, asking it to clean
+the bedroom. The robot has never seen
+that bedroom before. It starts putting
+the clothes away. and it puts trash in
+the in the trash can and then it makes
+the bed at the end. In fact, all all our
+evaluation in in that work has been done
+in completely new environments that the
+robot has never seen before. So, we're
+literally driving around San Francisco
+toothpaste, assembling the robot and
+putting it in environments it's never
+seen before and evaluating it only
+there.
+Now the most important quantitative
+result from the work is is this. And
+this is a plot that I've been waiting
+for for for a very very long time. So
+let me describe a little bit what it
+shows. Here on the x-axis you see number
+of locations that the robot was trained
+on. So we the robot has seen many
+different homes. Um and the x-axis is
+how many homes it's seen in its training
+data. Now on the y-axis we see the
+average task progress. So the task
+performance and this is in a new home
+that the robot has never seen
+before. Now you see here this yellow
+line shows you the performance in this
+unseen location using our method our
+PI05
+model. And it turns out that the
+performance goes up and up the more
+homes you've seen in your training data.
+And by the by the time you've seen 100
+different homes, if you go to the 100
+first home that you've never seen
+before, turns out that the performance
+is very high. It's over
+80%. Now you can also compare it to a
+situation if if you had data in that
+environment. So if you just came into
+that home, collected data in that home,
+what is that performance? And this is
+what you see in this in this bar uh that
+is in green. So this is if you had in
+the main data. So it turns out that you
+can visit around 100 homes and by the
+time you go to the 100 first home that
+you've never seen before, your
+performance will be similar in that
+never seen before home to the situation
+as if you collected data in that
+home. And this is something before we
+started this project was extremely
+unclear. You know, some of us thought
+maybe you need to visit a million
+different homes to be able to generalize
+that way. Turns out that around 100
+you're able to basically get that
+performance.
+Now, two other really important caveats
+here is that if you don't use
+pre-training that I talked about before,
+the performance drops significantly even
+if you use inomain data. This is the
+light green bar. Now, if you train on on
+all the 104 locations and don't use
+pre-training, the performance plummets
+plummets even more. And this speaks to
+the power of models that are very
+general that are trained on many many
+data sets uh across many different
+robots in many different situations.
+They develop better understanding of the
+world and they can actually work in
+environments that they've never seen
+before. So at this point, I would say
+that we know that these models are
+capable of incredible things that we've
+never seen robots do before. We know
+that they can generalize to environments
+they've never been before, like like
+homes, the most diverse environment
+there is. The last question is, can they
+perform really, really well? Now, all
+the demos I've showed you, they work
+some of the time, sometimes 80%,
+sometimes 90%, sometimes less, but they
+don't work every time. And if you really
+want to deploy this technology and bring
+it to the world, they need to be working
+100% of the time, be extremely
+reliable. I'm not going to tell you
+about this yet, but please stay tuned.
+There's more to come on that axis as
+well. All right. So, to summarize where
+are we at and and what's still missing,
+I would say the following. We have a
+prototype of a generalist model that can
+be trained on many different robots,
+many different tasks, a true
+generalist. And I think it shows kind of
+sparks of physical intelligence. It's
+not the physical intelligence that that
+I imagined yet, but I think it's
+starting to starting to get there. It
+starts to work on new robots. It's
+starting to work in new environments. It
+start to do tasks that we've never seen
+robots do before. It shows some really
+interesting behaviors.
+And then even more importantly, we
+starting to develop this recipe for
+training these robot foundation models.
+A recipe that you can apply, a recipe
+that we understand a little bit better,
+that is more repeatable, and that many
+others can can apply as well. Having
+said that, we are still very very early.
+There is there's lots of things that are
+missing. First, we are not yet there
+when it comes to generalization. I
+showed some signs of really impressive
+generalization, but if you compare it to
+something like large large language
+models, we are not there
+yet. Secondly, we need to get these
+models to be much more robust and much
+more performant. As I mentioned towards
+the end, this is something that we're
+working on, but we are not there yet.
+It's unclear how long it's going to take
+to to get us fully
+there. And then lastly, we also need to
+understand them better. We need to
+understand the recipes. We need to
+understand the scaling loss. We need to
+turn it into a science similarly to what
+happened with language and vision. We
+need to have scientists kind of ex um
+start to poke at these artifacts and
+understand how to build them
+better. Now at the very at the very end
+I wanted to leave you with with how I
+think about this how it's going to
+transform the world. If you think about
+um
+electricity that um you know we
+developed long time ago initially when
+when humanity was working on electricity
+it seemed like um it would always
+require so much effort to get it. It
+seemed just instrumentable to get it to
+a place where it's available to
+everybody. But now when you think of
+electricity it's available at the at the
+flip of a
+switch. And I think something similar is
+is going to happen with
+labor. Right now labor is kind of the
+clock speed of the of the world. It's
+something that takes takes a lot of
+effort and it's very very difficult to
+get. But I think if if we're successful,
+if we solve physical intelligence, labor
+will be available at the flip of a
+switch. Thank you.
+[Applause]

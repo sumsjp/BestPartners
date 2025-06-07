@@ -1,0 +1,453 @@
+Thank you everybody. Very pleased to be
+here to see you all.
+Um enjoyed uh Professor Benjio's talk
+and uh it's an exciting time in AI. So I
+I have a couple of messages um and they
+will pertain to
+um what Joshua Joshua is talking about
+and uh I have a very very different
+point of view and I think that will
+become clear in the second part of my
+talk
+today. Okay. But first welcome to the
+air of experience and I have a couple of
+quotes that that I think maybe a little
+bit indirectly but but uh point to my
+two main messages today.
+So quote number one is that intelligence
+is from Ray Kerszsw Wild. Intelligence
+is the most powerful phenomenon in the
+universe. This gives us a sense of the
+stakes uh of in AI and what's going on
+today in AI. Intelligence is the most
+powerful phenomenon in the universe.
+And I also have a quote from Alan Turing
+uh that I think is very
+pertinent and he said that what we want
+is a machine that can learn from
+experience. He said this in
+1947 and it it was a in a talk to the
+London mathematical soci society and as
+far as we can tell it's the first public
+presentation ever on artificial
+intelligence. I mean there was no field
+at the
+time. Uh I think this is the first time
+someone presented on AI in public and he
+he made this remark that we want a
+machine that can learn from its
+experience own first person experience
+and that's really what we're talking
+about today and what we're entering into
+today in the in the era of
+experience. So right now
+we're we are in the era of human data.
+what could be called there of human data
+because all of our AI all of our AIs are
+trained on human generated text and
+images from the internet and then
+they're fine-tuned by human experts
+given their preferences and examples of
+how they would make
+choices and you know of course the whole
+thing is trained to predict the human's
+next words or to predict the human
+labels as opposed to trying to predict
+or control the world.
+So this is what we have now. I think
+we're starting to reach the limits of
+human data, the limits of this strategy.
+Most of our high quality data sources,
+human data sources have already been
+consumed. And of course, genuinely
+generating genuinely new knowledge is
+beyond the approach of mimicking
+humans. You to do genuinely new things,
+you have to interact with the
+world. So now we are entering the era of
+experience. At least this is how we see
+it. Um, so first of all, AI needs a new
+source of data that will grow and
+improve as age becomes stronger. Any any
+static data set will will be
+insufficient. And you can get this kind
+of data from experience uh from your
+first person interaction with the world.
+Experience experience just means the the
+data you get coming out of your into
+your sensors and out through your
+aectors. And this is the way the normal
+way that people and others animals
+learn. And I think it's just useful to
+look at some videos of people learning.
+And just to remind us that we do all
+learn from experience.
+So here is an
+infant interacting with its world inter
+interacting with sequentially with
+different parts of the world its world
+different toys and trying to learn what
+what you could do with those toys and
+and just notice it's it's making choices
+that determine its input. It will
+interact with a toy for a while or a
+piece of string for a while until it's
+learned all it can and then it moves on.
+And as it grows and becomes more
+sophisticated, the amount that it can
+learn from each thing will change and it
+will behave differently in interaction
+with it. So its own behavior is
+determining it's its uh experience, its
+data and this is what we need. Or if
+just look at some other more or less
+random pictures of of humans and animals
+learning uh playing soccer say and
+achieving goals and we just think for a
+moment about the data flowing into the
+soccer players uh eyes and ears and uh
+sense sense organs for its body. All
+everything is changing. Everything is
+move moving very rapidly. uh the data
+flow into its mind is is enormous. It
+cannot have enough attention to pay
+attention to everything and it has to
+make quick decisions to achieve its
+goals. So this is what it's like life
+for for a soccer player or for an animal
+u flying through the forest or running
+away from predators or swing swinging a
+baseball bat to try to hit the ball uh
+or having a conversation being very
+concerned with this high bandwidth
+signal processing that makes up skilled
+perception and action. So that's what
+experience is. That's what I mean when I
+say experience. I don't mean anything
+fancy and uh like qualia. I just mean
+data going in and out of the
+mind.
+So remember this is how the data source
+can become variable depending upon the
+capabilities of the mind just as when
+two game playing systems are interacting
+and as they as they improve uh the data
+also gets gets better and different. And
+so this is the way Alph Go learned to
+make its creative move. Uh move 37. Um
+this was essential to learn from the
+experience. The experience in this case
+was generated by the simulation of
+possible um possible moves and
+consequences of those moves which um you
+know in game playing because you know
+the rules of the game. It's similar in
+alpha proof. Alpha proof is the system
+that won a medal in the international
+mathematical olympiad.
+uh in mathematics you can see the
+consequences of your operators and and
+look many many steps ahead just as you
+can in
+computer. So just one more slide on the
+experential mindset.
+So let's say it in in words. The
+experential the way the way we think
+about things when we think about
+experience is that the agent the agent
+exchanges signals with the world and
+these are its
+experience and then learning is of
+course from that experience. And a more
+deeper observation is that anything that
+the agent knows is about experience. So
+even if you were to give the agent some
+knowledge in advance,
+uh it would still have to be about
+experience. It's not about words. It's
+about what would happen if it was to do
+things. Knowledge is about experience
+and therefore it can be learned from
+experience. An agent is intelligent to
+the extent that it can predict and
+control it in signals particularly it
+reward. Pict and control that's what AI
+uh should be is about. intelligence is
+about experience is the focus and
+foundation of all intelligence. And of
+course, as I'm sure you've noticed or
+are thinking, um the field of
+reinforcement learning is based on this
+mindset and that there are agents that
+are first class agents that make
+decisions, achieve goals, interact with
+the world, totally
+agentic. Then we can think of the
+timeline where we are now.
+So the first era, the era of Alph Go,
+the era of Atari, this is the era of
+simulation where uh um reinforcement
+learning agents would learn from their
+simulated experience and learn to get
+much better and and uh have these famous
+examples like Alph Go and Alpha Zero
+that rock the
+world. And then we entered the era of
+human data with chat GPT and the large
+language models chat
+GPT3 and we are we are perhaps nearing
+the end of that era now where all the
+data comes from humans and we'll enter
+the era of experience true experience
+interacting with the world. We see the
+first hints of this with alpha proof as
+I discussed and also we see the hints of
+it when um the large language models are
+now using computers have access to APIs
+and can actually take actions in the
+world. Okay. So this is my first uh
+point about the perspective on the
+future of AI. So my my perspective is
+really that the the creation of super
+intelligent agents and super intelligent
+augmented humans, these will be an
+unalloyed good for the world. I'm not
+concerned about uh issues of safety. I'm
+not concerned about loss of of jobs.
+These are just a normal part of
+transitions and the development of the
+world. So I think this will take a
+while. This will take decades and it
+will continue for decades after that.
+It's a marathon. It's not really right
+around the corner, but it's good for us
+to be getting ready for it as it will be
+rocking our world for a
+while now. Full intelligent agents will
+have to learn from experience. This is
+beyond our current agents and as
+magnificent as they are as customizable
+interfaces to the world's
+knowledge. We have entered this new era
+of experience using reinforcement
+learning.
+However, I have to acknowledge that to
+realize its full power will require
+better deep learning algorithms.
+Algorithms that are capable of continual
+learning and metal
+learning. So now I'd like to shift gears
+and talk a little bit about the
+politics and now we'll be touching on uh
+this some of the issues that u professor
+Benjio talk talked about.
+So just when you we have to ask this
+basic question and societies of agents
+is there just one goal that everyone
+shares or are there many goals and one
+way of approaching this approach a way
+you know I'm a reinforcement learning
+researcher it seems very natural to
+think about my agents my reinforcement
+learning agents and it's obvious in
+reinforcement learning that each agent
+has its own goal it has its own reward
+signal entering its its mind um and it's
+trying to maximize that goal and there's
+no reason why the reward signals
+entering different agents have to be the
+same. And if we also think about in
+nature each animal has has an analogous
+signal entering its mind uh it's
+actually computed in the
+hypothalamus hypothalamus of their
+brains. Um and this is their and also
+computed in its pain sensors and its
+pleasure
+sensors. So uh in nature in AI and in
+nature different agents have their
+different goals. I mean we could talk
+about how they share goals like every
+animal is concerned with food but you
+know they're one animal's food is not
+the other animals food. They're they're
+they're sort of symmetrical goals.
+They're not the same goals. and even and
+and people too. Of course, we we care
+about our families and we care about our
+food and our our safety um more than a
+common
+goal. So, I want you to just reflect if
+you can uh if you will about um our
+economies and how they work best. I
+think they work best when people have
+different goals and different abilities.
+So, um the goals don't have to conflict.
+Um but they are can be different and
+difference differences are good. Our
+economies don't really rely on people
+having the same goal same goal. They
+rely on people pursuing their individual
+goals and then and then
+interacting. And so
+um I think that the the message that we
+don't want to miss the message or what's
+obvious I think what's obvious about our
+societies is that we can exist. We can
+coexist in peace even when we all want
+different things. You know, we trade and
+we specialize and we interact. And so
+anyway, whether you ready to view things
+this way, let me make some definitions
+so I can talk about this simply. So I
+want to define
+decentralization to be this phenomenon
+where you have many agents each pursuing
+its own goal. that would be contrasted
+with centralization where you have many
+agents and they all are constrained to
+have the same goal. So for example, uh
+bees are are centralized societies. A
+hive of bees has many agents, but
+they're all pursuing the goal of the
+hive and ants also. So decentralization,
+many agents, each pursuing its own goal,
+each allowed to have its own goal. And
+cooperation is when agents that have
+different goals interact to mutual
+benefit. Each agent achieves its own
+goals or furthers its own goals uh by
+the interaction. So in exchange a
+win-win relationship. This is decent. So
+decentralization and
+cooperation. Now I think that
+cooperation is our superpower. I think
+humans cooperate much more than any
+other animal. And cooperation is
+facilitated by language and by money.
+All things that are unique to humans.
+Humanity's greatest successes are are
+our cooperations like the economies and
+the markets and the governments. Those
+are how we cooperate. And our greatest
+failures are failures to cooperate like
+war and theft and corruption.
+So this view of decentralized
+cooperation is an alternative view uh of
+how societies should be organized and in
+my view it's more elegant than the
+centralized view. Uh that the
+decentralized cooperation is more robust
+and sustainable and
+flexible. Um it's it's more resistant to
+uh cheaters and outliers. Anyway, so
+humans are better at cooperation than
+any other animal. We're I have to
+acknowledge that we're still terrible at
+it. We still do have wars. We still do
+have theft and corruption and fraud. So,
+we have to really struggle to cooperate.
+Cooperation, first of all, it's not
+always possible. It takes at least two
+trustworthy agents. And there always
+going to be some that are not
+trustworthy. Those who benefit from not
+cooperating, the the cheats and the
+thieves and the weapons manufacturers
+and the dictators, they benefit from not
+cooperating. Now,
+cooperation if this is is a great thing,
+but it needs institutions to facilitate
+it, to punish the cheaters, to punish
+the the fraudsters and the thieves.
+Um so centralized authorities can help
+cooperation the the institutions that
+are needed to facilitate it. But those
+centralized authorities uh can also
+poison cooperation in the long run when
+when the authorities become
+authoritarian or
+sclerotic. And so this contrast is
+between centralized control and
+decentralized cooperation. I think the
+tension between these two is the central
+political issue of our
+time. And so I think you'll see that if
+you just look at this parallels between
+the calls for control of AI and the
+calls for control of
+people.
+So think of AI for now. There are many
+calls and and here I want you to think
+of professor Benjio's talk which is
+explicitly a call for controlling the
+goals of AI or controlling even their
+ability to have
+goals. Uh there there are calls for
+pausing or stopping AI research slowing
+it down. There are calls for limiting
+the power that could be used to u to
+make AIs and there are calls for
+ensuring the safety of
+AI making and and require disclosures.
+So this the parallel then is with
+control of people as you know in big
+political issues in our time is can
+speech be free? Can people be allowed to
+hear things of other people?
+uh can we have free trade or must be
+controlled? How can we control the
+employment? How do we control the
+financial or the capital controls? Uh do
+we have tariffs and economic sanctions
+on one country or
+another? These arguments I think are
+eerily similar between the calls for
+control of AI and the calls for control
+of people. I think it's basically a
+society issue how we're going to deal
+with uh people having multiple goals.
+Are we going to go decentralized? Are we
+going to move towards centralized
+control? So, the calls for centralized
+control are very similar. They're all
+based on fear. They're all based by us
+versus them. Whether it's us Americans
+versus them, the Russians,
+or if you're in China, as you guys all
+all are, you you're us China, and them
+is the US. Um in in in the US it's the
+other way around. We are all uh there
+are we all they're all the centralized
+controls. They they demonize the other.
+They claim the other can't be trusted. I
+think it's much more complicated than
+that or more nuanced than that. We all
+in every society there there are some
+who can't be trusted and there's the
+majority that that normally can be
+trusted.
+So just to summarize
+uh I think all human
+flourishing and also AI flourishing it
+comes from decentralized cooperation.
+Humans are great at cooperation but
+they're also terrible at it. Cooperation
+not only not always possible but it's
+the source of all that's good in the
+world and we must look for and support
+uh cooperation and seek to
+institutionalize
+it. Now this is where I have to call on
+you to use your own experience with your
+world. I want you to look with your own
+open eyes. And I think if you do, it's
+easy for you to see who is calling for
+mistrust and who is calling for
+non-ooperation and who is calling for
+centralized control. And I think we
+should resist those
+calls. And finally, I just think this is
+a useful lens with which to view all
+calls for human and AI interaction.
+Thank you very much for your attention.
