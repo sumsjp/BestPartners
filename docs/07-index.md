@@ -1,4 +1,20 @@
 <details>
+<summary>762. 【人工智能】通用验证器Universal Verifier | GPT-5背后的秘密武器 | RLVR | RaR | Rubicon | Writing-Zero | INTUITOR | OaK</summary><br>
+
+<a href="https://www.youtube.com/watch?v=X3iRGwrkuc4" target="_blank">
+    <img src="https://img.youtube.com/vi/X3iRGwrkuc4/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】通用验证器Universal Verifier | GPT-5背后的秘密武器 | RLVR | RaR | Rubicon | Writing-Zero | INTUITOR | OaK
+
+
+
+---
+
+</details>
+
+<details>
 <summary>761. [2025-09-24] 【人工智能】Anthropic发布经济指数报告 | 基于Claude和API数据 | AI采用速度历史罕见 | 知识密集型任务增加 | 用户AI协作 | 地区差异巨大 | 美国任务结构 | 上下文</summary><br>
 
 <a href="https://www.youtube.com/watch?v=paPeISXpU4U" target="_blank">
