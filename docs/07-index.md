@@ -1,4 +1,20 @@
 <details>
+<summary>767. 【人工智能】DeepSeek发布新模型V3.2-Exp | 全新DSA稀疏注意力机制 | 闪电索引器 | 长上下文效率优化 | 细粒度的token选择 | MLA架构 | 密集预热+稀疏训练 | 蒸馏</summary><br>
+
+<a href="https://www.youtube.com/watch?v=CA2lzW9INrQ" target="_blank">
+    <img src="https://img.youtube.com/vi/CA2lzW9INrQ/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】DeepSeek发布新模型V3.2-Exp | 全新DSA稀疏注意力机制 | 闪电索引器 | 长上下文效率优化 | 细粒度的token选择 | MLA架构 | 密集预热+稀疏训练 | 蒸馏
+
+
+
+---
+
+</details>
+
+<details>
 <summary>766. [2025-09-29] 【人工智能】AI的无限循环 | 神经科学家Anil Seth | 时间 | 熵 | 意识 | 图灵停机问题 | 框架问题 | 热力学第二定律 | 模拟计算 | 凡人计算 | 神经计算 | 动力系统</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7Eg2MTM76jM" target="_blank">
