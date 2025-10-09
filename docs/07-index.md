@@ -1,4 +1,75 @@
 <details>
+<summary>773. [2025-10-09] 【人工智能】OpenAI DevDay 2025 | Apps SDK | AgentKit | Codex | GPT-5 Pro API | Real-time mini | Sora 2 API</summary><br>
+
+<a href="https://www.youtube.com/watch?v=N0X8-fsQuNY" target="_blank">
+    <img src="https://img.youtube.com/vi/N0X8-fsQuNY/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】OpenAI DevDay 2025 | Apps SDK | AgentKit | Codex | GPT-5 Pro API | Real-time mini | Sora 2 API
+
+好的，我來幫您整理這篇文稿，使其更精簡、重點更突出，並保留原意：
+
+**標題：OpenAI DevDay 解析：AI 商業帝國藍圖**
+
+**核心觀點：**
+
+*   OpenAI DevDay 展示了其從技術驅動轉向建立以 AI 為核心的軟體生態體系的策略。
+*   目標：構建一個整合應用程式、Agent 和程式碼開發工具的封閉生態系統，掌握 AI 的應用和發展方向。
+
+**主要內容：**
+
+*   **Apps SDK：**
+    *   將大型語言模型 (LLM) 作為所有軟體應用程式的統一入口。
+    *   允許開發者在 ChatGPT 內部構建可互動的應用程式，直接連接數據和觸發操作，提供更自然的互動體驗。
+    *   打破應用程式之間的壁壘，實現工具協作流程。
+    *   使用 MCP 體系設計應用程式邏輯和介面，並利用 GPT 的圖像識別能力。
+    *   跨對話的記憶功能，提供更完整的上下文理解。
+*   **AgentKit：**
+    *   簡化 Agent 開發工具包，降低開發門檻。
+    *   核心是 Agent Builder，通過可視化的画布設計業務流程，無需編寫程式碼。
+    *   ChatKit 提供可嵌入的聊天組件，Connector 將 Agent 工具與企業內部數據和工具連接。
+    *   RFT (Reinforcement Learning from Feedback) 定制功能深入模型內部，優化工具調用。
+    *   Evals 評估板塊提供端到端的評估，精準定位和修復問題。
+*   **Codex：**
+    *   從「研究預覽版」轉為「正式版」，更著重對企業和工程團隊的支援。
+    *   Slack 整合：直接在 Slack 頻道中調用 Codex，實現更高效的協作。
+    *   Codex SDK：將 Codex 的能力集成到企業內部的開發工作流程中。
+    *   後台管理與報告工具：提供環境控制、實時監控和分析儀表板，更好地管控風險。
+    *   展示：通過語音助手調用 Codex SDK，實時修改前端程式碼，實現「無程式碼程式設計」。
+*   **API 更新：**
+    *   GPT-5 Pro API 開放，允許更多開發者使用。
+    *   新的語音模型 GPT Real-time mini，降低成本但保持音質和情感表現力。
+    *   Sora 2 API 開放，允許開發者將 Sora 2 的影片生成能力集成到自己的產品中。
+
+**OpenAI 的野心：**
+
+*   不再追求單點技術突破，而是著重生態整合。
+*   構建一個以自家大型模型為核心的封閉生態系統，掌控數據和流量。
+*   重心從「探索 AGI」轉向「商業落地」。
+
+**結論與提問：**
+
+*   AI 的下一個階段是生態整合，誰能整合應用程式、Agent、程式碼開發工具，誰就能在競爭中佔據優勢。
+*   OpenAI 的生態藍圖是否會讓 AI 更實用，或者會導致「生態壟斷」？
+
+**整理要點：**
+
+*   刪除了過多的口語化表達，使其更專業。
+*   簡化了部分細節描述，突出核心功能和優勢。
+*   重新組織了段落結構，使其更清晰易懂。
+*   提煉了核心觀點和結論，使其更具概括性。
+
+**這份整理後的文稿可以更有效地幫助讀者快速了解 OpenAI DevDay 的重點內容，並理解 OpenAI 的策略方向。**
+
+[model=gemini-2.0-flash,0]
+
+
+---
+
+</details>
+
+<details>
 <summary>772. [2025-10-08] 【人工智能】软件正在吞噬生产力市场 | A16Z合伙人Alex Rampell | 软件的70年变革 | SaaS定价的“星巴克”模式 | 催生市场扩张 | 新的业务可能性 | 全球性机会</summary><br>
 
 <a href="https://www.youtube.com/watch?v=uiZEWwN5EKU" target="_blank">
