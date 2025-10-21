@@ -1,4 +1,20 @@
 <details>
+<summary>786. 【访谈】极致自律能带来怎样的顶级人生 | Telegram创始人Pavel Durov | 对自由的执念 | 拒绝酒精和手机 | 每天坚持300个俯卧撑 | 隐私保护的底线 | 天才哥哥 | 理想主义</summary><br>
+
+<a href="https://www.youtube.com/watch?v=2GQWeUSAPqQ" target="_blank">
+    <img src="https://img.youtube.com/vi/2GQWeUSAPqQ/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【访谈】极致自律能带来怎样的顶级人生 | Telegram创始人Pavel Durov | 对自由的执念 | 拒绝酒精和手机 | 每天坚持300个俯卧撑 | 隐私保护的底线 | 天才哥哥 | 理想主义
+
+
+
+---
+
+</details>
+
+<details>
 <summary>785. [2025-10-20] 【AI动态】每日科技新闻 | 20251020 | GPT5数学突破闹乌龙 | Opera Neon浏览器问题 | Gemini将狗识别成猫 | 宇树发布仿生机器人H2 | AI助手CiCi霸榜海外</summary><br>
 
 <a href="https://www.youtube.com/watch?v=O58Icrc1J1M" target="_blank">
