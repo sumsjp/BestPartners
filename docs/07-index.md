@@ -1,4 +1,102 @@
 <details>
+<summary>794. [2025-10-31] 【人工智能】下个阿波罗时刻 | 英伟达GTC25黄仁勋演讲 | CUDA-X全栈加速库 | Vera Rubin芯片 | 新一代超级计算机 | 投资诺基亚10亿美元 | NVQLink | AI劳动力</summary><br>
+
+<a href="https://www.youtube.com/watch?v=xefsis6QGG0" target="_blank">
+    <img src="https://img.youtube.com/vi/xefsis6QGG0/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】下个阿波罗时刻 | 英伟达GTC25黄仁勋演讲 | CUDA-X全栈加速库 | Vera Rubin芯片 | 新一代超级计算机 | 投资诺基亚10亿美元 | NVQLink | AI劳动力
+
+好的，以下是經過整理的文稿，我著重於更清晰地呈現資訊，並調整了部分口語化的表達方式：
+
+**主题：NVIDIA GTC 2024 大会回顾：黄仁勋的 AI 帝国版图扩张**
+
+**引言：**
+
+NVIDIA 创始人兼 CEO 黄仁勋于美东时间 10 月 28 日在华盛顿 GTC 大会上发表主题演讲，以人类历史创新剪影开场，将 NVIDIA 定位为 AI 创新的下一个“阿波罗时刻”。本次演讲不仅展示了下一代超级芯片 Vera Rubin，还涉及 6G、量子计算、机器人和自动驾驶等领域。
+
+**核心内容：**
+
+1.  **投资与合作：**
+
+    *   宣布向诺基亚投资 10 亿美元，推动诺基亚股价上涨。
+    *   与甲骨文合作打造 AI 超级计算机。
+    *   与富士康合作在德克萨斯州建立生产 GPU 的自主机器人工厂。
+    *   与 Uber 合作开发自动驾驶出租车。
+
+2.  **计算产业的转折：**
+
+    *   黄仁勋回顾了计算产业的历史性转折，指出随着登纳德缩放定律的终结，传统 CPU 性能增长模式难以为继。
+    *   NVIDIA 的解决方案：并行计算、GPU 和加速计算架构，以及 CUDA-X 全栈加速库。 CUDA-X包含 cuDNN、TensorRT-LLM、RAPIDS、cuOpt、cuLitho、CUDA-Q等。
+
+3.  **Vera Rubin 超级芯片：**
+
+    *   首次公开展示下一代 Vera Rubin 超级芯片，包含 Vera CPU 和两颗 Rubin GPU，采用 HBM4 高带宽内存。
+    *   Rubin GPU的浮点计算性能可达 50 PFLOPs，配备 288GB HBM4 显存。
+    *   Vera CPU 采用定制 Arm 架构，拥有 88 个核心、176 个线程，通过 NVLINK-C2C 接口与 GPU 连接，带宽高达 1.8TB/s。
+    *   Vera Rubin NVL144 平台整体推理性能可达 3.6 Eflops，训练性能可达 1.2 Eflops，相较 GB300 NVL72 性能提升 3.3 倍。
+    *   预计明年实现量产，Rubin Ultra NVL576 平台计划于 2027 年推出。
+    *   NVIDIA 的策略是用 GB300 继续支撑当下的云计算和训练负载，用 Rubin 来承接 2026 年之后的需求。
+
+4.  **科研合作：**
+
+    *   与美国能源部（DOE）达成战略合作，共同建设七台新一代的超级计算机。
+    *   与美国能源部及甲骨文公司合作在阿贡国家实验室打造规模最大的 AI 超级计算机集群，包含 Solstice 和 Equinox 两大核心系统。
+    *   与 HPE 合作为洛斯阿拉莫斯国家实验室打造两台基于 Vera Rubin 平台的全新超级计算机。
+
+5.  **6G 与 AI-RAN：**
+
+    *   宣布投资诺基亚，合作开发空中无线电网络计算机 (ARC)，这是一款支持 6G 的电信计算平台。
+    *   诺基亚将在 NVIDIA 平台上推出 AI 原生的 6G 网络以及新一代的 AI-RAN 产品线。
+    *   未来每个基站不仅能够根据天气、信号干扰、用户密度智能地调度发射功率，还能部署 AI 服务。
+
+6.  **量子计算：**
+
+    *   推出 NVQLink，一种量子 GPU 互连技术，能够实时调用 CUDA-Q 计算框架，构建加速量子超级计算机。
+    *   已有 17 家量子处理器制造商、5 家量子控制系统厂商以及 9 家国家实验室支持 NVQLink。
+
+7.  **Physical AI、Omniverse 数字孪生与机器人：**
+
+    *   西门子正在测试支持 NVIDIA 超级 Omniverse 蓝图的数字孪生软件。
+    *   发那科和富士康工业富联是首批支持用 OpenUSD 来构建机器人数字孪生模型的制造商。
+    *   卡特彼勒、丰田、台积电等也在用 Omniverse 数字孪生进行预测性维护、动态排产、智能调度等任务。
+    *   AI 正在将全球工厂转变为一个智能的思考机器，这是新一轮工业革命的引擎。
+    *   Figure AI、Agility Robotics、亚马逊的机器人、Skild AI 等都在与 NVIDIA 合作，利用其技术进行机器人开发。
+
+8.  **AI 即劳动力：**
+
+    *   黄仁勋认为 AI 不是工具，而是劳动力，能够理解、响应、学习并完成实际任务。
+    *   NVIDIA 深入到 SaaS 与企业软件体系中，与 Palantir、CrowdStrike、SAP、Synopsys 等公司合作，将 AI 工具链嵌入到行业龙头企业的系统中。
+
+9.  **自动驾驶：**
+
+    *   与 Uber 达成战略合作，要扩展全球最大的 L4 自动驾驶出行网络，计划自 2027 年起正式启动规模化部署，首批目标是 10 万辆车。
+    *   NVIDIA 还为此专门推出了 DRIVE AGX Hyperion 10，可让任何车辆达到 L4-ready 阶段。
+    *   Stellantis、Lucid、梅赛德斯奔驰等车企也将基于 Hyperion 10 平台打造各自的 L4 级车辆。
+    *   Aurora、沃尔沃、Waabi 正在用 NVIDIA 的平台来开发 L4 级别的自动驾驶卡车。
+
+**结论：**
+
+本次 GTC 演讲展现了 NVIDIA 从算力到场景的全链路施工图，结盟的行业龙头比以往任何时候都要多。新工业革命的引擎已经轰鸣，而 NVIDIA 正手握方向盘。
+
+**整理说明：**
+
+*   **结构调整:** 将信息按照主题分类，更易于理解。
+*   **语言精简:** 去除了部分口语化的表达，使文稿更加正式。
+*   **内容提取:** 提炼了演讲中的关键信息，重点突出合作项目、技术突破和未来愿景。
+*   **逻辑梳理:** 重新组织了部分段落的顺序，使其更符合逻辑。
+
+希望以上整理後的文稿對您有幫助！ 如果您需要進行更深入的整理或有其他的要求，請隨時告訴我。
+
+[model=gemini-2.0-flash,0]
+
+
+---
+
+</details>
+
+<details>
 <summary>793. [2025-10-30] 【人工智能】英伟达爆发增长的关键原因 | CTO Michael Kagan | 收购Mellanox | GPU算力的扩展问题 | 网络抖动 | BlueField DPU | 双赢的企业文化</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MrreyJEorAE" target="_blank">
