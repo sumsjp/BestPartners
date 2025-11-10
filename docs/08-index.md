@@ -1,4 +1,20 @@
 <details>
+<summary>802. [2025-11-10] 【人工智能】AI是产业革命还是一场泡沫 | 六位AI奠基人罕见齐聚讨论 | 杰弗里·辛顿 | 杨立昆 | 约书亚·本吉奥 | 黄仁勋 | 比尔·达利 | 李飞飞 | 顿悟时刻 | AGI何时到来</summary><br>
+
+<a href="https://www.youtube.com/watch?v=Ca1Gxg3J_Lc" target="_blank">
+    <img src="https://img.youtube.com/vi/Ca1Gxg3J_Lc/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】AI是产业革命还是一场泡沫 | 六位AI奠基人罕见齐聚讨论 | 杰弗里·辛顿 | 杨立昆 | 约书亚·本吉奥 | 黄仁勋 | 比尔·达利 | 李飞飞 | 顿悟时刻 | AGI何时到来
+
+
+
+---
+
+</details>
+
+<details>
 <summary>801. [2025-11-09] 【访谈】红杉资本新掌舵人的投资哲学 | Alfred Lin | 四个标准差的创始人 | 熔炉时刻 | Zipline | Airbnb | 同期群曲线 | AI的长期稳定点 | 重塑用户体验</summary><br>
 
 <a href="https://www.youtube.com/watch?v=cXktR1AaRNY" target="_blank">
