@@ -1,4 +1,116 @@
 <details>
+<summary>816. [2025-12-03] 【人工智能】思考游戏 | 哈萨比斯与DeepMind纪录片 | 如何从国际象棋天才少年成长为AI领袖 | 通用人工智能AGI | AlphaGo | AlphaFold | 人类历史的十字路口</summary><br>
+
+<a href="https://www.youtube.com/watch?v=clGdgQEOew8" target="_blank">
+    <img src="https://img.youtube.com/vi/clGdgQEOew8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】思考游戏 | 哈萨比斯与DeepMind纪录片 | 如何从国际象棋天才少年成长为AI领袖 | 通用人工智能AGI | AlphaGo | AlphaFold | 人类历史的十字路口
+
+好的，我將這篇文稿整理如下，使其更結構化、更清晰：
+
+**主題：DeepMind與通用人工智慧(AGI)的旅程**
+
+**引言：**
+
+*   影片開場以列車飛馳的意象，比喻時間的流逝和追趕時間的緊迫感。
+*   介紹影片將講述一群人與時間賽跑的故事，他們試圖解決智能問題，並用智能解決其他所有問題。
+*   故事主角是Demis Hassabis和他的公司DeepMind。
+*   這不僅僅是科技創業史，更是人類通往通用人工智慧(AGI)的旅程，這是一段既激動人心又充滿未知的旅程。
+
+**DeepMind 的起源與使命：**
+
+*   在倫敦國王十字車站後面的團隊相信，解開智能之謎就能掌握開啟宇宙真理的萬能鑰匙。
+*   Hassabis感受到構建AGI的緊迫性，認為時間不多了。
+*   DeepMind的使命宣言：解決智能問題，然後用它解決一切 (Solve Intelligence and then use it to solve everything else)。
+
+**Demis Hassabis的早年經歷：**
+
+*   Hassabis從小展現出驚人的國際象棋天賦，4歲時就表現出來，6歲時成為倫敦8歲以下組的冠軍。
+*   國際象棋是Hassabis思考的實驗室，他開始思考「我的大腦是如何做到的？什麼是思考？」
+*   12歲時，在一場國際象棋比賽中，他頓悟到將天才們的算力用於解決癌症、氣候問題等，比在棋盤上博弈更有意義。
+*   他決定創造一種超越人類大腦局限性的東西。
+
+**Hassabis的遊戲開發生涯：**
+
+*   16歲時，Hassabis憑藉自己編寫的遊戲程序進入牛蛙製作（Bullfrog Productions）公司。
+*   與彼得·摩利紐克斯（Peter Molyneux）合作開發遊戲《主題公園》（Theme Park）。
+*   Hassabis負責編寫遊客的AI，創造了自主的AI，使得遊客的行為基於簡單規則湧現出複雜的群體行為。
+*   這讓Hassabis看到了智能在模擬環境中的潛力，這是一個微縮的社會實驗。
+
+**學術生涯與DeepMind創立：**
+
+*   Hassabis用在遊戲行業賺到的錢完成了在劍橋大學的學業，攻讀計算機科學和神經科學。
+*   DeepMind的技術哲學：從人類大腦的生物學機制中汲取靈感，在計算機的矽基晶片上重構它。
+*   2010年，Hassabis與Shane Legg和Mustafa Suleyman在倫敦創立DeepMind。
+
+**DeepMind的早期挑戰與突破：**
+
+*   當時AI領域被認為是令人尷尬的領域，DeepMind被認為是在賣彩票。
+*   早期資金緊張，但他們找到了一些信徒，例如彼得·蒂爾（Peter Thiel）和埃隆·馬斯克（Elon Musk）。
+*   他們面臨的第一個挑戰是讓機器學會學習，選擇了強化學習（Reinforcement Learning）。
+*   通過讓AI在Atari復古遊戲中不斷試錯，DeepMind驗證了強化學習理論。
+*   AI在《打磚塊》（Breakout）遊戲中，學會了人類玩家很少用到的策略，證明了通用的自我學習演算法是可行的。
+
+**DeepMind被谷歌收購：**
+
+*   2014年，谷歌以約4億英鎊的價格收購DeepMind。
+*   谷歌給予DeepMind無限的算力支持，並保持其獨立的研究文化。
+
+**AlphaGo的勝利：**
+
+*   DeepMind將目光投向圍棋（Go），圍棋被認為是計算機無法攻克的堡壘。
+*   2016年3月，AlphaGo對戰李世石（Lee Sedol），AlphaGo以4比1獲勝。
+*   AlphaGo在第二局的第37手，下出了一步肩衝，超越了人類的經驗，創造了新的知識。
+*   AlphaGo的勝利宣告AI不再僅僅是模仿人類，而是在創造新的知識。
+
+**AlphaZero與星際爭霸II：**
+
+*   DeepMind隨後開發了AlphaZero，AlphaZero不需要學習人類的棋譜，就能超越人類幾千年的積累。
+*   AlphaStar在《星際爭霸II》中，學會了微操和戰術欺騙，在複雜策略遊戲上的統治力毋庸置疑。
+
+**AlphaFold與蛋白質折疊問題：**
+
+*   DeepMind的目標是解決智能問題，然後用它解決一切，遊戲只是他們的訓練場。
+*   DeepMind將目光投向蛋白質折疊問題，蛋白質的功能由其三維結構決定。
+*   DeepMind組建了一支跨學科的突擊隊，重寫了整個代碼，引入了基於注意力機制的Neural Network。
+*   2020年，AlphaFold 2在CASP14比賽中，平均分達到驚人的92.4分，蛋白質折疊問題在某種意義上被解決。
+*   DeepMind开源了AlphaFold的代码，并发布包含2亿多种蛋白质预测结构的数据库， 帮助我们理解疾病的机理，甚至设计出能分解塑料的酶来治理环境污染。
+*   Hassabis和John Jumper凭借在AlphaFold上的成就，获得了诺贝尔化学奖。
+
+**AGI的倫理困境：**
+
+*   DeepMind面臨著對AGI力量的敬畏和倫理困境。
+*   謝恩·萊格（Shane Legg）擔憂如何控制超級智能。
+*   AGI可以被用於治愈癌症，也可以被用來製造自主武器、進行大規模監控等。
+*   斯圖爾特·羅素（Stuart Russell）警告我們需要警惕AGI的風險。
+*   DeepMind一直強調負責人的AI，試圖在技術加速與安全倫理之間找到平衡。
+
+**結尾：**
+
+*   DeepMind辦公室的藝術裝置《創造亞當》提醒我們，我們都是相互連接的，都是比自身更宏大事物的一部分。
+*   AGI將把人類文明切分為前AI時代和後AI時代。
+*   DeepMind的故事告訴我們，這是關於一群夢想家，他們試圖用矽基的容器承載人類最寶貴的特質。
+*   作為乘客的我們，至少應該睜大眼睛，去見證、去理解、去思考這個即將到來的新世界。
+
+**改善之處：**
+
+*   **更清晰的結構：** 使用標題和分點，使內容更容易閱讀和理解。
+*   **更簡潔的語言：**  去除一些口語化的表達，使語言更正式。
+*   **重點突出：**  突出了DeepMind的關鍵里程碑和核心理念。
+*   **邏輯連貫：**  確保內容的邏輯順序更自然。
+
+希望這個整理對您有幫助！
+
+[model=gemini-2.0-flash,0]
+
+
+---
+
+</details>
+
+<details>
 <summary>815. [2025-12-02] 【访谈】为什么马斯克能打败所有人 | 红杉合伙人肖恩·马奎尔 | 马斯克是一个群体 | 科技界的布尔巴基 | 选人的艺术 | 智力的差距层级 | 天才之间的鸿沟 | 投资SpaceX | 非线性决策</summary><br>
 
 <a href="https://www.youtube.com/watch?v=GgkXSTatK48" target="_blank">
