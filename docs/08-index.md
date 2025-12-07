@@ -1,4 +1,20 @@
 <details>
+<summary>820. [2025-12-07] 【芯片】“中国版英伟达”摩尔线程上市 | 首日暴涨近五倍 | 市值逼近3000亿 | GPU算力水平 | 商业模式 | MTLink | MUSA | 创始团队 | 机构投资者 | 国产芯片扎堆上市</summary><br>
+
+<a href="https://www.youtube.com/watch?v=MYqatuwwbhk" target="_blank">
+    <img src="https://img.youtube.com/vi/MYqatuwwbhk/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【芯片】“中国版英伟达”摩尔线程上市 | 首日暴涨近五倍 | 市值逼近3000亿 | GPU算力水平 | 商业模式 | MTLink | MUSA | 创始团队 | 机构投资者 | 国产芯片扎堆上市
+
+
+
+---
+
+</details>
+
+<details>
 <summary>819. [2025-12-06] 【人工智能】AI如何改变Anthropic的工作 | 工作总量大幅提升 | 学习和迭代速度加快 | 核心技能退化风险 | AI取代工作的担忧 | 工作的意义感 | 软件工程师的未来 | 未来的迷茫</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3o13Kw57kt4" target="_blank">
