@@ -1,4 +1,20 @@
 <details>
+<summary>821. [2025-12-08] 【人工智能】AI顶会ICLR泄露门始末 | 61分钟漏洞 | 审稿人身份裸奔 | 双盲机制粉碎 | 学术信仰崩塌 | OpenReview | 黑暗森林 | AI评审意见 | 审稿人圈子 | 引文联盟</summary><br>
+
+<a href="https://www.youtube.com/watch?v=xx2jfGBJAy0" target="_blank">
+    <img src="https://img.youtube.com/vi/xx2jfGBJAy0/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】AI顶会ICLR泄露门始末 | 61分钟漏洞 | 审稿人身份裸奔 | 双盲机制粉碎 | 学术信仰崩塌 | OpenReview | 黑暗森林 | AI评审意见 | 审稿人圈子 | 引文联盟
+
+
+
+---
+
+</details>
+
+<details>
 <summary>820. [2025-12-07] 【芯片】“中国版英伟达”摩尔线程上市 | 首日暴涨近五倍 | 市值逼近3000亿 | GPU算力水平 | 商业模式 | MTLink | MUSA | 创始团队 | 机构投资者 | 国产芯片扎堆上市</summary><br>
 
 <a href="https://www.youtube.com/watch?v=MYqatuwwbhk" target="_blank">
