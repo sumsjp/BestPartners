@@ -1,4 +1,20 @@
 <details>
+<summary>822. [2025-12-09] 【芯片】AWS正式发布Trainium 3芯片 | 性价比之王 | N3P工艺 | 算力和内存升级 | 两款机架SKU | 交换式拓扑网络 | NeuronCore | 开放软件生态 | 坚持风冷</summary><br>
+
+<a href="https://www.youtube.com/watch?v=tURnVlRcUMQ" target="_blank">
+    <img src="https://img.youtube.com/vi/tURnVlRcUMQ/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【芯片】AWS正式发布Trainium 3芯片 | 性价比之王 | N3P工艺 | 算力和内存升级 | 两款机架SKU | 交换式拓扑网络 | NeuronCore | 开放软件生态 | 坚持风冷
+
+
+
+---
+
+</details>
+
+<details>
 <summary>821. [2025-12-08] 【人工智能】AI顶会ICLR泄露门始末 | 61分钟漏洞 | 审稿人身份裸奔 | 双盲机制粉碎 | 学术信仰崩塌 | OpenReview | 黑暗森林 | AI评审意见 | 审稿人圈子 | 引文联盟</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xx2jfGBJAy0" target="_blank">
