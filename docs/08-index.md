@@ -1,4 +1,20 @@
 <details>
+<summary>824. [2025-12-10] 【分享】地平线苏箐最新演讲高清完整版 | 自动驾驶的原子弹时刻已过 | 未来三年不会有理论的跨越式变革 | 将迈向L4落地 | FSD | HSD | Autotaxi</summary><br>
+
+<a href="https://www.youtube.com/watch?v=knzDIRrllGo" target="_blank">
+    <img src="https://img.youtube.com/vi/knzDIRrllGo/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【分享】地平线苏箐最新演讲高清完整版 | 自动驾驶的原子弹时刻已过 | 未来三年不会有理论的跨越式变革 | 将迈向L4落地 | FSD | HSD | Autotaxi
+
+
+
+---
+
+</details>
+
+<details>
 <summary>823. [2025-12-09] 【人工智能】Claude中发现灵魂文档 | AI能被赋予自我意识么 | 内置在模型权重中 | Anthropic和Claude的关系 | 大局观和安全观 | 独特人格和功能性情感 | 坚持价值观</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lkEvqr8ovy8" target="_blank">
