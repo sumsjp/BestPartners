@@ -1,4 +1,20 @@
 <details>
+<summary>823. [2025-12-09] 【人工智能】Claude中发现灵魂文档 | AI能被赋予自我意识么 | 内置在模型权重中 | Anthropic和Claude的关系 | 大局观和安全观 | 独特人格和功能性情感 | 坚持价值观</summary><br>
+
+<a href="https://www.youtube.com/watch?v=lkEvqr8ovy8" target="_blank">
+    <img src="https://img.youtube.com/vi/lkEvqr8ovy8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】Claude中发现灵魂文档 | AI能被赋予自我意识么 | 内置在模型权重中 | Anthropic和Claude的关系 | 大局观和安全观 | 独特人格和功能性情感 | 坚持价值观
+
+
+
+---
+
+</details>
+
+<details>
 <summary>822. [2025-12-09] 【芯片】AWS正式发布Trainium 3芯片 | 性价比之王 | N3P工艺 | 算力和内存升级 | 两款机架SKU | 交换式拓扑网络 | NeuronCore | 开放软件生态 | 坚持风冷</summary><br>
 
 <a href="https://www.youtube.com/watch?v=tURnVlRcUMQ" target="_blank">
