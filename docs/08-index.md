@@ -1,4 +1,132 @@
 <details>
+<summary>832. [2025-12-10] 【访谈】AI如何改变软件工程 | Martin Fowler | AI变革 | 软件开发不确定性 | 氛围编程 | 用AI理解遗留代码 | 重构的重要性 | 敏捷开发 | 设计模式 | 零利率时代结束</summary><br>
+
+<a href="https://www.youtube.com/watch?v=IJ1v-mkxyO4" target="_blank">
+    <img src="https://img.youtube.com/vi/IJ1v-mkxyO4/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【访谈】AI如何改变软件工程 | Martin Fowler | AI变革 | 软件开发不确定性 | 氛围编程 | 用AI理解遗留代码 | 重构的重要性 | 敏捷开发 | 设计模式 | 零利率时代结束
+
+
+
+---
+
+</details>
+
+<details>
+<summary>831. [2025-12-11] 【访谈】AI末日不会到来 | 黄仁勋Joe Rogan访谈 | 特朗普 | 能源竞赛 | 无需恐惧AI | 1993年英伟达的至暗时刻 | 支持OpenAI | 扫厕所的少年 | 来自恐惧的动力</summary><br>
+
+<a href="https://www.youtube.com/watch?v=caKyQNfj9BM" target="_blank">
+    <img src="https://img.youtube.com/vi/caKyQNfj9BM/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【访谈】AI末日不会到来 | 黄仁勋Joe Rogan访谈 | 特朗普 | 能源竞赛 | 无需恐惧AI | 1993年英伟达的至暗时刻 | 支持OpenAI | 扫厕所的少年 | 来自恐惧的动力
+
+
+
+---
+
+</details>
+
+<details>
+<summary>830. [2025-12-12] 【人工智能】AI该有生存的权利么？| Amanda Askell | Claude背后的哲学家 | 如何塑造AI性格 | 学术理论与实际 | 道德超人 | 模型福祉 | 大陆哲学 | AI与人类的关系</summary><br>
+
+<a href="https://www.youtube.com/watch?v=p7PLCJJ8-H4" target="_blank">
+    <img src="https://img.youtube.com/vi/p7PLCJJ8-H4/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】AI该有生存的权利么？| Amanda Askell | Claude背后的哲学家 | 如何塑造AI性格 | 学术理论与实际 | 道德超人 | 模型福祉 | 大陆哲学 | AI与人类的关系
+
+
+
+---
+
+</details>
+
+<details>
+<summary>829. [2025-12-12] 【商业】SpaceX即将开启史上最大IPO | 1.5万亿美元 | 超过沙特阿美 | 三大增长引擎 | 星链 | 星舰 | 太空数据中心 | 二次发售 | 分拆上市搁置 | 太空经济</summary><br>
+
+<a href="https://www.youtube.com/watch?v=B7do35uCjnk" target="_blank">
+    <img src="https://img.youtube.com/vi/B7do35uCjnk/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【商业】SpaceX即将开启史上最大IPO | 1.5万亿美元 | 超过沙特阿美 | 三大增长引擎 | 星链 | 星舰 | 太空数据中心 | 二次发售 | 分拆上市搁置 | 太空经济
+
+
+
+---
+
+</details>
+
+<details>
+<summary>828. [2025-12-12] 【人工智能】OpenAI发布GPT-5.2 | 三个版本 | 实用价值拉满 | 代码测试创新高 | 幻觉更低 | 最强视觉模型 | 数学科学能力大提升 | 和迪士尼合作 | 成人模式 | 十周年回忆杀</summary><br>
+
+<a href="https://www.youtube.com/watch?v=lFuiCXU2CmE" target="_blank">
+    <img src="https://img.youtube.com/vi/lFuiCXU2CmE/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】OpenAI发布GPT-5.2 | 三个版本 | 实用价值拉满 | 代码测试创新高 | 幻觉更低 | 最强视觉模型 | 数学科学能力大提升 | 和迪士尼合作 | 成人模式 | 十周年回忆杀
+
+
+
+---
+
+</details>
+
+<details>
+<summary>827. [2025-12-13] 【人工智能】Evo-Memory为AI赋予进化记忆 | DeepMind新论文 | 测试时学习 | ExpRAG | ReMem反思性记忆 | 记忆优化过程 | 实验结果全面碾压</summary><br>
+
+<a href="https://www.youtube.com/watch?v=8c3D1yHp7QY" target="_blank">
+    <img src="https://img.youtube.com/vi/8c3D1yHp7QY/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】Evo-Memory为AI赋予进化记忆 | DeepMind新论文 | 测试时学习 | ExpRAG | ReMem反思性记忆 | 记忆优化过程 | 实验结果全面碾压
+
+
+
+---
+
+</details>
+
+<details>
+<summary>826. [2025-12-13] 【人工智能】迪士尼Disney搞双标？| 投资OpenAI十亿美元 | 授权200+IP形象 | 反手起诉谷歌规模化侵权 | AI行业与版权行业的争斗</summary><br>
+
+<a href="https://www.youtube.com/watch?v=x1pLHStoQ24" target="_blank">
+    <img src="https://img.youtube.com/vi/x1pLHStoQ24/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】迪士尼Disney搞双标？| 投资OpenAI十亿美元 | 授权200+IP形象 | 反手起诉谷歌规模化侵权 | AI行业与版权行业的争斗
+
+
+
+---
+
+</details>
+
+<details>
+<summary>825. [2025-12-14] 【访谈】Slack背后的男人 | Stewart Butterfield | 游戏失败的副产品 | 产品的效用曲线 | 拥有者的错觉 | 摩擦力与认知负担 | 超现实的类工作活动 | 个人传奇经历</summary><br>
+
+<a href="https://www.youtube.com/watch?v=LSiJPdxR6MY" target="_blank">
+    <img src="https://img.youtube.com/vi/LSiJPdxR6MY/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【访谈】Slack背后的男人 | Stewart Butterfield | 游戏失败的副产品 | 产品的效用曲线 | 拥有者的错觉 | 摩擦力与认知负担 | 超现实的类工作活动 | 个人传奇经历
+
+
+
+---
+
+</details>
+
+<details>
 <summary>824. [2025-12-10] 【分享】地平线苏箐最新演讲高清完整版 | 自动驾驶的原子弹时刻已过 | 未来三年不会有理论的跨越式变革 | 将迈向L4落地 | FSD | HSD | Autotaxi</summary><br>
 
 <a href="https://www.youtube.com/watch?v=knzDIRrllGo" target="_blank">
