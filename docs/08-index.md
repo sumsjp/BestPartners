@@ -1,4 +1,20 @@
 <details>
+<summary>833. [2025-12-15] 【人工智能】AI时代的高质量数据 | SurgeAI CEO Edwin Chen | 没融资ARR10 亿美元 | 精英部队 | AI品味和审美 | 错误的方向 | 多巴胺而非真相 | 强化学习环境</summary><br>
+
+<a href="https://www.youtube.com/watch?v=9Hfj9ZgodyE" target="_blank">
+    <img src="https://img.youtube.com/vi/9Hfj9ZgodyE/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】AI时代的高质量数据 | SurgeAI CEO Edwin Chen | 没融资ARR10 亿美元 | 精英部队 | AI品味和审美 | 错误的方向 | 多巴胺而非真相 | 强化学习环境
+
+
+
+---
+
+</details>
+
+<details>
 <summary>832. [2025-12-10] 【访谈】AI如何改变软件工程 | Martin Fowler | AI变革 | 软件开发不确定性 | 氛围编程 | 用AI理解遗留代码 | 重构的重要性 | 敏捷开发 | 设计模式 | 零利率时代结束</summary><br>
 
 <a href="https://www.youtube.com/watch?v=IJ1v-mkxyO4" target="_blank">
