@@ -1,4 +1,20 @@
 <details>
+<summary>835. [2025-12-16] 【播客】Anthropic将MCP捐给Linux基金会 | 创造者大卫·帕拉 | AAIF | MCP的起源 | 行业标准 | 私有化 | 信任与中立 | 安全 | 上下文膨胀 | 有状态</summary><br>
+
+<a href="https://www.youtube.com/watch?v=Mhj3I5lMDCE" target="_blank">
+    <img src="https://img.youtube.com/vi/Mhj3I5lMDCE/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【播客】Anthropic将MCP捐给Linux基金会 | 创造者大卫·帕拉 | AAIF | MCP的起源 | 行业标准 | 私有化 | 信任与中立 | 安全 | 上下文膨胀 | 有状态
+
+
+
+---
+
+</details>
+
+<details>
 <summary>834. [2025-12-15] 【人工智能】AI是一场泡沫吗？| 霍华德·马克斯 | 橡树资本传奇投资人 | 什么是泡沫 | 非理性繁荣 | 均值回归和拐点 | FOMO | 彩票思维 | 不确定性 | 债务融资 | SPV</summary><br>
 
 <a href="https://www.youtube.com/watch?v=baQ9j0JdWQo" target="_blank">
