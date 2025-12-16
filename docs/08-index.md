@@ -1,4 +1,20 @@
 <details>
+<summary>834. [2025-12-15] 【人工智能】AI是一场泡沫吗？| 霍华德·马克斯 | 橡树资本传奇投资人 | 什么是泡沫 | 非理性繁荣 | 均值回归和拐点 | FOMO | 彩票思维 | 不确定性 | 债务融资 | SPV</summary><br>
+
+<a href="https://www.youtube.com/watch?v=baQ9j0JdWQo" target="_blank">
+    <img src="https://img.youtube.com/vi/baQ9j0JdWQo/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】AI是一场泡沫吗？| 霍华德·马克斯 | 橡树资本传奇投资人 | 什么是泡沫 | 非理性繁荣 | 均值回归和拐点 | FOMO | 彩票思维 | 不确定性 | 债务融资 | SPV
+
+
+
+---
+
+</details>
+
+<details>
 <summary>833. [2025-12-15] 【人工智能】AI时代的高质量数据 | SurgeAI CEO Edwin Chen | 没融资ARR10 亿美元 | 精英部队 | AI品味和审美 | 错误的方向 | 多巴胺而非真相 | 强化学习环境</summary><br>
 
 <a href="https://www.youtube.com/watch?v=9Hfj9ZgodyE" target="_blank">
