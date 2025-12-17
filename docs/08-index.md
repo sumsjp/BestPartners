@@ -1,4 +1,20 @@
 <details>
+<summary>836. [2025-12-16] 【人工智能】Scale AI要被Meta毁了么？ | 毒药投资 | 客户流失 | 员工恐慌 | 估值暴跌 | 挖走Alexandr Wang | 薪酬大幅下降 | 多线自救 | 大规模裁员</summary><br>
+
+<a href="https://www.youtube.com/watch?v=w_LHhoVoXW0" target="_blank">
+    <img src="https://img.youtube.com/vi/w_LHhoVoXW0/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】Scale AI要被Meta毁了么？ | 毒药投资 | 客户流失 | 员工恐慌 | 估值暴跌 | 挖走Alexandr Wang | 薪酬大幅下降 | 多线自救 | 大规模裁员
+
+
+
+---
+
+</details>
+
+<details>
 <summary>835. [2025-12-16] 【播客】Anthropic将MCP捐给Linux基金会 | 创造者大卫·帕拉 | AAIF | MCP的起源 | 行业标准 | 私有化 | 信任与中立 | 安全 | 上下文膨胀 | 有状态</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Mhj3I5lMDCE" target="_blank">
