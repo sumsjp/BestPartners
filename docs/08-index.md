@@ -1,4 +1,20 @@
 <details>
+<summary>840. [2025-12-18] 【人工智能】Google发布Gemini 3.0 Flash | 主打速度 | 部分性能指标超过Pro | 平均Token用量少30% | AI搜索 | 效率与质量的极致平衡</summary><br>
+
+<a href="https://www.youtube.com/watch?v=sSpirKtNvOc" target="_blank">
+    <img src="https://img.youtube.com/vi/sSpirKtNvOc/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】Google发布Gemini 3.0 Flash | 主打速度 | 部分性能指标超过Pro | 平均Token用量少30% | AI搜索 | 效率与质量的极致平衡
+
+
+
+---
+
+</details>
+
+<details>
 <summary>839. [2025-12-18] 【读书】为什么你控制不了自己？|《自控力》| 什么是“自控” | 三种力量 | 意志力 | 决策疲劳 | 道德许可效应 | 管窥效应 | 那又如何效应 | 自我谅解 | 5分钟法则 | 睡眠和运动</summary><br>
 
 <a href="https://www.youtube.com/watch?v=YM7YspzS7Z4" target="_blank">
