@@ -1,4 +1,20 @@
 <details>
+<summary>838. [2025-12-17] 【人工智能】太空算力的想法靠谱吗？| SpaceX | 能源成本 | 冷却成本 | 太阳 | 宇宙真空 | 热辐射散热 | 宇宙辐射 | 太空垃圾 | 蓝色起源 | 杰夫·贝索斯</summary><br>
+
+<a href="https://www.youtube.com/watch?v=1pIVecYA_9A" target="_blank">
+    <img src="https://img.youtube.com/vi/1pIVecYA_9A/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【人工智能】太空算力的想法靠谱吗？| SpaceX | 能源成本 | 冷却成本 | 太阳 | 宇宙真空 | 热辐射散热 | 宇宙辐射 | 太空垃圾 | 蓝色起源 | 杰夫·贝索斯
+
+
+
+---
+
+</details>
+
+<details>
 <summary>837. [2025-12-17] 【播客】谷歌AI落后因为过于谨慎 | 谢尔盖·布林斯坦福对话 | 博士生时光 | 失败的创业点子 | PageRank | 承认错误 | 创新者的窘境 | 算法优化的潜力</summary><br>
 
 <a href="https://www.youtube.com/watch?v=l-z2cASNUMY" target="_blank">
