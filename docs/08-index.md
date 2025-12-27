@@ -1,4 +1,20 @@
 <details>
+<summary>857. [Business] Waymo's high-definition map failed? | San Francisco blackout | Google's self-driving c...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=8fagINP62oE" target="_blank">
+    <img src="https://img.youtube.com/vi/8fagINP62oE/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# [Business] Waymo's high-definition map failed? | San Francisco blackout | Google's self-driving c...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>856. [2025-12-27] 【人工智能】LangChain年度报告 | Agent现状 | 大厂如何落地 | 输出质量 | 延迟痛点 | 多模型 | 可观测性 | 2025趋势</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KcC1JCiHMk8" target="_blank">
