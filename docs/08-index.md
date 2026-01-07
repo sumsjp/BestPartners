@@ -1,4 +1,20 @@
 <details>
+<summary>883. [2026-01-06] [Sleep Trilogy Part 1] Are You Still Recklessly Staying Up Late? | Dangers of Staying Up Late | C...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=uCpR1oM_w3A" target="_blank">
+    <img src="https://img.youtube.com/vi/uCpR1oM_w3A/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# [Sleep Trilogy Part 1] Are You Still Recklessly Staying Up Late? | Dangers of Staying Up Late | C...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>882. [2026-01-06] [Artificial Intelligence] Sliding Window Recursion in Sequence Models | SWR Framework | Phalanx L...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=iyRRFezwkgo" target="_blank">
