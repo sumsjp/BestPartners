@@ -1,4 +1,20 @@
 <details>
+<summary>895. [2026-01-12] [Artificial Intelligence] The essence of intelligence is thinking | Ilya Sutskever | Inference-si...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=3VHGxWe2KeQ" target="_blank">
+    <img src="https://img.youtube.com/vi/3VHGxWe2KeQ/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# [Artificial Intelligence] The essence of intelligence is thinking | Ilya Sutskever | Inference-si...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>894. [2026-01-11] [Sleep Trilogy Part 3] Is the damage from staying up late truly irreversible? | Sleep Debt | Matt...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=i8_N97ukLcU" target="_blank">
