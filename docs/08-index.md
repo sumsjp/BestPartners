@@ -1,4 +1,20 @@
 <details>
+<summary>899. [Artificial Intelligence] Engram Architecture | New DeepSeek Paper | Breaking Through Transformer...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=oQ5hzuzqs5Y" target="_blank">
+    <img src="https://img.youtube.com/vi/oQ5hzuzqs5Y/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# [Artificial Intelligence] Engram Architecture | New DeepSeek Paper | Breaking Through Transformer...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>898. [2026-01-13] [Artificial Intelligence] Say Goodbye to Toy-like AI Use | The Ultimate Guide to Hint Engineering...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=f2_F6gfu2dk" target="_blank">
