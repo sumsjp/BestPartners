@@ -1,4 +1,20 @@
 <details>
+<summary>930. [Sharing] Digital Human Part 2! Look closely at the bear's feet in the background.</summary><br>
+
+<a href="https://www.youtube.com/watch?v=DFY091g3_9M" target="_blank">
+    <img src="https://img.youtube.com/vi/DFY091g3_9M/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# [Sharing] Digital Human Part 2! Look closely at the bear's feet in the background.
+
+
+
+---
+
+</details>
+
+<details>
 <summary>929. [Sharing] This is probably the next effect of AI digital humans.</summary><br>
 
 <a href="https://www.youtube.com/watch?v=6ApfcwxJm3k" target="_blank">
