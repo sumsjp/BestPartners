@@ -1,4 +1,20 @@
 <details>
+<summary>929. [Sharing] This is probably the next effect of AI digital humans.</summary><br>
+
+<a href="https://www.youtube.com/watch?v=6ApfcwxJm3k" target="_blank">
+    <img src="https://img.youtube.com/vi/6ApfcwxJm3k/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# [Sharing] This is probably the next effect of AI digital humans.
+
+
+
+---
+
+</details>
+
+<details>
 <summary>928. [2026-01-26] 【人工智能】你的工作正在被降级 | Anthropic报告 | Claude数据 | 人机协同 | 任务成功率 | 技能重构 | 生产力预测 | 劳动力市场 | GPD影响 | AI渗透 | 未来工作</summary><br>
 
 <a href="https://www.youtube.com/watch?v=N7Cg_NbE750" target="_blank">
