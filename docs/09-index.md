@@ -1,4 +1,20 @@
 <details>
+<summary>937. 【分享】数字人第三弹！大飞的视频好牛啊！</summary><br>
+
+<a href="https://www.youtube.com/watch?v=onngUGdWrR8" target="_blank">
+    <img src="https://img.youtube.com/vi/onngUGdWrR8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【分享】数字人第三弹！大飞的视频好牛啊！
+
+
+
+---
+
+</details>
+
+<details>
 <summary>936. [2026-01-29] 【人工智能】什么是神经网络 | 轻松入门AI (一) | 手写数字识别 | 权重与偏置 | Sigmoid函数 | 激活值 | 矩阵运算 | 机器学习 | 深度学习原理 | 3Blue1Brown</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Mb6TGZOnyfk" target="_blank">
