@@ -1,4 +1,20 @@
 <details>
+<summary>943. [Artificial Intelligence] Understanding Gradient Descent | Easy Introduction to AI (Part 2) | Cor...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=HylFtyFLkvU" target="_blank">
+    <img src="https://img.youtube.com/vi/HylFtyFLkvU/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# [Artificial Intelligence] Understanding Gradient Descent | Easy Introduction to AI (Part 2) | Cor...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>942. [2026-01-31] [Business] The Golden Age of AI Applications | Lampel | The Fifth Wave of Software | AI-Native Co...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=SZePy52I9Vc" target="_blank">
