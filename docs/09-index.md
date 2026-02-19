@@ -1,4 +1,20 @@
 <details>
+<summary>979. [Sharing] Humanity's Only Morality in the AI ​​Era | Brian Johnson | Blueprint Project | Reversin...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=a_eLQBNllqs" target="_blank">
+    <img src="https://img.youtube.com/vi/a_eLQBNllqs/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# [Sharing] Humanity's Only Morality in the AI ​​Era | Brian Johnson | Blueprint Project | Reversin...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>978. [2026-02-18] [Artificial Intelligence] Language is not the primary driving force of intelligence | Fei-Fei Li ...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kLLOxiUsZx4" target="_blank">
