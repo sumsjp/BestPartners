@@ -1,4 +1,36 @@
 <details>
+<summary>1055. 软件工程行业迈向多Agent时代 | Steve Yegg | 苦涩的教训 | 不可逆转的洪流 | 吸血鬼效应 | 拥抱变化</summary><br>
+
+<a href="https://www.youtube.com/watch?v=qvjVQJHrQ-M" target="_blank">
+    <img src="https://img.youtube.com/vi/qvjVQJHrQ-M/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 软件工程行业迈向多Agent时代 | Steve Yegg | 苦涩的教训 | 不可逆转的洪流 | 吸血鬼效应 | 拥抱变化
+
+
+
+---
+
+</details>
+
+<details>
+<summary>1054. Why Blizzard Entertainment went from greatness to mediocrity | Jeff Kaplan | Career Start | EverQ...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=lwaFjcFuhZA" target="_blank">
+    <img src="https://img.youtube.com/vi/lwaFjcFuhZA/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# Why Blizzard Entertainment went from greatness to mediocrity | Jeff Kaplan | Career Start | EverQ...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1053. [2026-03-25] The Life and Death Logic of SaaS | Atlassian CEO Mike | The End of SaaS | Paying for "Incompetenc...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7x8vu0EGxMY" target="_blank">
