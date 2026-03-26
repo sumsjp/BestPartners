@@ -1,4 +1,20 @@
 <details>
+<summary>1057. 数学正在经历分工变革 | 陶哲轩 & Mark Chen | AI的进步 | 局限性 | 埃尔德什问题 | 形式化验证 | 全新的理论框架 | AI不是神谕机</summary><br>
+
+<a href="https://www.youtube.com/watch?v=48lLiHkBfNg" target="_blank">
+    <img src="https://img.youtube.com/vi/48lLiHkBfNg/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 数学正在经历分工变革 | 陶哲轩 & Mark Chen | AI的进步 | 局限性 | 埃尔德什问题 | 形式化验证 | 全新的理论框架 | AI不是神谕机
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1056. [2026-03-26] Sora再见 | OpenAI关停服务 | 兴衰历程 | 危机涌现 | 版权之争 | Disney | 企业级市场竞争 | Grok | 技术走向商业落地</summary><br>
 
 <a href="https://www.youtube.com/watch?v=PnwOldwLuVM" target="_blank">
