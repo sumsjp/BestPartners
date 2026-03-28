@@ -1,4 +1,20 @@
 <details>
+<summary>1061. What are the engineers' trump cards in the AI ​​era? | Michael Bolin | Former Meta E9 | Underlyin...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=w_XtnRX4mO0" target="_blank">
+    <img src="https://img.youtube.com/vi/w_XtnRX4mO0/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# What are the engineers' trump cards in the AI ​​era? | Michael Bolin | Former Meta E9 | Underlyin...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1060. [2026-03-28] Why Vibe Coding is Anti-Human | Kaggle Guru Jeremy Howard | Three-Stage Architecture | Fine-tunin...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JqYmFYZ03A8" target="_blank">
