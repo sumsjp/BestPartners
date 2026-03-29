@@ -1,4 +1,20 @@
 <details>
+<summary>1063. 所有人都将通往世界模型 | 谢赛宁6小时访谈 | AMI Labs | 逃离硅谷 | 表征学习 | Rich Sutton | Yann Lecun | 两次拒绝Ilya | 语言是毒药 | 人文关怀</summary><br>
+
+<a href="https://www.youtube.com/watch?v=vuhHraEhVeo" target="_blank">
+    <img src="https://img.youtube.com/vi/vuhHraEhVeo/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 所有人都将通往世界模型 | 谢赛宁6小时访谈 | AMI Labs | 逃离硅谷 | 表征学习 | Rich Sutton | Yann Lecun | 两次拒绝Ilya | 语言是毒药 | 人文关怀
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1062. [2026-03-29] 伊朗冲突与AI狂欢 | All-In Podcast | 特朗普账户 | 财富分配 | 经济通胀 | AI商业化 | 杀手级应用 | 公关危机 | 社会冲击 | 开源AI</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1KrcBzdfeYo" target="_blank">
