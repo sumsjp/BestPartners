@@ -1,4 +1,20 @@
 <details>
+<summary>1068. AlphaGo Ten Years in Review | DeepMind Podcast | Why Go? | Quick Thinking vs. Slow Thinking | Lee...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=UKPARZZGxqk" target="_blank">
+    <img src="https://img.youtube.com/vi/UKPARZZGxqk/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# AlphaGo Ten Years in Review | DeepMind Podcast | Why Go? | Quick Thinking vs. Slow Thinking | Lee...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1067. [2026-04-01] Claude Code's 510,000 lines of source code accidentally leaked | Employee error | Instantly clone...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kz5T7J-F53M" target="_blank">
