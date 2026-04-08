@@ -1,4 +1,20 @@
 <details>
+<summary>1075. The Truth Behind the AI ​​Empire | Karen Hao | Whistleblower | The Origins of Artificial Intellig...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=wP-CXUzcLGs" target="_blank">
+    <img src="https://img.youtube.com/vi/wP-CXUzcLGs/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# The Truth Behind the AI ​​Empire | Karen Hao | Whistleblower | The Origins of Artificial Intellig...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1074. The Cognitive Revolution in Mathematics | Terence Tao | Kepler | Tycho Brahe | The Copernican Rev...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-caLZ9oiOBk" target="_blank">
