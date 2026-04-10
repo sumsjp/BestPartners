@@ -1,4 +1,20 @@
 <details>
+<summary>1078. [2026-04-10] The Self-Evolution of Large Language Models | Robert Langer | Shinka Evolve | AlphaEvolve | Signi...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=m17jqrqBZSc" target="_blank">
+    <img src="https://img.youtube.com/vi/m17jqrqBZSc/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# The Self-Evolution of Large Language Models | Robert Langer | Shinka Evolve | AlphaEvolve | Signi...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1077. [2026-04-09] Intel的遗憾 | 帕特·基辛格 | 童年生活 | 进入英特尔 | VMware | 重回英特尔 | 芯片战争 | 美国半导体产业 | 五年重塑愿景 | 家庭与信仰 | 科技领袖的责任</summary><br>
 
 <a href="https://www.youtube.com/watch?v=yprCM0o670I" target="_blank">
