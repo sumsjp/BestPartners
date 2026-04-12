@@ -1,4 +1,20 @@
 <details>
+<summary>1083. Sam Altman, the "Man of a Thousand Faces" | A 10,000-Word Report in The New Yorker | Top-Secret I...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=1z--dWnsKas" target="_blank">
+    <img src="https://img.youtube.com/vi/1z--dWnsKas/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# Sam Altman, the "Man of a Thousand Faces" | A 10,000-Word Report in The New Yorker | Top-Secret I...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1082. [2026-04-12] Warren Buffett's first CNBC interview since stepping down | Restarting the charity lunch auction ...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=t2Ql6K8k17M" target="_blank">
