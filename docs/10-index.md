@@ -1,4 +1,20 @@
 <details>
+<summary>1084. [2026-04-13] 2027 is the year of the singularity for enterprise AI | Sundar Pichai | Google CEO's tenth annive...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=aUiTT_nbtME" target="_blank">
+    <img src="https://img.youtube.com/vi/aUiTT_nbtME/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 2027 is the year of the singularity for enterprise AI | Sundar Pichai | Google CEO's tenth annive...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1083. Sam Altman, the "Man of a Thousand Faces" | A 10,000-Word Report in The New Yorker | Top-Secret I...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=1z--dWnsKas" target="_blank">
