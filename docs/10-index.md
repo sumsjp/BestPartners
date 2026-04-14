@@ -1,4 +1,20 @@
 <details>
+<summary>1087. OpenClaw会闭源么 | 彼得·斯坦伯格 | AI Engineer大会 | 黑客式创新 | 打破数据壁垒 | 黑暗工厂模式 | 品味 | Token处理加速 | 梦境功能 | 安全争议</summary><br>
+
+<a href="https://www.youtube.com/watch?v=Vnph0rvyC9E" target="_blank">
+    <img src="https://img.youtube.com/vi/Vnph0rvyC9E/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# OpenClaw会闭源么 | 彼得·斯坦伯格 | AI Engineer大会 | 黑客式创新 | 打破数据壁垒 | 黑暗工厂模式 | 品味 | Token处理加速 | 梦境功能 | 安全争议
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1086. [2026-04-14] Global GPU Shortage Crisis | H100 Rental Prices Surge 40% | DRAM and NAND Supply Falls Short of D...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AFDPoBhhcV8" target="_blank">
