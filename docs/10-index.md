@@ -1,4 +1,20 @@
 <details>
+<summary>1085. [2026-04-13] Meta-Harness | Harness工程代码能自我迭代吗 | 斯坦福论文 | 文本优化方法的缺陷 | coding agent | 提议器 | 搜索循环 | 局限性 | 交给AI</summary><br>
+
+<a href="https://www.youtube.com/watch?v=nkPAS2hTqmw" target="_blank">
+    <img src="https://img.youtube.com/vi/nkPAS2hTqmw/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# Meta-Harness | Harness工程代码能自我迭代吗 | 斯坦福论文 | 文本优化方法的缺陷 | coding agent | 提议器 | 搜索循环 | 局限性 | 交给AI
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1084. [2026-04-13] 2027 is the year of the singularity for enterprise AI | Sundar Pichai | Google CEO's tenth annive...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=aUiTT_nbtME" target="_blank">
