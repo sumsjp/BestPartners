@@ -1,4 +1,20 @@
 <details>
+<summary>1088. The Post-AGI Era May Be Realized Within 50 Years | Demis Hassabis | Rarely Reveals His True Feeli...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=zqMZ_oUvhxY" target="_blank">
+    <img src="https://img.youtube.com/vi/zqMZ_oUvhxY/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# The Post-AGI Era May Be Realized Within 50 Years | Demis Hassabis | Rarely Reveals His True Feeli...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1087. OpenClaw会闭源么 | 彼得·斯坦伯格 | AI Engineer大会 | 黑客式创新 | 打破数据壁垒 | 黑暗工厂模式 | 品味 | Token处理加速 | 梦境功能 | 安全争议</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Vnph0rvyC9E" target="_blank">
