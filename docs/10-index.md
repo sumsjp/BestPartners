@@ -1,4 +1,20 @@
 <details>
+<summary>1089. [2026-04-16] Who exactly is Satoshi Nakamoto? | A 10,000-word report from The New York Times | A 17-year myste...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=5-3z3kzeudg" target="_blank">
+    <img src="https://img.youtube.com/vi/5-3z3kzeudg/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# Who exactly is Satoshi Nakamoto? | A 10,000-word report from The New York Times | A 17-year myste...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1088. The Post-AGI Era May Be Realized Within 50 Years | Demis Hassabis | Rarely Reveals His True Feeli...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zqMZ_oUvhxY" target="_blank">
