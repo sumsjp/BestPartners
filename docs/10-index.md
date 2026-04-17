@@ -1,4 +1,20 @@
 <details>
+<summary>1091. [2026-04-17] Hermes Agent和OpenClaw有什么区别 | Nous Research | 控制中枢 | Agent自身执行循环 | 自我提升与知识生成 | 分层记忆体系 | 自动化能力 | 抄袭风波</summary><br>
+
+<a href="https://www.youtube.com/watch?v=NbldZVdusKo" target="_blank">
+    <img src="https://img.youtube.com/vi/NbldZVdusKo/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# Hermes Agent和OpenClaw有什么区别 | Nous Research | 控制中枢 | Agent自身执行循环 | 自我提升与知识生成 | 分层记忆体系 | 自动化能力 | 抄袭风波
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1090. 把你的同事炼化成Skill？| Github爆火项目 | 职场打工人 | 什么是Skill | Anthropic | 提示词 | 开放标准格式 | 反蒸馏 | 版权问题 | 静态快照</summary><br>
 
 <a href="https://www.youtube.com/watch?v=KqxNN_-J5k4" target="_blank">
