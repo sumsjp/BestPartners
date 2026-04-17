@@ -1,4 +1,20 @@
 <details>
+<summary>1092. Compression is everything | Michael Friedman | Fields Medal winner | Invention from 3,000 years a...</summary><br>
+
+<a href="https://www.youtube.com/watch?v=fOmkQQnTHIw" target="_blank">
+    <img src="https://img.youtube.com/vi/fOmkQQnTHIw/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# Compression is everything | Michael Friedman | Fields Medal winner | Invention from 3,000 years a...
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1091. [2026-04-17] Hermes Agent和OpenClaw有什么区别 | Nous Research | 控制中枢 | Agent自身执行循环 | 自我提升与知识生成 | 分层记忆体系 | 自动化能力 | 抄袭风波</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NbldZVdusKo" target="_blank">
