@@ -1,4 +1,20 @@
 <details>
+<summary>1090. 把你的同事炼化成Skill？| Github爆火项目 | 职场打工人 | 什么是Skill | Anthropic | 提示词 | 开放标准格式 | 反蒸馏 | 版权问题 | 静态快照</summary><br>
+
+<a href="https://www.youtube.com/watch?v=KqxNN_-J5k4" target="_blank">
+    <img src="https://img.youtube.com/vi/KqxNN_-J5k4/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 把你的同事炼化成Skill？| Github爆火项目 | 职场打工人 | 什么是Skill | Anthropic | 提示词 | 开放标准格式 | 反蒸馏 | 版权问题 | 静态快照
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1089. [2026-04-16] Who exactly is Satoshi Nakamoto? | A 10,000-word report from The New York Times | A 17-year myste...</summary><br>
 
 <a href="https://www.youtube.com/watch?v=5-3z3kzeudg" target="_blank">
