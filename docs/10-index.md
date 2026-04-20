@@ -1,4 +1,20 @@
 <details>
+<summary>1094. [2026-04-20] 研究实习生级别AI即将落地 | Jakub Pachocki | OpenAI首席科学家 | AGI路线图 | 强化学习 | 人机交互终极形态 | 持续学习 | 思维链监测 | AI对齐</summary><br>
+
+<a href="https://www.youtube.com/watch?v=AJMyPGI2k-k" target="_blank">
+    <img src="https://img.youtube.com/vi/AJMyPGI2k-k/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 研究实习生级别AI即将落地 | Jakub Pachocki | OpenAI首席科学家 | AGI路线图 | 强化学习 | 人机交互终极形态 | 持续学习 | 思维链监测 | AI对齐
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1093. [2026-04-19] 万物皆是Token | 英伟达的护城河 | 黄仁勋 | 生态能力 | 供应链锁定 | 硬件瓶颈两三年解决 | 谷歌TPU | CUDA | 只做必要之事 | 不应限制向中国禁售芯片 | 加速计算的初衷</summary><br>
 
 <a href="https://www.youtube.com/watch?v=voSMa98_K-Y" target="_blank">
