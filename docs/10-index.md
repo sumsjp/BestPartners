@@ -1,4 +1,20 @@
 <details>
+<summary>1098. [2026-04-22] Optimus Gen 3灵巧手五项专利解读 | Tesla | 25个自由度 | 整手及保护装置 | 前臂 | 手腕 | 手指 | 缆线布设 | 仿生 | 机器人量产</summary><br>
+
+<a href="https://www.youtube.com/watch?v=Rgj_jS3pAH8" target="_blank">
+    <img src="https://img.youtube.com/vi/Rgj_jS3pAH8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# Optimus Gen 3灵巧手五项专利解读 | Tesla | 25个自由度 | 整手及保护装置 | 前臂 | 手腕 | 手指 | 缆线布设 | 仿生 | 机器人量产
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1097. [2026-04-21] OpenAI CEO和CFO为何决裂 | M.G. Siegler | Sam Altman | 苹果是否会收购Anthropic | Meta迷失在AI赛道 | DeepMind当初为何拒绝Meta</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zeGT2Go2Cvs" target="_blank">
