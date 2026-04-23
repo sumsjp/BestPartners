@@ -1,4 +1,20 @@
 <details>
+<summary>1099. [2026-04-23] 苹果下一任接班人终于确定 | 硬件负责人约翰·特纳斯 | 加入苹果25年 | 领导Vision Pro | M芯片成功替换 | 蝴蝶键盘折戟 | AI能力不足 | 能否扭转颓势</summary><br>
+
+<a href="https://www.youtube.com/watch?v=lDxdZ7B0TeE" target="_blank">
+    <img src="https://img.youtube.com/vi/lDxdZ7B0TeE/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 苹果下一任接班人终于确定 | 硬件负责人约翰·特纳斯 | 加入苹果25年 | 领导Vision Pro | M芯片成功替换 | 蝴蝶键盘折戟 | AI能力不足 | 能否扭转颓势
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1098. [2026-04-22] Optimus Gen 3灵巧手五项专利解读 | Tesla | 25个自由度 | 整手及保护装置 | 前臂 | 手腕 | 手指 | 缆线布设 | 仿生 | 机器人量产</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Rgj_jS3pAH8" target="_blank">
