@@ -1,4 +1,20 @@
 <details>
+<summary>1100. [2026-04-24] Agent Harness十二大模块完全解析 | Harness工程 | 影响模型性能 | Anthropic | OpenAI | LangGraph | 七大架构抉择</summary><br>
+
+<a href="https://www.youtube.com/watch?v=S36ri23-l60" target="_blank">
+    <img src="https://img.youtube.com/vi/S36ri23-l60/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# Agent Harness十二大模块完全解析 | Harness工程 | 影响模型性能 | Anthropic | OpenAI | LangGraph | 七大架构抉择
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1099. [2026-04-23] 苹果下一任接班人终于确定 | 硬件负责人约翰·特纳斯 | 加入苹果25年 | 领导Vision Pro | M芯片成功替换 | 蝴蝶键盘折戟 | AI能力不足 | 能否扭转颓势</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lDxdZ7B0TeE" target="_blank">
