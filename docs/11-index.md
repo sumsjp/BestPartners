@@ -1,4 +1,20 @@
 <details>
+<summary>1104. [2026-04-27] 投资中最愚蠢的事 | 霍华德·马克斯 | 橡树资本创始人 | 当前市场的位置 | 人性规律 | 买入的依据 | 成长投资还是价值投资 | 什么时候卖出或持有 | 复利机器的稀缺性</summary><br>
+
+<a href="https://www.youtube.com/watch?v=U8eB7Le-zic" target="_blank">
+    <img src="https://img.youtube.com/vi/U8eB7Le-zic/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 投资中最愚蠢的事 | 霍华德·马克斯 | 橡树资本创始人 | 当前市场的位置 | 人性规律 | 买入的依据 | 成长投资还是价值投资 | 什么时候卖出或持有 | 复利机器的稀缺性
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1103. [2026-04-26] 芯片公司Cerebras冲刺IPO | 估值230亿美元 | OpenAI 300亿采购大单 | 推理速度是Blackwell两倍 | CEO安德鲁·费尔德曼 | 五年试错 | 商业化落地</summary><br>
 
 <a href="https://www.youtube.com/watch?v=25HMbgVCcUk" target="_blank">
