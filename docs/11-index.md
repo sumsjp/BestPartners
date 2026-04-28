@@ -1,4 +1,20 @@
 <details>
+<summary>1106. [2026-04-28] Meta和微软同时优化近两万人 | 大规模裁员 | 自愿买断计划 | 70法则 | 进攻性优化 | AI替代和大规模AI基础建设投入 | 员工成为AI训练数据 | 职场竞争力究竟是什么</summary><br>
+
+<a href="https://www.youtube.com/watch?v=AHaCGv1Qhb0" target="_blank">
+    <img src="https://img.youtube.com/vi/AHaCGv1Qhb0/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# Meta和微软同时优化近两万人 | 大规模裁员 | 自愿买断计划 | 70法则 | 进攻性优化 | AI替代和大规模AI基础建设投入 | 员工成为AI训练数据 | 职场竞争力究竟是什么
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1105. [2026-04-27] Google Next '26全盘点 | AI企业落地 | 1800亿美元投资 | Agent企业蓝图五层架构 | 第八代TPU | 可信上下文 | 跨云湖仓 | 安全防御 | 工作区智能</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ouSb6UoJqyc" target="_blank">
