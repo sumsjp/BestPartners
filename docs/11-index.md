@@ -1,4 +1,52 @@
 <details>
+<summary>1109. [2026-04-28] 扩散模型是如何工作的 | 斯坦福CME296第一课 | Diffusion | 随机噪声 | 去噪 | 高斯分布 | 方差调度 | 各向同性 | 贝叶斯定理 | 詹森不等式 | ELBO | KL散度</summary><br>
+
+<a href="https://www.youtube.com/watch?v=vzhvhpeOyLU" target="_blank">
+    <img src="https://img.youtube.com/vi/vzhvhpeOyLU/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 扩散模型是如何工作的 | 斯坦福CME296第一课 | Diffusion | 随机噪声 | 去噪 | 高斯分布 | 方差调度 | 各向同性 | 贝叶斯定理 | 詹森不等式 | ELBO | KL散度
+
+
+
+---
+
+</details>
+
+<details>
+<summary>1108. [2026-04-29] 【分享】AI时代，生命科学的下一场跃迁 | 李开复对话英矽智能CEO Alex Zhavoronkov</summary><br>
+
+<a href="https://www.youtube.com/watch?v=njlHe-EfklE" target="_blank">
+    <img src="https://img.youtube.com/vi/njlHe-EfklE/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 【分享】AI时代，生命科学的下一场跃迁 | 李开复对话英矽智能CEO Alex Zhavoronkov
+
+
+
+---
+
+</details>
+
+<details>
+<summary>1107. [2026-04-29] 两年内将实现AGI | 罗福莉 | 小米大模型负责人 | OpenClaw的颠覆性 | 算力用卡比例调整 | 代码的强泛化性 | MiMo-V2 | 独特的团队模式 | AGI时间点</summary><br>
+
+<a href="https://www.youtube.com/watch?v=IWHALdLoLjc" target="_blank">
+    <img src="https://img.youtube.com/vi/IWHALdLoLjc/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 两年内将实现AGI | 罗福莉 | 小米大模型负责人 | OpenClaw的颠覆性 | 算力用卡比例调整 | 代码的强泛化性 | MiMo-V2 | 独特的团队模式 | AGI时间点
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1106. [2026-04-28] Meta和微软同时优化近两万人 | 大规模裁员 | 自愿买断计划 | 70法则 | 进攻性优化 | AI替代和大规模AI基础建设投入 | 员工成为AI训练数据 | 职场竞争力究竟是什么</summary><br>
 
 <a href="https://www.youtube.com/watch?v=AHaCGv1Qhb0" target="_blank">
