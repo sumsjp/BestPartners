@@ -1108,3 +1108,4 @@ idx,id,title,url,date
 1107,IWHALdLoLjc,两年内将实现AGI | 罗福莉 | 小米大模型负责人 | OpenClaw的颠覆性 | 算力用卡比例调整 | 代码的强泛化性 | MiMo-V2 | 独特的团队模式 | AGI时间点,https://www.youtube.com/watch?v=IWHALdLoLjc,2026-04-29
 1108,njlHe-EfklE,【分享】AI时代，生命科学的下一场跃迁 | 李开复对话英矽智能CEO Alex Zhavoronkov,https://www.youtube.com/watch?v=njlHe-EfklE,2026-04-29
 1109,vzhvhpeOyLU,扩散模型是如何工作的 | 斯坦福CME296第一课 | Diffusion | 随机噪声 | 去噪 | 高斯分布 | 方差调度 | 各向同性 | 贝叶斯定理 | 詹森不等式 | ELBO | KL散度,https://www.youtube.com/watch?v=vzhvhpeOyLU,2026-04-28
+1110,xGirTJSQ5pQ,Decoupled DiLoCo | DeepMind新论文 | Jeff Dean | 突破超大规模模型训练瓶颈 | SPMD | CAP | 学习器 | 同步器 | 混沌工程 | 跨地域分布式计算,https://www.youtube.com/watch?v=xGirTJSQ5pQ,2026-04-29
