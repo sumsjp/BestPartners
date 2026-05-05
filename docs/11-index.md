@@ -1,4 +1,20 @@
 <details>
+<summary>1120. [2026-05-05] 2040机器人终局之战 | Jim Fan | 具身智能 | 模型策略 | VLA | 视频世界模型 | DreamZero | 世界动作模型 | UMI | EgoScale | 规模法则</summary><br>
+
+<a href="https://www.youtube.com/watch?v=ZChklK4iMbk" target="_blank">
+    <img src="https://img.youtube.com/vi/ZChklK4iMbk/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# 2040机器人终局之战 | Jim Fan | 具身智能 | 模型策略 | VLA | 视频世界模型 | DreamZero | 世界动作模型 | UMI | EgoScale | 规模法则
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1119. [2026-05-04] 追觅”狂人“俞浩 | 保送清华 | 不确定性 | 多品类 | 认知偏见 | 组合式创造 | N+1逻辑 | 创新四象限 | 反常识扩张 | 定价策略 | 组织管理 | 反华为 | 百万亿美元公司</summary><br>
 
 <a href="https://www.youtube.com/watch?v=Aj8qVa4QbEg" target="_blank">
