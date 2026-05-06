@@ -1,4 +1,20 @@
 <details>
+<summary>1121. [2026-05-06] AI的代价是一亿人生命 | Paul Tudor Jones | 传奇交易员 | 向巴菲特致歉 | 复利的力量 | 交易和投资 | AI的风险 | 市场催化时刻 | 主权债务泡沫 | 估值决定长期回报</summary><br>
+
+<a href="https://www.youtube.com/watch?v=2s_ZflRVTcs" target="_blank">
+    <img src="https://img.youtube.com/vi/2s_ZflRVTcs/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# AI的代价是一亿人生命 | Paul Tudor Jones | 传奇交易员 | 向巴菲特致歉 | 复利的力量 | 交易和投资 | AI的风险 | 市场催化时刻 | 主权债务泡沫 | 估值决定长期回报
+
+
+
+---
+
+</details>
+
+<details>
 <summary>1120. [2026-05-05] 2040机器人终局之战 | Jim Fan | 具身智能 | 模型策略 | VLA | 视频世界模型 | DreamZero | 世界动作模型 | UMI | EgoScale | 规模法则</summary><br>
 
 <a href="https://www.youtube.com/watch?v=ZChklK4iMbk" target="_blank">
